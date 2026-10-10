@@ -1,0 +1,19 @@
+{
+  "id": "art-ba96695650b60a91",
+  "sourceId": "1gKvcvwaSV8kmvkzRhYggTedjkUWCrnzK",
+  "sourceIndex": 92,
+  "name": "紫藤灯语",
+  "original": "Cache_-2799b8ba0f306037.jpg",
+  "width": 832,
+  "height": 1400,
+  "ratio": 0.5942857142857143,
+  "legacy": false,
+  "thumbnail": "assets/layers/7df409ef03962f57ed764132.webp",
+  "assets": {
+    "character": "assets/layers/2b8f93ab682b4f048504f7a5.webp",
+    "background": "assets/layers/db23c04f899e9e6a5cd9ca63.webp",
+    "ui": "assets/layers/9a812ca3d9e2ca50765b5551.webp",
+    "structure": "assets/layers/a9bd98aab2c454eedc81f019.webp",
+    "backgroundScale": 1
+  }
+}

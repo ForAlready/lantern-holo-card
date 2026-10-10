@@ -1,0 +1,19 @@
+{
+  "id": "art-10f5adaae53cdcda",
+  "sourceId": "1LlgVXZKuGfbxUOAouhJlDy0IuI7OflSv",
+  "sourceIndex": 171,
+  "name": "松云隐居",
+  "original": "116529006_p0.jpg",
+  "width": 1600,
+  "height": 876,
+  "ratio": 1.82648401826484,
+  "legacy": false,
+  "thumbnail": "assets/layers/a7f0b6f18e209906f06afd4a.webp",
+  "assets": {
+    "character": "assets/layers/2db2d979e85b3b8e37af3729.webp",
+    "background": "assets/layers/8513abfff9c15696a9bc5d08.webp",
+    "ui": "assets/layers/219b4464b110ffc0f96d3ace.webp",
+    "structure": "assets/layers/95618c9568bc4686710d1875.webp",
+    "backgroundScale": 1
+  }
+}

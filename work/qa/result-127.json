@@ -1,0 +1,19 @@
+{
+  "id": "art-1522b8129dc9c553",
+  "sourceId": "12Dnvdp0uR9k8v9RokUd9ukBiKy4CXpZW",
+  "sourceIndex": 127,
+  "name": "糖彩指尖",
+  "original": "Cache_-695157388542137a.jpg",
+  "width": 967,
+  "height": 1600,
+  "ratio": 0.604375,
+  "legacy": false,
+  "thumbnail": "assets/layers/78194415c0e76b80d90cd349.webp",
+  "assets": {
+    "character": "assets/layers/66dc8d079bfee9f462e1b8fe.webp",
+    "background": "assets/layers/2c48d8190fd603e1350fe97f.webp",
+    "ui": "assets/layers/519e8c4529987d881a0ba007.webp",
+    "structure": "assets/layers/d51171c888daf61a94307524.webp",
+    "backgroundScale": 1
+  }
+}

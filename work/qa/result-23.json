@@ -1,0 +1,19 @@
+{
+  "id": "art-ef0a9e8d31b1f339",
+  "sourceId": "1O3nLQtIXgkZq1fw1DmntfFYfKnYk8WY3",
+  "sourceIndex": 23,
+  "name": "晴窗微风",
+  "original": "Cache_708b74490751d43c.jpg",
+  "width": 1032,
+  "height": 1600,
+  "ratio": 0.645,
+  "legacy": false,
+  "thumbnail": "assets/layers/9bb08dd8fea3cd1308283886.webp",
+  "assets": {
+    "character": "assets/layers/f3932ea93504b90c12de4e3d.webp",
+    "background": "assets/layers/96f7f312d286a65adc53a6d7.webp",
+    "ui": "assets/layers/c6e6227c4c547b93cbab5978.webp",
+    "structure": "assets/layers/7aed7e60819ae9ae74de37e0.webp",
+    "backgroundScale": 1
+  }
+}

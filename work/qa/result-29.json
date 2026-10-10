@@ -1,0 +1,19 @@
+{
+  "id": "art-57a270da283b8d70",
+  "sourceId": "1lS5Y7WWGTjdM-JDErQ4F0u3H0VLP6Cjw",
+  "sourceIndex": 29,
+  "name": "星环银羽",
+  "original": "Cache_-3e2ce487586071b3.jpg",
+  "width": 1132,
+  "height": 1600,
+  "ratio": 0.7075,
+  "legacy": false,
+  "thumbnail": "assets/layers/00bcdd496aa13ebc92ca60be.webp",
+  "assets": {
+    "character": "assets/layers/1d73dd216e6688aef1ae42fc.webp",
+    "background": "assets/layers/0d0cec426c92a2d6c9fcce98.webp",
+    "ui": "assets/layers/af273c2489066cdf214626da.webp",
+    "structure": "assets/layers/a1273e2b3b9ee466976b7bbf.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "index": 44,
+  "id": "1o5VZj_zctTTthlV4gOElGSqVbdK64QkD",
+  "title": "Cache_-1c45ebedb77b26c5.jpg",
+  "name": "青歌礼盒",
+  "width": 2148,
+  "height": 3050,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-44",
+  "proxyPath": "work/layers/proxy-44.jpg",
+  "maskPath": "work/layers/mask-44-recovered-v3.png",
+  "backgroundPath": "work/layers/background-44.png",
+  "status": "needs-composite-review",
+  "repairNote": "Regenerated exact-coordinate single mask; gift box glass, doll and clothing solid white; removed old internal alpha holes. Needs final RGB composite inspection."
+}

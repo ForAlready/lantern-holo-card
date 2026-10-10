@@ -1,0 +1,20 @@
+{
+  "index": 66,
+  "id": "1QDZblAlLJUR0dr-VZKrpBCQx4b_CzfkZ",
+  "title": "Cache_2bd8ca1ccfe6267f.jpg",
+  "name": "蓝窗初醒",
+  "width": 2480,
+  "height": 3508,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-66",
+  "proxyPath": "work/layers/proxy-66.jpg",
+  "maskPath": "work/layers/mask-66-root-v1.png",
+  "backgroundPath": "work/layers/background-66-root-v1.png",
+  "status": "needs-composite-review",
+  "notes": "Original RGB foreground with single generated mask and separately cleaned or supplemented background.",
+  "subjectRect": [
+    0.019,
+    0.052,
+    0.893,
+    0.94
+  ]
+}

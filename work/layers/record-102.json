@@ -1,0 +1,20 @@
+{
+  "index": 102,
+  "id": "15RbWcU1dDZx8r7_kgH9ar8smhvHGJVbj",
+  "title": "Cache_-163d4b7671076f1f.jpg",
+  "name": "信笺微光",
+  "width": 738,
+  "height": 1600,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-102",
+  "proxyPath": "work/layers/proxy-102.jpg",
+  "maskPath": "work/layers/mask-102.png",
+  "backgroundPath": "work/layers/background-102.png",
+  "subjectRect": [
+    0,
+    0.554,
+    1,
+    0.446
+  ],
+  "status": "needs-composite-review",
+  "notes": "SINGLE white silhouette + generated correspondence room background replacing original flat gray. Preserve original lower-half composition; register generated mask bbox with subjectRect. Original source unavailable, surviving proxy used."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "art-298f99412935cc3a",
+  "sourceId": "1jZLb4e7JL4ItlU0ui8RhyRuZloZe7My5",
+  "sourceIndex": 199,
+  "name": "花厅轻候",
+  "original": "108161957_p0_master1200.jpg",
+  "width": 957,
+  "height": 1600,
+  "ratio": 0.598125,
+  "legacy": false,
+  "thumbnail": "assets/layers/103628c775895d351e003339.webp",
+  "assets": {
+    "character": "assets/layers/aa889834fefbb9a0ae8c3851.webp",
+    "background": "assets/layers/b8c6104e888ae63413781c32.webp",
+    "ui": "assets/layers/57505d5af0bcf190da3b8522.webp",
+    "structure": "assets/layers/ba9eeb594df5bad8dc7de152.webp",
+    "backgroundScale": 1
+  }
+}

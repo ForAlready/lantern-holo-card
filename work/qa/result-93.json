@@ -1,0 +1,19 @@
+{
+  "id": "art-7aabbfd92713d97e",
+  "sourceId": "1CowJg1ZOzkJ9yVBvDCsjfYxrT2fzk1oz",
+  "sourceIndex": 93,
+  "name": "街角静候",
+  "original": "Cache_-3f025b324eee4460.png",
+  "width": 797,
+  "height": 1400,
+  "ratio": 0.5692857142857143,
+  "legacy": false,
+  "thumbnail": "assets/layers/418a133fd0069a2d5c8495f1.webp",
+  "assets": {
+    "character": "assets/layers/d7cb8b8bfaea7b1cad89f99e.webp",
+    "background": "assets/layers/55defb82c6d57eaa1e40c749.webp",
+    "ui": "assets/layers/c313372d59b1243567e2ff78.webp",
+    "structure": "assets/layers/cb562e2f6689dfe4fb462a9e.webp",
+    "backgroundScale": 1
+  }
+}

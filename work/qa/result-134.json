@@ -1,0 +1,19 @@
+{
+  "id": "art-6312aa1f7a75fdbd",
+  "sourceId": "1PWYLAu4i5SHRhgYzbSJJc9rsundY50mq",
+  "sourceIndex": 134,
+  "name": "雨窗侧影",
+  "original": "Cache_-50c7607182feef7f.jpg",
+  "width": 1100,
+  "height": 1600,
+  "ratio": 0.6875,
+  "legacy": false,
+  "thumbnail": "assets/layers/6014f3274beeccec37fe8c8f.webp",
+  "assets": {
+    "character": "assets/layers/b55aa2dc56514f97519190a7.webp",
+    "background": "assets/layers/4e6be96232cefc88852ad0cb.webp",
+    "ui": "assets/layers/6162c228dbaa88b3d1c53006.webp",
+    "structure": "assets/layers/c20d9a8af56ac94f3345cb8f.webp",
+    "backgroundScale": 1
+  }
+}

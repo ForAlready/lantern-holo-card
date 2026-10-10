@@ -1,0 +1,19 @@
+{
+  "index": 187,
+  "id": "1BMmFRld_op9TvdrETkaUVfd4Aa7Hee6-",
+  "title": "101231662_p0_master1200.jpg",
+  "name": "星海权杖",
+  "proxyPath": "work/layers/proxy-187.jpg",
+  "status": "needs-composite-review",
+  "width": 1600,
+  "height": 900,
+  "maskPath": "work/layers/mask-187.png",
+  "subjectRect": [
+    0.321,
+    0.049,
+    0.322,
+    0.778
+  ],
+  "backgroundPath": "work/layers/background-187.png",
+  "notes": "Foreground central woman + complete staff and attached hanging drapes. Surrounding faction emblems stay background. Align union silhouette bbox before approval."
+}

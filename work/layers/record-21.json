@@ -1,0 +1,14 @@
+{
+  "index": 21,
+  "id": "1QOWJiR-zRY53yAwkTznfWKlA_ic_cD3k",
+  "title": "Cache_1456350768e71b95.jpg",
+  "name": "流光骑迹",
+  "width": 1600,
+  "height": 900,
+  "proxyPath": "work/layers/proxy-21.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-21",
+  "maskPath": "work/layers/mask-21.png",
+  "backgroundPath": "work/layers/background-21.png",
+  "status": "needs-composite-review",
+  "precisionNote": "Original raw no longer present after maintenance; source RGB and dimensions currently use max1600 preserved JPEG proxy. Re-fetch original for precise original dimensions/maximum source fidelity."
+}

@@ -1,0 +1,13 @@
+{
+  "index": 90,
+  "id": "1A3OWdeltfS7kzU2bCQp2lqm_UbzByLBF",
+  "title": "Cache_30a98ff96d5f6ca4.jpg",
+  "name": "旋马冬歌",
+  "width": 922,
+  "height": 1400,
+  "proxyPath": "work/layers/proxy-90.jpg",
+  "maskPath": "work/layers/mask-90-v3.png",
+  "backgroundPath": "work/layers/background-90.png",
+  "status": "needs-composite-review",
+  "notes": "Original unavailable; surviving max1600 proxy used. Imagegen single white foreground mask + separate clean inpainted plate. Requires composite/depth QA."
+}

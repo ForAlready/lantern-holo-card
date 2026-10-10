@@ -1,0 +1,19 @@
+{
+  "id": "art-bdd35b548ec91e50",
+  "sourceId": "11RL931ofjf9oDq2SDqHQVur6n4SiPQ14",
+  "sourceIndex": 51,
+  "name": "月幕星歌",
+  "original": "Cache_35c8f0c5cdcf9588.jpg",
+  "width": 1600,
+  "height": 889,
+  "ratio": 1.7997750281214848,
+  "legacy": false,
+  "thumbnail": "assets/layers/6ff370f37e4d691a9cefba37.webp",
+  "assets": {
+    "character": "assets/layers/eec7d658542d93b404c59b2b.webp",
+    "background": "assets/layers/e7061e6ca562f6e4caeddf56.webp",
+    "ui": "assets/layers/0a2313916370767e6d7f15c0.webp",
+    "structure": "assets/layers/7c10e3e5dd02e6fca894445a.webp",
+    "backgroundScale": 1
+  }
+}

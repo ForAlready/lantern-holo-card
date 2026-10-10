@@ -1,0 +1,19 @@
+{
+  "index": 173,
+  "id": "1MArwffeiFa4T4kab_5zeHQVfR0j4m8zG",
+  "title": "Cache_-45645d94a147bd62.jpg",
+  "name": "龙灯市集",
+  "proxyPath": "work/layers/proxy-173.jpg",
+  "status": "needs-composite-review",
+  "width": 1600,
+  "height": 471,
+  "maskPath": "work/layers/mask-173.png",
+  "subjectRect": [
+    0.195,
+    0.105,
+    0.216,
+    0.895
+  ],
+  "backgroundPath": "work/layers/background-173-cropped.png",
+  "notes": "Foreground central-left dancer + attached flags + drum; dragons and other people are background. Extremely wide image tool aspect ratio differs, align union bbox and inspect scene edges."
+}

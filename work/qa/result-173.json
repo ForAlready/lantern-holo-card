@@ -1,0 +1,19 @@
+{
+  "id": "art-ad0b3bc5f8cb6510",
+  "sourceId": "1MArwffeiFa4T4kab_5zeHQVfR0j4m8zG",
+  "sourceIndex": 173,
+  "name": "龙灯市集",
+  "original": "Cache_-45645d94a147bd62.jpg",
+  "width": 1600,
+  "height": 471,
+  "ratio": 3.397027600849257,
+  "legacy": false,
+  "thumbnail": "assets/layers/a71fcc3eb2455ce35049d178.webp",
+  "assets": {
+    "character": "assets/layers/be911c0df8f8a23ea17c0459.webp",
+    "background": "assets/layers/cdab1611f126228f9dcfdaa4.webp",
+    "ui": "assets/layers/76dd74ba7cf1118e5add209c.webp",
+    "structure": "assets/layers/6ab6c43e83c0ab0179e6cc14.webp",
+    "backgroundScale": 1
+  }
+}

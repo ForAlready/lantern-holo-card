@@ -1,0 +1,27 @@
+{
+  "index": 208,
+  "id": "1mc8MMJ0R4XfKz9rwMMYqrgm30ICgMkwp",
+  "title": "108902587_p0.jpg",
+  "name": "齿轮暮时",
+  "width": 3360,
+  "height": 1440,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/../originals/source-208",
+  "proxyPath": "work/layers/proxy-208.jpg",
+  "maskPath": "work/layers/mask-208-final.png",
+  "backgroundPath": "work/layers/background-208-final.png",
+  "status": "needs-composite-review",
+  "backgroundOriginalRects": [
+    [
+      0,
+      0.82,
+      0.15,
+      0.18
+    ],
+    [
+      0.89,
+      0.93,
+      0.11,
+      0.07
+    ]
+  ]
+}

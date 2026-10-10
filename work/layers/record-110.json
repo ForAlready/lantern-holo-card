@@ -1,0 +1,13 @@
+{
+  "index": 110,
+  "id": "17Q2HqDum_IMYOLo4S-qws9j4hsF-Yx9d",
+  "title": "Cache_5cabb3ff6933a998.jpg",
+  "name": "灵鹿雪行",
+  "width": 682,
+  "height": 1200,
+  "proxyPath": "work/layers/proxy-110.jpg",
+  "maskPath": "work/layers/mask-110.png",
+  "backgroundPath": "work/layers/background-110.png",
+  "status": "needs-composite-review",
+  "notes": "Original unavailable; surviving max1600 proxy used. Imagegen single white foreground mask + separate clean inpainted plate. Requires composite/depth QA."
+}

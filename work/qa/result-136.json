@@ -1,0 +1,19 @@
+{
+  "id": "art-5027a55d78137ddd",
+  "sourceId": "1Sluj7WJA5GbgSy2VBdsgLkGG_1OTmrjT",
+  "sourceIndex": 136,
+  "name": "枕边玩偶",
+  "original": "Cache_-1483dbdaff2da8e5.jpg",
+  "width": 1131,
+  "height": 1600,
+  "ratio": 0.706875,
+  "legacy": false,
+  "thumbnail": "assets/layers/88824413438dec753d2c27ac.webp",
+  "assets": {
+    "character": "assets/layers/82873308c781bbb9858e0289.webp",
+    "background": "assets/layers/8225d1e954b032aacc9bc334.webp",
+    "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+    "structure": "assets/layers/97537403c77a830390e63de2.webp",
+    "backgroundScale": 1
+  }
+}

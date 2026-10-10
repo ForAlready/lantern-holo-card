@@ -1,0 +1,19 @@
+{
+  "id": "art-cb4b21a069d652d8",
+  "sourceId": "1h6gXIqDjGm_i7Cqq_eavze_3e32Z1nAp",
+  "sourceIndex": 72,
+  "name": "绯线微风",
+  "original": "Cache_25cc64884a807c33.jpg",
+  "width": 1600,
+  "height": 1032,
+  "ratio": 1.550387596899225,
+  "legacy": false,
+  "thumbnail": "assets/layers/b9ff4f7fec7dfe7407f275a3.webp",
+  "assets": {
+    "character": "assets/layers/b5272cee080bf9a261d340f7.webp",
+    "background": "assets/layers/17db262f52ff13f8ab4c82d7.webp",
+    "ui": "assets/layers/293cc2f29e5cf3152461acfa.webp",
+    "structure": "assets/layers/321c01facef5f497964268e2.webp",
+    "backgroundScale": 1
+  }
+}

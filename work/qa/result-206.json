@@ -1,0 +1,19 @@
+{
+  "id": "art-b9986e86eb73db65",
+  "sourceId": "1opxLCNfT3Z19_jkL7UVugBNcSgnZlUuH",
+  "sourceIndex": 206,
+  "name": "枫庭回望",
+  "original": "109045598_p0.jpg",
+  "width": 1600,
+  "height": 738,
+  "ratio": 2.168021680216802,
+  "legacy": false,
+  "thumbnail": "assets/layers/404bf9b08e007b78f6fd2f69.webp",
+  "assets": {
+    "character": "assets/layers/d8a29458b2fbeb376ec3fae2.webp",
+    "background": "assets/layers/bd67953de3e1cb97b085560a.webp",
+    "ui": "assets/layers/d168cdcbfb25141c001e430a.webp",
+    "structure": "assets/layers/1dd084b88c2fbaea2c37fcdd.webp",
+    "backgroundScale": 1
+  }
+}

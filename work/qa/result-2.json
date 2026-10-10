@@ -1,0 +1,19 @@
+{
+  "id": "art-1d9d7db158dd4283",
+  "sourceId": "1E-MEiWyY_Qo94SKWfKfPqtKShDRv_ZTN",
+  "sourceIndex": 2,
+  "name": "暮林营火",
+  "original": "Cache_-3b6714cc5ab87f14.jpg",
+  "width": 738,
+  "height": 1600,
+  "ratio": 0.46125,
+  "legacy": false,
+  "thumbnail": "assets/layers/1306cd5bfaca9b6575f619ba.webp",
+  "assets": {
+    "character": "assets/layers/3652e3bbe1765bb499d76b97.webp",
+    "background": "assets/layers/cf5b76bfddd15a84abab6a0d.webp",
+    "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+    "structure": "assets/layers/efa37624b9ee2d5061362e29.webp",
+    "backgroundScale": 1
+  }
+}

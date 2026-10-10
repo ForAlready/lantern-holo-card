@@ -1,0 +1,19 @@
+{
+  "id": "art-0a915cb96987f1e1",
+  "sourceId": "1GozZG6iDH0xG247r5keEb0lK_JmOZWex",
+  "sourceIndex": 5,
+  "name": "木廊晴光",
+  "original": "plvlive_20240817-222407.png",
+  "width": 1067,
+  "height": 1600,
+  "ratio": 0.666875,
+  "legacy": false,
+  "thumbnail": "assets/layers/6233bb2e71c94e9e0cc3cb97.webp",
+  "assets": {
+    "character": "assets/layers/8abdcda2011fd2f7fb429780.webp",
+    "background": "assets/layers/8e8653ebcb71c362d8705c2e.webp",
+    "ui": "assets/layers/f10a4d5f96cddf7972946f4e.webp",
+    "structure": "assets/layers/e557482edd377ccde37d7284.webp",
+    "backgroundScale": 1
+  }
+}

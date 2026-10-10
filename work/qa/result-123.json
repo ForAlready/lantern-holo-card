@@ -1,0 +1,19 @@
+{
+  "id": "art-92f126742595d8eb",
+  "sourceId": "1OdqzBQtTGs80wno6oM2RhD_8eiRtTwu9",
+  "sourceIndex": 123,
+  "name": "霓彩歌声",
+  "original": "Cache_-65b36f295e1d8a64.jpg",
+  "width": 1035,
+  "height": 1600,
+  "ratio": 0.646875,
+  "legacy": false,
+  "thumbnail": "assets/layers/cf521494fdcb8c7d25db12f4.webp",
+  "assets": {
+    "character": "assets/layers/58d7c707929c4b76b70c1f6a.webp",
+    "background": "assets/layers/f34d27ba0ae6fff3dbcd7bb7.webp",
+    "ui": "assets/layers/e8390a91a005c3954e2c2543.webp",
+    "structure": "assets/layers/672b060d4a58a196fc2fbafe.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "art-d967603d3f6d7f0c",
+  "sourceId": "14DWTX7JGhRMfafKF8dN9XCmhecMcnpjo",
+  "sourceIndex": 62,
+  "name": "碧海绮歌",
+  "original": "119419055_p0.jpg",
+  "width": 686,
+  "height": 1600,
+  "ratio": 0.42875,
+  "legacy": false,
+  "thumbnail": "assets/layers/1acec799ab696e3b6b32209f.webp",
+  "assets": {
+    "character": "assets/layers/e32aa5653b4825f1aa3107c4.webp",
+    "background": "assets/layers/51944742c6ec32ed556aa4de.webp",
+    "ui": "assets/layers/51046b871788a25a8943ce32.webp",
+    "structure": "assets/layers/4601f367d37912ce0f6b9066.webp",
+    "backgroundScale": 1
+  }
+}

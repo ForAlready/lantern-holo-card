@@ -1,0 +1,19 @@
+{
+  "id": "art-44284b2feabcf540",
+  "sourceId": "1vMtM6yN6sAnbdL_2Q5ehhI3a53ZnOduP",
+  "sourceIndex": 105,
+  "name": "游园星光",
+  "original": "Cache_-114c5b93614a110b.jpg",
+  "width": 1600,
+  "height": 1000,
+  "ratio": 1.6,
+  "legacy": false,
+  "thumbnail": "assets/layers/7253e8b63eb17924b4805058.webp",
+  "assets": {
+    "character": "assets/layers/9dc75328d00dc9477413f68a.webp",
+    "background": "assets/layers/e84b313cd9f6b9a047610582.webp",
+    "ui": "assets/layers/fd537ff2f11afa48d4b7aa24.webp",
+    "structure": "assets/layers/87b86c7193bf2bbd19b03ee4.webp",
+    "backgroundScale": 1
+  }
+}

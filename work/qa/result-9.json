@@ -1,0 +1,19 @@
+{
+  "id": "art-fb65cb3509a663e7",
+  "sourceId": "1rWBqFFtek1uc4uPXw9kTGMIMCgbopZqS",
+  "sourceIndex": 9,
+  "name": "竹帘午光",
+  "original": "plvlive_20240817-175009.png",
+  "width": 1068,
+  "height": 1600,
+  "ratio": 0.6675,
+  "legacy": false,
+  "thumbnail": "assets/layers/ee5f5f3b645c4136805f820f.webp",
+  "assets": {
+    "character": "assets/layers/b42602a2c5109be5ce672a52.webp",
+    "background": "assets/layers/9d1638104b203c25c4858610.webp",
+    "ui": "assets/layers/e98289ef3ce03ea618194422.webp",
+    "structure": "assets/layers/0ed9f93ee80acaaf87392fd0.webp",
+    "backgroundScale": 1
+  }
+}

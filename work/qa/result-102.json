@@ -1,0 +1,19 @@
+{
+  "id": "art-aef74dc8ebb9d8d8",
+  "sourceId": "15RbWcU1dDZx8r7_kgH9ar8smhvHGJVbj",
+  "sourceIndex": 102,
+  "name": "信笺微光",
+  "original": "Cache_-163d4b7671076f1f.jpg",
+  "width": 738,
+  "height": 1600,
+  "ratio": 0.46125,
+  "legacy": false,
+  "thumbnail": "assets/layers/2a8674a6e736fbd710b20e69.webp",
+  "assets": {
+    "character": "assets/layers/2d83ec1b3be1cb469f962c4c.webp",
+    "background": "assets/layers/a3399a4d5257d716fb2f4661.webp",
+    "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+    "structure": "assets/layers/89d181f59fcd2bdc294c88d6.webp",
+    "backgroundScale": 1
+  }
+}

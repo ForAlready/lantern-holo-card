@@ -1,0 +1,19 @@
+{
+  "id": "art-c79f891d2d42d84e",
+  "sourceId": "17Q2HqDum_IMYOLo4S-qws9j4hsF-Yx9d",
+  "sourceIndex": 110,
+  "name": "灵鹿雪行",
+  "original": "Cache_5cabb3ff6933a998.jpg",
+  "width": 682,
+  "height": 1200,
+  "ratio": 0.5683333333333334,
+  "legacy": false,
+  "thumbnail": "assets/layers/3ae7136019ad743517f1a4ca.webp",
+  "assets": {
+    "character": "assets/layers/eb5e5f93a63dde565351092d.webp",
+    "background": "assets/layers/e55784763d8ee6a90c634e31.webp",
+    "ui": "assets/layers/ce25fd6062aa2374f4b65161.webp",
+    "structure": "assets/layers/906a4fdfe1c8b20f875593ce.webp",
+    "backgroundScale": 1
+  }
+}

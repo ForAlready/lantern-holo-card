@@ -1,0 +1,23 @@
+{
+  "index": 11,
+  "id": "1sMVELxWzNHwWK4ayz-GW8z0bZfMcXN08",
+  "name": "古殿银弦",
+  "original": "plvlive_20240817-174746.png",
+  "title": "plvlive_20240817-174746.png",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-11",
+  "proxyPath": "work/layers/proxy-11.jpg",
+  "atlasPath": "work/layers/atlas-11.png",
+  "backgroundPath": "work/layers/background-11.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "width": 6517,
+  "height": 8000,
+  "subjectRect": [
+    0.008,
+    0.034,
+    0.99,
+    0.954
+  ],
+  "status": "generated-reviewed",
+  "notes": "Plain backdrop replaced with clean dark temple; separate background repairs first atlas subject leakage. Mask bounding box registration required."
+}

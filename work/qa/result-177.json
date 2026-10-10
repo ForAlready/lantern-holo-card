@@ -1,0 +1,19 @@
+{
+  "id": "art-b8ddf3f1d262bbab",
+  "sourceId": "1izcRYHgZcTWGQgbK53XuNGMcnlOQLudh",
+  "sourceIndex": 177,
+  "name": "向阳花束",
+  "original": "100112611_p0_master1200.jpg",
+  "width": 1050,
+  "height": 1447,
+  "ratio": 0.7256392536281963,
+  "legacy": false,
+  "thumbnail": "assets/layers/38aba7c3f482681a336959e0.webp",
+  "assets": {
+    "character": "assets/layers/01df9465a6d59d36dffabcc6.webp",
+    "background": "assets/layers/6878b87114b8b23930c08974.webp",
+    "ui": "assets/layers/1e123b3c7a9e04def9f6c2d7.webp",
+    "structure": "assets/layers/36dc0e3dac885291f9c1c99f.webp",
+    "backgroundScale": 1
+  }
+}

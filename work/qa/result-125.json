@@ -1,0 +1,19 @@
+{
+  "id": "art-4381e23728d9b294",
+  "sourceId": "1JnA13t9s5NGCHjMkE565loEKsEuahw1x",
+  "sourceIndex": 125,
+  "name": "炽彩跃动",
+  "original": "118050711_p0_master1200.jpg",
+  "width": 800,
+  "height": 1600,
+  "ratio": 0.5,
+  "legacy": false,
+  "thumbnail": "assets/layers/a52db680bebc39bd814770b5.webp",
+  "assets": {
+    "character": "assets/layers/233bcb06b55acef319f07d36.webp",
+    "background": "assets/layers/ca1cf5cc76dd6ae0c19647f1.webp",
+    "ui": "assets/layers/534b06cbfb3b55f0a75a9ef3.webp",
+    "structure": "assets/layers/5d3f1fbf0baaacc0e2ec6bc3.webp",
+    "backgroundScale": 1
+  }
+}

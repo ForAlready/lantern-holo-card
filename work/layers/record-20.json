@@ -1,0 +1,20 @@
+{
+  "index": 20,
+  "id": "1fD8FV0ugUX7PZVbLkiJDsli8lo8qSn67",
+  "title": "Cache_-5b45f45cd8d5e78f.jpg",
+  "name": "引力远行",
+  "width": 1600,
+  "height": 900,
+  "proxyPath": "work/layers/proxy-20.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-20",
+  "maskPath": "work/layers/mask-20.png",
+  "backgroundPath": "work/layers/background-20.png",
+  "status": "needs-composite-review",
+  "precisionNote": "Original raw no longer present after maintenance; source RGB and dimensions currently use max1600 preserved JPEG proxy. Re-fetch original for precise original dimensions/maximum source fidelity.",
+  "subjectRect": [
+    0.51625,
+    0.55444,
+    0.189375,
+    0.22
+  ]
+}

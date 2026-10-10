@@ -1,0 +1,19 @@
+{
+  "id": "art-c7abc7df169b3a22",
+  "sourceId": "1-5A4p2KYIm8KrbrwqTJu4zuNGOvylgRK",
+  "sourceIndex": 7,
+  "name": "纸间蓝韵",
+  "original": "plvlive_20240817-203053.png",
+  "width": 900,
+  "height": 1600,
+  "ratio": 0.5625,
+  "legacy": false,
+  "thumbnail": "assets/layers/428fdb844c874ace1499d269.webp",
+  "assets": {
+    "character": "assets/layers/2eb9fe7aa45df6a23de319af.webp",
+    "background": "assets/layers/7529a8daa7a1d0872f4c94f4.webp",
+    "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+    "structure": "assets/layers/f1afe6e920f0d597af21dfc6.webp",
+    "backgroundScale": 1
+  }
+}

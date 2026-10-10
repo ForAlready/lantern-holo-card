@@ -1,0 +1,20 @@
+{
+  "index": 111,
+  "id": "1pgPPM_KRsy_OvNu8MsVHja9HmU91N7NT",
+  "title": "Cache_-40d00ea9dd4b9f2f.jpg",
+  "name": "雾城驭龙",
+  "width": 5513,
+  "height": 9800,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-111",
+  "proxyPath": "work/layers/proxy-111.jpg",
+  "maskPath": "work/layers/mask-111.png",
+  "backgroundPath": "work/layers/background-111.png",
+  "status": "needs-composite-review",
+  "notes": "Original dimensions recovered from previously fully decoded RAW; original RAW currently unavailable, surviving fully decoded proxy used. SINGLE semantic mask and clean background await root composite QA; original foreground RGB retained.",
+  "subjectRect": [
+    0.03,
+    0.348,
+    0.38,
+    0.343
+  ]
+}

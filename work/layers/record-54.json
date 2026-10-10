@@ -1,0 +1,22 @@
+{
+  "index": 54,
+  "id": "1Q7ejlBfCmU3HvDARnVHDJFRhZ-OydDL1",
+  "name": "花夜旋律",
+  "original": "Cache_-e0e4a37b9607d1a.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-54",
+  "proxyPath": "work/layers/proxy-54.jpg",
+  "atlasPath": "work/layers/atlas-54.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "width": 9920,
+  "height": 14032,
+  "subjectRect": [
+    0.032,
+    0.17,
+    0.938,
+    0.818
+  ],
+  "status": "needs-composite-review",
+  "notes": "Single white silhouette; original-coordinate subjectRect retained because imagegen output enlarged foreground. Root must inspect coordinate registration and partial rail occlusions for53.",
+  "maskPath": "work/layers/mask-54-v3.png"
+}

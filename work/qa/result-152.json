@@ -1,0 +1,19 @@
+{
+  "id": "art-352e176619b7213e",
+  "sourceId": "1f7FZKnC4AxDyNgMZeZT3qodFB-YmAmTN",
+  "sourceIndex": 152,
+  "name": "心灯茶会",
+  "original": "Cache_34aca098c6ce1048.png",
+  "width": 1600,
+  "height": 1000,
+  "ratio": 1.6,
+  "legacy": false,
+  "thumbnail": "assets/layers/08711c570d2005e2b844ac75.webp",
+  "assets": {
+    "character": "assets/layers/361dbefc1645102c7dbfcaec.webp",
+    "background": "assets/layers/90d2ab3e4e7b0ef7eeed8daa.webp",
+    "ui": "assets/layers/fd537ff2f11afa48d4b7aa24.webp",
+    "structure": "assets/layers/e15a4f2fe510449140d9b099.webp",
+    "backgroundScale": 1
+  }
+}

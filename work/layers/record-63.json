@@ -1,0 +1,13 @@
+{
+  "index": 63,
+  "id": "14AKLlsA4R5fFFhGGkK0ZwdCIeRYd_aci",
+  "title": "Cache_-13f317e065f982e.jpg",
+  "name": "星甲同游",
+  "width": 1600,
+  "height": 2492,
+  "proxyPath": "work/layers/proxy-63.jpg",
+  "maskPath": "work/layers/mask-63-aligned.png",
+  "backgroundPath": "work/layers/background-63-clean.png",
+  "status": "needs-composite-review",
+  "notes": "Original large file is unavailable after workspace pruning; surviving source proxy used. SINGLE generated binary mask and separately cleaned background. Original RGB foreground and original-pixel signatures only."
+}

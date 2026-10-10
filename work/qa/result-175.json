@@ -1,0 +1,19 @@
+{
+  "id": "art-0ee40f024f18ab4e",
+  "sourceId": "1fjUHiL4vHfFhMav4B4Umn8K9vOjXYfpT",
+  "sourceIndex": 175,
+  "name": "云间执笔",
+  "original": "114560411_p0.jpg",
+  "width": 1100,
+  "height": 716,
+  "ratio": 1.5363128491620113,
+  "legacy": false,
+  "thumbnail": "assets/layers/25d96b68ebcfe0f93dfca136.webp",
+  "assets": {
+    "character": "assets/layers/05485401dade2c8a7e110dfc.webp",
+    "background": "assets/layers/fa97dbbf69580093b82690c5.webp",
+    "ui": "assets/layers/3927d204c1d19b3acd64134f.webp",
+    "structure": "assets/layers/5c5a5daa91a253f0405e29f1.webp",
+    "backgroundScale": 1
+  }
+}

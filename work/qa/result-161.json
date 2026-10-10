@@ -1,0 +1,19 @@
+{
+  "id": "art-2f796a07be70a9ad",
+  "sourceId": "1dhv7BqIH0NR67-SaXucEqWKkdq1t21Pb",
+  "sourceIndex": 161,
+  "name": "灯火龙舞",
+  "original": "116538352_p0.jpg",
+  "width": 1600,
+  "height": 800,
+  "ratio": 2,
+  "legacy": false,
+  "thumbnail": "assets/layers/729474a6b51fb3b8be82b15b.webp",
+  "assets": {
+    "character": "assets/layers/b0edde4eeba5053ad64d9528.webp",
+    "background": "assets/layers/c0888badb7853fd629caaea3.webp",
+    "ui": "assets/layers/cf3bf00154a448e588557531.webp",
+    "structure": "assets/layers/a8183d7af3e2b1de777a8632.webp",
+    "backgroundScale": 1
+  }
+}

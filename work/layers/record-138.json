@@ -1,0 +1,20 @@
+{
+  "index": 138,
+  "id": "1S72b_pAD_NvpG3z4d1HMdt-2YENGf3NM",
+  "name": "霓色碎梦",
+  "original": "Cache_-22411c49097ca3f8.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-138",
+  "proxyPath": "work/layers/proxy-138.jpg",
+  "width": 900,
+  "height": 1600,
+  "maskPath": "work/layers/mask-138-solid-v5.png",
+  "backgroundPath": "work/layers/background-138-v2.png",
+  "signatureRect": [
+    0.91,
+    0.945,
+    0.09,
+    0.055
+  ],
+  "status": "needs-composite-review",
+  "notes": "SINGLE v5 mask targeted edit of v4: fills all lower clothing false holes/black seams; exterior silhouette preserved. Visually checked solid face/clothing; needs root composite QA. Existing background preserved."
+}

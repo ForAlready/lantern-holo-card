@@ -1,0 +1,19 @@
+{
+  "id": "art-354f405e6ee1d48a",
+  "sourceId": "1uA1fwykr8tTYnUqu4bP3de4bSfNGzU8G",
+  "sourceIndex": 183,
+  "name": "澄蓝乐章",
+  "original": "113626601_p0.jpg",
+  "width": 1013,
+  "height": 1600,
+  "ratio": 0.633125,
+  "legacy": false,
+  "thumbnail": "assets/layers/77f14b36e1f034f823a74dad.webp",
+  "assets": {
+    "character": "assets/layers/6d55ee1acc5d216b26cce2e3.webp",
+    "background": "assets/layers/a65ea62c599d197ecf02ea75.webp",
+    "ui": "assets/layers/7b808930271fc043b709f3cf.webp",
+    "structure": "assets/layers/4eede8d804cd8a83fe14e6fa.webp",
+    "backgroundScale": 1
+  }
+}

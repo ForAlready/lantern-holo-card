@@ -1,0 +1,27 @@
+{
+  "index": 213,
+  "id": "10j-te1ka_CTsxYzXZuXthQ4HxjgKD6LG",
+  "title": "108253372_p0.jpg",
+  "name": "晴空双影",
+  "width": 3853,
+  "height": 1440,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/../originals/source-213",
+  "proxyPath": "work/layers/proxy-213.jpg",
+  "maskPath": "work/layers/mask-213-final.png",
+  "backgroundPath": "work/layers/background-213-final.png",
+  "status": "needs-composite-review",
+  "backgroundOriginalRects": [
+    [
+      0,
+      0,
+      0.14,
+      0.2
+    ],
+    [
+      0.57,
+      0,
+      0.07,
+      0.3
+    ]
+  ]
+}

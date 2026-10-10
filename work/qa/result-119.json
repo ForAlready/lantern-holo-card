@@ -1,0 +1,19 @@
+{
+  "id": "art-f06e6964b6b56037",
+  "sourceId": "1Cw77WgIM9HoPG6VSQqkJ8XqpKqzA3zY7",
+  "sourceIndex": 119,
+  "name": "紫叶星纹",
+  "original": "Cache_25b5ffadcfe30f4a.jpg",
+  "width": 1185,
+  "height": 1600,
+  "ratio": 0.740625,
+  "legacy": false,
+  "thumbnail": "assets/layers/a4b8c1f9e6449fdc5c4b2d08.webp",
+  "assets": {
+    "character": "assets/layers/3a96618ce90b00c567d95c04.webp",
+    "background": "assets/layers/b30079e61cd92a7a0bc360d6.webp",
+    "ui": "assets/layers/9124c10deb4082ad56df5cd7.webp",
+    "structure": "assets/layers/9a5881a813eacfd76bff0990.webp",
+    "backgroundScale": 1
+  }
+}

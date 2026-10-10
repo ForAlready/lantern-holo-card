@@ -1,0 +1,19 @@
+{
+  "id": "art-532b02e19d48b489",
+  "sourceId": "1qyst0l9NGRpFMPz1UfZX1TVhLDm2RnQ7",
+  "sourceIndex": 193,
+  "name": "灵树寻光",
+  "original": "112104534_p0.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/8ce2f9bd8105df0fb77c7f21.webp",
+  "assets": {
+    "character": "assets/layers/c7f71a12018d1f28ffef32ac.webp",
+    "background": "assets/layers/4536ff7cb89657e8a7852343.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/34ed7c54fd9dbca327c2e262.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "index": 193,
+  "id": "1qyst0l9NGRpFMPz1UfZX1TVhLDm2RnQ7",
+  "title": "112104534_p0.jpg",
+  "name": "灵树寻光",
+  "width": 5600,
+  "height": 3150,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-193",
+  "proxyPath": "work/layers/proxy-193.jpg",
+  "maskPath": "work/layers/mask-193.png",
+  "backgroundPath": "work/layers/background-193.png",
+  "subjectRect": [
+    0.26,
+    0.59,
+    0.2,
+    0.233
+  ],
+  "status": "needs-composite-review",
+  "notes": "SINGLE three-character union mask. Register to original union bbox; retain black letterbox. Source surviving max1600 proxy."
+}

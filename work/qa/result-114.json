@@ -1,0 +1,19 @@
+{
+  "id": "art-6103b4f81bd4a8d9",
+  "sourceId": "1lf_n-2J_viM9luHW7RnatCHN62BQ9DWS",
+  "sourceIndex": 114,
+  "name": "紫蝶轻舞",
+  "original": "Shinobu - Sigh .jpg",
+  "width": 1175,
+  "height": 1600,
+  "ratio": 0.734375,
+  "legacy": false,
+  "thumbnail": "assets/layers/2daf2e9a3821a0ae5c0b54ab.webp",
+  "assets": {
+    "character": "assets/layers/9055bfab7edbcd6afab14be2.webp",
+    "background": "assets/layers/2a478dd72f7be50b9ceb3707.webp",
+    "ui": "assets/layers/2c4cf4034c725ee2e68ce279.webp",
+    "structure": "assets/layers/d4223e96e938e145b67b8d70.webp",
+    "backgroundScale": 1
+  }
+}

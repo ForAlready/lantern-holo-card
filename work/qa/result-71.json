@@ -1,0 +1,19 @@
+{
+  "id": "art-046a0874aa58c262",
+  "sourceId": "1z7dprZUvbzrktfutpsPDHwwvnkFX5Q-M",
+  "sourceIndex": 71,
+  "name": "霓雨回声",
+  "original": "Cache_-1f4271f29df3637f.jpg",
+  "width": 900,
+  "height": 1600,
+  "ratio": 0.5625,
+  "legacy": false,
+  "thumbnail": "assets/layers/0311b66b37a39150e185c8cd.webp",
+  "assets": {
+    "character": "assets/layers/a390963369d7538370f477bf.webp",
+    "background": "assets/layers/b43c33a161229cde3f2db1d7.webp",
+    "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+    "structure": "assets/layers/bf8f5997e754ed08da986552.webp",
+    "backgroundScale": 1
+  }
+}

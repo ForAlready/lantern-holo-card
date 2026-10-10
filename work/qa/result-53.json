@@ -1,0 +1,19 @@
+{
+  "id": "art-07b278540bf41e43",
+  "sourceId": "15PL0EZ454VcFkHg0wdC9B2yWjxxCv2eA",
+  "sourceIndex": 53,
+  "name": "旋梯轻羽",
+  "original": "Cache_4b77bbe1b77e0870.jpg",
+  "width": 1131,
+  "height": 1600,
+  "ratio": 0.706875,
+  "legacy": false,
+  "thumbnail": "assets/layers/bafbbc73794e5db4d1a44e81.webp",
+  "assets": {
+    "character": "assets/layers/e395e1c07b36ed02bbd2d3c7.webp",
+    "background": "assets/layers/f6d996aba81967ab837346a2.webp",
+    "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+    "structure": "assets/layers/0257d2adee47a11729823862.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "index": 81,
+  "id": "1TWeEm9FVJSMrXS3ncbaQTeCBgZGJLqqY",
+  "title": "Cache_-28beb95af8ada501.jpg",
+  "name": "街角合唱",
+  "width": 1920,
+  "height": 1080,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/../originals/source-81",
+  "proxyPath": "work/layers/proxy-81.jpg",
+  "maskPath": "work/layers/mask-81-joint-banner.png",
+  "backgroundPath": "work/layers/background-81-no-banner.png",
+  "status": "needs-composite-review",
+  "backgroundOriginalRects": [
+    [
+      0,
+      0,
+      1,
+      0.047
+    ]
+  ],
+  "notes": "Original people and complete lower poster banner share one foreground plane; clean storefront background contains neither people nor banner."
+}

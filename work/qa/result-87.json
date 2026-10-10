@@ -1,0 +1,19 @@
+{
+  "id": "art-6bc553414cf933ff",
+  "sourceId": "1qml2USGb-Mn-8JUrdANMKfW8sZnaa_9h",
+  "sourceIndex": 87,
+  "name": "倒城纸雨",
+  "original": "Cache_-472cb047c4eb7bc.jpg",
+  "width": 1600,
+  "height": 1463,
+  "ratio": 1.0936431989063569,
+  "legacy": false,
+  "thumbnail": "assets/layers/2ecae6c06165470011f760c7.webp",
+  "assets": {
+    "character": "assets/layers/47972f1979083cf7e5fd46a3.webp",
+    "background": "assets/layers/7ef9847934ea20e063e4c9f2.webp",
+    "ui": "assets/layers/be0d59c51c237f78a2cad1ba.webp",
+    "structure": "assets/layers/45c8b65676ae0765e7220038.webp",
+    "backgroundScale": 1
+  }
+}

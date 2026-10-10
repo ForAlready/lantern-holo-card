@@ -1,0 +1,19 @@
+{
+  "id": "art-fd4cd1effd0f2941",
+  "sourceId": "1tu8IhRRs1-GcyleXqr0gmma-A-lpbr8n",
+  "sourceIndex": 52,
+  "name": "霓彩回响",
+  "width": 1600,
+  "height": 800,
+  "ratio": 2,
+  "legacy": false,
+  "thumbnail": "assets/layers/2da713e7ae95a005c39d9da0.webp",
+  "assets": {
+    "character": "assets/layers/9abf1b84934dff047539cb7d.webp",
+    "background": "assets/layers/4735c8ab2854ebdbf293d89d.webp",
+    "ui": "assets/layers/cf3bf00154a448e588557531.webp",
+    "structure": "assets/layers/640e077f3653f5b5702cca60.webp",
+    "backgroundScale": 1
+  },
+  "original": "Cache_1766b9085757660c.jpg"
+}

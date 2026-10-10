@@ -1,0 +1,19 @@
+{
+  "id": "art-35e622858e2a397a",
+  "sourceId": "1xnuMHmFoAYo1cpUybbU9xDEWTxJ5VPhv",
+  "sourceIndex": 174,
+  "name": "暮色疾驰",
+  "original": "Cache_-3cd14e14dba41a09.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/2e15cd05a050aa82b875ca13.webp",
+  "assets": {
+    "character": "assets/layers/4bf36677718eb693ad314823.webp",
+    "background": "assets/layers/d5dfbe0b472c98746e2ac49b.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/af5759e36b826956e3019bfc.webp",
+    "backgroundScale": 1
+  }
+}

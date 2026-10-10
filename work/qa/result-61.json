@@ -1,0 +1,19 @@
+{
+  "id": "art-b65b05edc2364f3b",
+  "sourceId": "1WDaPlTZ04bjXMowx90DZz1rhPa-4MIku",
+  "sourceIndex": 61,
+  "name": "林间礼篮",
+  "original": "119436679_p0.jpg",
+  "width": 652,
+  "height": 1600,
+  "ratio": 0.4075,
+  "legacy": false,
+  "thumbnail": "assets/layers/e1de021f7af9dfe654d37b09.webp",
+  "assets": {
+    "character": "assets/layers/7543803f3153cf2b311b9c97.webp",
+    "background": "assets/layers/a53597393cfa52ab9e8d14dc.webp",
+    "ui": "assets/layers/a76c6f6937a7daa0433195d9.webp",
+    "structure": "assets/layers/1f31e229178ffbe0bfa37e9e.webp",
+    "backgroundScale": 1
+  }
+}

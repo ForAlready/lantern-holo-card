@@ -1,0 +1,19 @@
+{
+  "id": "art-75da7ee136894aac",
+  "sourceId": "1Amo6aticnH-WL5d8ihKiGO_6Dz76HehA",
+  "sourceIndex": 197,
+  "name": "紫光琴弦",
+  "original": "103584845_p0_master1200.jpg",
+  "width": 1200,
+  "height": 1563,
+  "ratio": 0.7677543186180422,
+  "legacy": false,
+  "thumbnail": "assets/layers/a4b40d9d4d2b96fccbb44e5f.webp",
+  "assets": {
+    "character": "assets/layers/ee787f6cddf88904875a9089.webp",
+    "background": "assets/layers/4921f5976ba16d7b5b01d973.webp",
+    "ui": "assets/layers/33cf4bda9c4318337ec422ac.webp",
+    "structure": "assets/layers/c15342d0e3b65031e661ee54.webp",
+    "backgroundScale": 1
+  }
+}

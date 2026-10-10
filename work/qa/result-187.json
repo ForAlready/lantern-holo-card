@@ -1,0 +1,19 @@
+{
+  "id": "art-563d1228bb983a28",
+  "sourceId": "1BMmFRld_op9TvdrETkaUVfd4Aa7Hee6-",
+  "sourceIndex": 187,
+  "name": "星海权杖",
+  "original": "101231662_p0_master1200.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/b53f12c50bbe7e81782b4d96.webp",
+  "assets": {
+    "character": "assets/layers/9d69952621c9af8c47bea50c.webp",
+    "background": "assets/layers/64b8229aa34fbeb828469d8e.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/2e9dd3dbb8ae7d13421430df.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,2784 @@
+[
+  {
+    "id": "lantern",
+    "name": "灯下之约",
+    "original": "lantern.jpg",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.5625,
+    "legacy": true,
+    "thumbnail": "assets/lantern.jpg",
+    "assets": {
+      "character": "assets/layers/607af7fcdba07029c7d4a5a1.png",
+      "background": "assets/layers/a4b80f19d3770c20cac5623f.png",
+      "ui": "assets/layers/206cd70e989b98665bb3e22a.png",
+      "structure": "assets/layers/ad83f555e209c877217dacab.png"
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "dragon",
+    "name": "青龙吟月",
+    "original": "dragon.jpg",
+    "width": 1280,
+    "height": 640,
+    "ratio": 2,
+    "legacy": true,
+    "thumbnail": "assets/dragon.jpg",
+    "assets": {
+      "character": "assets/layers/623b79d3d8bab6a0a9728119.png",
+      "background": "assets/layers/bcc1618de9c23f9b72439acc.png",
+      "ui": "assets/layers/a5c6fac68711fe8c5db929df.png",
+      "structure": "assets/layers/a818c8d5c3aa2b478c2f5a9b.png"
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "neon",
+    "name": "霓虹幻色",
+    "original": "neon.jpg",
+    "width": 719,
+    "height": 1280,
+    "ratio": 0.56171875,
+    "legacy": true,
+    "thumbnail": "assets/neon.jpg",
+    "assets": {
+      "character": "assets/layers/ab5403c7f5ae03dfd7faef28.png",
+      "background": "assets/layers/d67c711fc5563c478a4b687d.png",
+      "ui": "assets/layers/cbb6cdae90c09fd560d53083.png",
+      "structure": "assets/layers/99013a5cc9f3d0f612aee944.png"
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "witch",
+    "name": "星帷魔法",
+    "original": "witch.jpg",
+    "width": 915,
+    "height": 1280,
+    "ratio": 0.71484375,
+    "legacy": true,
+    "thumbnail": "assets/witch.jpg",
+    "assets": {
+      "character": "assets/layers/e54c321b6b759a9925dec1a5.png",
+      "background": "assets/layers/af2993a87ea305c6cc991550.png",
+      "ui": "assets/layers/9c3eaff54bfa983157fb9eed.png",
+      "structure": "assets/layers/e160acd48686f496f7047925.png"
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "moonfox",
+    "name": "朝月清辉",
+    "original": "moonfox.jpg",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.5625,
+    "legacy": true,
+    "thumbnail": "assets/moonfox.jpg",
+    "assets": {
+      "character": "assets/layers/ac49d331363cb6d999616078.png",
+      "background": "assets/layers/fa31dd5fd1e00272f3ffe921.png",
+      "ui": "assets/layers/6f6a023b049767b170f2144c.png",
+      "structure": "assets/layers/a79a5c4cba8bbc912d7aec9b.png"
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "pool",
+    "name": "夏日水光",
+    "original": "pool.jpg",
+    "width": 693,
+    "height": 1280,
+    "ratio": 0.54140625,
+    "legacy": true,
+    "thumbnail": "assets/pool.jpg",
+    "assets": {
+      "character": "assets/layers/4611831828184f8322c09f8f.png",
+      "background": "assets/layers/851842c9a5a848d6e4461d78.png",
+      "ui": "assets/layers/63baf80274f29cd2ac6868db.png",
+      "structure": "assets/layers/6fe58f9b735e37a1dead0a9f.png"
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-66d74d139cc54987",
+    "sourceId": "1qN2l61N5JyPZMIMf7v_8G5ZE8sXDXuFF",
+    "sourceIndex": 0,
+    "name": "废墟弦音",
+    "original": "Cache_5d079415b862f5fc.jpg",
+    "width": 1600,
+    "height": 829,
+    "ratio": 1.9300361881785284,
+    "legacy": false,
+    "thumbnail": "assets/layers/609efe74b61747d5c5fde069.webp",
+    "assets": {
+      "character": "assets/layers/e1bde9ac409794585f4c37e8.webp",
+      "background": "assets/layers/5b207f325e43664702b4bc05.webp",
+      "ui": "assets/layers/16a3ad65a53093842742326d.webp",
+      "structure": "assets/layers/94361789c362251ec584dc88.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-5e43c4e6d04ad8f1",
+    "sourceId": "1GOPgXppao5AKwWRHxTIdqPVMMKZS5v_1",
+    "sourceIndex": 1,
+    "name": "星夜蝶影",
+    "original": "a31f8d72d6a31f8d72d6.jpg",
+    "width": 1089,
+    "height": 1600,
+    "ratio": 0.680625,
+    "legacy": false,
+    "thumbnail": "assets/layers/e64858e0ed7fe98e5902e71d.webp",
+    "assets": {
+      "character": "assets/layers/be726a25bba467393560cbf2.webp",
+      "background": "assets/layers/d6910be1cf410ea8302c7895.webp",
+      "ui": "assets/layers/7ac94dbc9c54af6e226cf655.webp",
+      "structure": "assets/layers/fafd7ec32aeedeabbdb62d9a.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-1d9d7db158dd4283",
+    "sourceId": "1E-MEiWyY_Qo94SKWfKfPqtKShDRv_ZTN",
+    "sourceIndex": 2,
+    "name": "暮林营火",
+    "original": "Cache_-3b6714cc5ab87f14.jpg",
+    "width": 738,
+    "height": 1600,
+    "ratio": 0.46125,
+    "legacy": false,
+    "thumbnail": "assets/layers/1306cd5bfaca9b6575f619ba.webp",
+    "assets": {
+      "character": "assets/layers/3652e3bbe1765bb499d76b97.webp",
+      "background": "assets/layers/cf5b76bfddd15a84abab6a0d.webp",
+      "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+      "structure": "assets/layers/efa37624b9ee2d5061362e29.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-e9ca876a60144427",
+    "sourceId": "1ayn7ZumYGXS-55w2xP3moqf-Y5ipALKa",
+    "sourceIndex": 4,
+    "name": "纸页心事",
+    "original": "plvlive_20240817-222817.png",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.5625,
+    "legacy": false,
+    "thumbnail": "assets/layers/f82ef0ecdf7c88c8f7180530.webp",
+    "assets": {
+      "character": "assets/layers/dbf79a1427e5db888ef6475a.webp",
+      "background": "assets/layers/a646e4af9c9f3c9419e3093f.webp",
+      "ui": "assets/layers/d9fd7c29c2dff9515073285d.webp",
+      "structure": "assets/layers/3c58d9eda17e13a092e2e3c2.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-0a915cb96987f1e1",
+    "sourceId": "1GozZG6iDH0xG247r5keEb0lK_JmOZWex",
+    "sourceIndex": 5,
+    "name": "木廊晴光",
+    "original": "plvlive_20240817-222407.png",
+    "width": 1067,
+    "height": 1600,
+    "ratio": 0.666875,
+    "legacy": false,
+    "thumbnail": "assets/layers/6233bb2e71c94e9e0cc3cb97.webp",
+    "assets": {
+      "character": "assets/layers/8abdcda2011fd2f7fb429780.webp",
+      "background": "assets/layers/8e8653ebcb71c362d8705c2e.webp",
+      "ui": "assets/layers/f10a4d5f96cddf7972946f4e.webp",
+      "structure": "assets/layers/e557482edd377ccde37d7284.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-c7abc7df169b3a22",
+    "sourceId": "1-5A4p2KYIm8KrbrwqTJu4zuNGOvylgRK",
+    "sourceIndex": 7,
+    "name": "纸间蓝韵",
+    "original": "plvlive_20240817-203053.png",
+    "width": 900,
+    "height": 1600,
+    "ratio": 0.5625,
+    "legacy": false,
+    "thumbnail": "assets/layers/428fdb844c874ace1499d269.webp",
+    "assets": {
+      "character": "assets/layers/2eb9fe7aa45df6a23de319af.webp",
+      "background": "assets/layers/7529a8daa7a1d0872f4c94f4.webp",
+      "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+      "structure": "assets/layers/f1afe6e920f0d597af21dfc6.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-fb65cb3509a663e7",
+    "sourceId": "1rWBqFFtek1uc4uPXw9kTGMIMCgbopZqS",
+    "sourceIndex": 9,
+    "name": "竹帘午光",
+    "original": "plvlive_20240817-175009.png",
+    "width": 1068,
+    "height": 1600,
+    "ratio": 0.6675,
+    "legacy": false,
+    "thumbnail": "assets/layers/ee5f5f3b645c4136805f820f.webp",
+    "assets": {
+      "character": "assets/layers/b42602a2c5109be5ce672a52.webp",
+      "background": "assets/layers/9d1638104b203c25c4858610.webp",
+      "ui": "assets/layers/e98289ef3ce03ea618194422.webp",
+      "structure": "assets/layers/0ed9f93ee80acaaf87392fd0.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-47fbb09b5199b061",
+    "sourceId": "1sMVELxWzNHwWK4ayz-GW8z0bZfMcXN08",
+    "sourceIndex": 11,
+    "name": "古殿银弦",
+    "original": "plvlive_20240817-174746.png",
+    "width": 1303,
+    "height": 1600,
+    "ratio": 0.814375,
+    "legacy": false,
+    "thumbnail": "assets/layers/e6cd35792bd6d6de9ac4250e.webp",
+    "assets": {
+      "character": "assets/layers/bad8d0b07d90281784672852.webp",
+      "background": "assets/layers/707063650f2d31b0546376cd.webp",
+      "ui": "assets/layers/e2eb88725b1e4df3d9b8cd95.webp",
+      "structure": "assets/layers/b2c4c1f6c780395a86a8b585.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-2b55e7036b0f525a",
+    "sourceId": "1OFH3XsFBQ9rwMLUJTr7FJe9eiF9B9CQH",
+    "sourceIndex": 12,
+    "name": "绒帽闲时",
+    "original": "plvlive_20240817-174542.png",
+    "width": 1095,
+    "height": 1600,
+    "ratio": 0.684375,
+    "legacy": false,
+    "thumbnail": "assets/layers/1166adcef3fffb272de232db.webp",
+    "assets": {
+      "character": "assets/layers/564709a0635fc6ebf2000ba1.webp",
+      "background": "assets/layers/c3dc1c3283d5474513364c58.webp",
+      "ui": "assets/layers/dec151342e3ed43f56fd77be.webp",
+      "structure": "assets/layers/75f6b17f083a33f168b482c2.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-3a79ac9d45c10e8a",
+    "sourceId": "1MVlG3RObxbKp6ui5iwxrAXLdLlFXjZG2",
+    "sourceIndex": 13,
+    "name": "雾城双刃",
+    "original": "plvlive_20240817-174319.png",
+    "width": 899,
+    "height": 1600,
+    "ratio": 0.561875,
+    "legacy": false,
+    "thumbnail": "assets/layers/0a32fcb482f6c5044430a59c.webp",
+    "assets": {
+      "character": "assets/layers/21d569d8963dd2d1e46a71a7.webp",
+      "background": "assets/layers/be88c352f8573b032872f466.webp",
+      "ui": "assets/layers/8557f0b4cc3a9ed9e977993c.webp",
+      "structure": "assets/layers/64027893cea97cc6e499b130.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-17caba7b98916393",
+    "sourceId": "1DB6YnCFB4PDKVzLIngewwJgfBsSPAmqY",
+    "sourceIndex": 16,
+    "name": "纸墙随想",
+    "original": "plvlive_20240817-174115.png",
+    "width": 1080,
+    "height": 1440,
+    "ratio": 0.75,
+    "legacy": false,
+    "thumbnail": "assets/layers/f12dcbfa9e0aad8f183a8e90.webp",
+    "assets": {
+      "character": "assets/layers/0d5c05268f212574c06cfe42.webp",
+      "background": "assets/layers/40dad6c67aa91fff7fa0be62.webp",
+      "ui": "assets/layers/67fdb14723090288d1bf5533.webp",
+      "structure": "assets/layers/a31c14f45f3daae4f95951b6.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-d5883e1584aa2b2f",
+    "sourceId": "1jsB_1xHXXEFsDsoen-jBa8RcqCYmlqHf",
+    "sourceIndex": 17,
+    "name": "天台晚霞",
+    "original": "plvlive_20240817-174025.png",
+    "width": 900,
+    "height": 1600,
+    "ratio": 0.5625,
+    "legacy": false,
+    "thumbnail": "assets/layers/dabf67d1c8e1f7d1990f0c81.webp",
+    "assets": {
+      "character": "assets/layers/ce117997dd8bc441fbb95d55.webp",
+      "background": "assets/layers/c40742fae5860dbf14016151.webp",
+      "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+      "structure": "assets/layers/6c1b508774068ceac1cd515e.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-da51a9b7fe0cb262",
+    "sourceId": "15NLEzHYY08PP5WubR2whaUqepWmQFtk1",
+    "sourceIndex": 19,
+    "name": "星环疾驰",
+    "original": "Cache_5f935763688b48ee.jpg",
+    "width": 1600,
+    "height": 450,
+    "ratio": 3.5555555555555554,
+    "legacy": false,
+    "thumbnail": "assets/layers/8e71c9e9d9b434d6ed1119cf.webp",
+    "assets": {
+      "character": "assets/layers/33671374ddd3d76763d49e57.webp",
+      "background": "assets/layers/1fd8613aa5fa1c7803dffe4a.webp",
+      "ui": "assets/layers/890a83bcb117e2ca6ed123bd.webp",
+      "structure": "assets/layers/29c6892beb0fc4286798eb6f.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-6be2b7742e259a2f",
+    "sourceId": "1fD8FV0ugUX7PZVbLkiJDsli8lo8qSn67",
+    "sourceIndex": 20,
+    "name": "引力远行",
+    "original": "Cache_-5b45f45cd8d5e78f.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/eb08a10767a56343ef5f79fc.webp",
+    "assets": {
+      "character": "assets/layers/725840829772dbe7f10f31c9.webp",
+      "background": "assets/layers/cd507fe13a9087273722b7a0.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/3e04bbea2206dd295b9f9843.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-cec81cf32c545199",
+    "sourceId": "1QOWJiR-zRY53yAwkTznfWKlA_ic_cD3k",
+    "sourceIndex": 21,
+    "name": "流光骑迹",
+    "original": "Cache_1456350768e71b95.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/0bd3285f5f6dc0ebfde8b46c.webp",
+    "assets": {
+      "character": "assets/layers/0d0fb57070726feb2d4b1e46.webp",
+      "background": "assets/layers/8adf198e45a24c0034403dd9.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/03f28718fb14a626dbbaf2b8.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-ef0a9e8d31b1f339",
+    "sourceId": "1O3nLQtIXgkZq1fw1DmntfFYfKnYk8WY3",
+    "sourceIndex": 23,
+    "name": "晴窗微风",
+    "original": "Cache_708b74490751d43c.jpg",
+    "width": 1032,
+    "height": 1600,
+    "ratio": 0.645,
+    "legacy": false,
+    "thumbnail": "assets/layers/9bb08dd8fea3cd1308283886.webp",
+    "assets": {
+      "character": "assets/layers/f3932ea93504b90c12de4e3d.webp",
+      "background": "assets/layers/96f7f312d286a65adc53a6d7.webp",
+      "ui": "assets/layers/c6e6227c4c547b93cbab5978.webp",
+      "structure": "assets/layers/7aed7e60819ae9ae74de37e0.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-ab06b5e0b0bf4f21",
+    "sourceId": "1ezMww-_1epx50dUbUNi43cdEl3RTj7HL",
+    "sourceIndex": 26,
+    "name": "金枝花衣",
+    "original": "Cache_-d027ffd0cd6173c.jpg",
+    "width": 943,
+    "height": 1600,
+    "ratio": 0.589375,
+    "legacy": false,
+    "thumbnail": "assets/layers/bc7d48941ff09358938efbe1.webp",
+    "assets": {
+      "character": "assets/layers/bf6ee1994afa056645a978cb.webp",
+      "background": "assets/layers/132c1aa40bab268da9cc82e2.webp",
+      "ui": "assets/layers/9866651c09fadd466e8fd38f.webp",
+      "structure": "assets/layers/7d57546c7b37aba290fdf16b.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-57a270da283b8d70",
+    "sourceId": "1lS5Y7WWGTjdM-JDErQ4F0u3H0VLP6Cjw",
+    "sourceIndex": 29,
+    "name": "星环银羽",
+    "original": "Cache_-3e2ce487586071b3.jpg",
+    "width": 1132,
+    "height": 1600,
+    "ratio": 0.7075,
+    "legacy": false,
+    "thumbnail": "assets/layers/00bcdd496aa13ebc92ca60be.webp",
+    "assets": {
+      "character": "assets/layers/1d73dd216e6688aef1ae42fc.webp",
+      "background": "assets/layers/0d0cec426c92a2d6c9fcce98.webp",
+      "ui": "assets/layers/af273c2489066cdf214626da.webp",
+      "structure": "assets/layers/a1273e2b3b9ee466976b7bbf.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-66d1794a88e1d54d",
+    "sourceId": "1fHZkK4qqv_0oKCrnKZrt2FqpIhshbgvn",
+    "sourceIndex": 37,
+    "name": "暗夜绯卷",
+    "original": "Cache_5df83905883e41d9.jpg",
+    "width": 1171,
+    "height": 1600,
+    "ratio": 0.731875,
+    "legacy": false,
+    "thumbnail": "assets/layers/d31f0b2bb887d4fe3aa409d9.webp",
+    "assets": {
+      "character": "assets/layers/36a1ca8759a178ad445e0c00.webp",
+      "background": "assets/layers/4689edd58a0eece127fd3417.webp",
+      "ui": "assets/layers/0cd6b6bc31975a07a8f9511f.webp",
+      "structure": "assets/layers/fb4de67f79548da7e795d6e4.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-c718c1fe0d0884de",
+    "sourceId": "1HeyYO4dGe519Bt5EIL9rDrdDUx0sfg5k",
+    "sourceIndex": 41,
+    "name": "晴窗猫憩",
+    "original": "Cache_-6a916e2264299231.jpg",
+    "width": 1000,
+    "height": 1516,
+    "ratio": 0.6596306068601583,
+    "legacy": false,
+    "thumbnail": "assets/layers/76edc1e3a44bb889d17cbbc5.webp",
+    "assets": {
+      "character": "assets/layers/bb605265c5f9ed6eec4429ba.webp",
+      "background": "assets/layers/512fdd439ccca903ac6586d6.webp",
+      "ui": "assets/layers/d2ca0012f36e77d3a629b02f.webp",
+      "structure": "assets/layers/9762a153815c1dd6fa849cca.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-5ec073c829e9b4eb",
+    "sourceId": "10wrrhaqaZT2KDC3eZLKNIAbk6kwYkttA",
+    "sourceIndex": 43,
+    "name": "黎海琴航",
+    "original": "Cache_-38e9ef803aaf64d7.jpg",
+    "width": 1600,
+    "height": 452,
+    "ratio": 3.5398230088495577,
+    "legacy": false,
+    "thumbnail": "assets/layers/6da38e6266322468bc00cac5.webp",
+    "assets": {
+      "character": "assets/layers/3ea1d4895c4fc0502bf51e94.webp",
+      "background": "assets/layers/7284ec8eacd55e56a74f8c53.webp",
+      "ui": "assets/layers/3a85a6ad6b6a3cec73734be1.webp",
+      "structure": "assets/layers/b4cb42b7efdec5f62071549a.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-701a5a8f61e5a461",
+    "sourceId": "1o5VZj_zctTTthlV4gOElGSqVbdK64QkD",
+    "sourceIndex": 44,
+    "name": "青歌礼盒",
+    "original": "Cache_-1c45ebedb77b26c5.jpg",
+    "width": 1127,
+    "height": 1600,
+    "ratio": 0.704375,
+    "legacy": false,
+    "thumbnail": "assets/layers/17c837eb7e3447586afb4e4c.webp",
+    "assets": {
+      "character": "assets/layers/3da28eb8019a5664acfd27ea.webp",
+      "background": "assets/layers/ad2480211699e4fb4c2266ee.webp",
+      "ui": "assets/layers/afd17d464bedea70af2d5872.webp",
+      "structure": "assets/layers/893cc64aa78d317d71a93b08.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-3a54ed80dfab7445",
+    "sourceId": "1eC4HZOeCM1Eks4eficLNBY8HqMjgU9XG",
+    "sourceIndex": 46,
+    "name": "蓝铃猫语",
+    "original": "Cache_-65ead4930e2c04ac(1).jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/632654b9b65bc93f448d90ce.webp",
+    "assets": {
+      "character": "assets/layers/c14121a2efc990a01b624c83.webp",
+      "background": "assets/layers/2e770285e7e049b327f6c233.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/6d4d6f6ef4c50d0c8e5f12d6.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-73f0331f2605aade",
+    "sourceId": "1xnr3KXqgHkmb1a2EU2jqsFUdaL8xKcxZ",
+    "sourceIndex": 47,
+    "name": "绒尾轻眠",
+    "original": "Cache_5f625f79d3477ab6.jpg",
+    "width": 1053,
+    "height": 1600,
+    "ratio": 0.658125,
+    "legacy": false,
+    "thumbnail": "assets/layers/23a91735f6e7c1b0b9abe936.webp",
+    "assets": {
+      "character": "assets/layers/fdc79ec9ad71e8ff33f939eb.webp",
+      "background": "assets/layers/9cd993838272beba17a084ef.webp",
+      "ui": "assets/layers/3e731d621972392eb5a4dcdb.webp",
+      "structure": "assets/layers/3a3d8f5ce6d2c2f5239a3a80.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-aaa22a1b3181269b",
+    "sourceId": "1f5tM2D7D1NJNPl270-7zPfKsb-8yZu5h",
+    "sourceIndex": 48,
+    "name": "猫枕晨醒",
+    "original": "Cache_4d3ea29f009e1b94(1).jpg",
+    "width": 1069,
+    "height": 1600,
+    "ratio": 0.668125,
+    "legacy": false,
+    "thumbnail": "assets/layers/e784113ffb066ab8c16515d1.webp",
+    "assets": {
+      "character": "assets/layers/15e67fbab47f5ffd6d29d30c.webp",
+      "background": "assets/layers/19d70eaf1babae4183251a1b.webp",
+      "ui": "assets/layers/742e603c9814de44b33e2b41.webp",
+      "structure": "assets/layers/564baaa3c09a938f0fcfec4d.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-41a4ebf0fae9f2ff",
+    "sourceId": "1VGG1W8DhTTnrSwL6uWoCG1fnCPwlrmzd",
+    "sourceIndex": 49,
+    "name": "鎏金舞台",
+    "original": "Cache_-2b2a1e19594afac6.jpg",
+    "width": 928,
+    "height": 1600,
+    "ratio": 0.58,
+    "legacy": false,
+    "thumbnail": "assets/layers/e7a2c41325aa968a2660f55e.webp",
+    "assets": {
+      "character": "assets/layers/5139937f0a5447c196752f4d.webp",
+      "background": "assets/layers/c70142751ab7424962b8cff8.webp",
+      "ui": "assets/layers/f360cce67dfd9f711273ccde.webp",
+      "structure": "assets/layers/dde995e503f03f91f8c3ba7c.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-bdd35b548ec91e50",
+    "sourceId": "11RL931ofjf9oDq2SDqHQVur6n4SiPQ14",
+    "sourceIndex": 51,
+    "name": "月幕星歌",
+    "original": "Cache_35c8f0c5cdcf9588.jpg",
+    "width": 1600,
+    "height": 889,
+    "ratio": 1.7997750281214848,
+    "legacy": false,
+    "thumbnail": "assets/layers/6ff370f37e4d691a9cefba37.webp",
+    "assets": {
+      "character": "assets/layers/eec7d658542d93b404c59b2b.webp",
+      "background": "assets/layers/e7061e6ca562f6e4caeddf56.webp",
+      "ui": "assets/layers/0a2313916370767e6d7f15c0.webp",
+      "structure": "assets/layers/7c10e3e5dd02e6fca894445a.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-fd4cd1effd0f2941",
+    "sourceId": "1tu8IhRRs1-GcyleXqr0gmma-A-lpbr8n",
+    "sourceIndex": 52,
+    "name": "霓彩回响",
+    "width": 1600,
+    "height": 800,
+    "ratio": 2,
+    "legacy": false,
+    "thumbnail": "assets/layers/2da713e7ae95a005c39d9da0.webp",
+    "assets": {
+      "character": "assets/layers/9abf1b84934dff047539cb7d.webp",
+      "background": "assets/layers/4735c8ab2854ebdbf293d89d.webp",
+      "ui": "assets/layers/cf3bf00154a448e588557531.webp",
+      "structure": "assets/layers/640e077f3653f5b5702cca60.webp",
+      "backgroundScale": 1
+    },
+    "original": "Cache_1766b9085757660c.jpg",
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-07b278540bf41e43",
+    "sourceId": "15PL0EZ454VcFkHg0wdC9B2yWjxxCv2eA",
+    "sourceIndex": 53,
+    "name": "旋梯轻羽",
+    "original": "Cache_4b77bbe1b77e0870.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/bafbbc73794e5db4d1a44e81.webp",
+    "assets": {
+      "character": "assets/layers/e395e1c07b36ed02bbd2d3c7.webp",
+      "background": "assets/layers/f6d996aba81967ab837346a2.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/0257d2adee47a11729823862.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-fe6b4638b0305a9f",
+    "sourceId": "1Q7ejlBfCmU3HvDARnVHDJFRhZ-OydDL1",
+    "sourceIndex": 54,
+    "name": "花夜旋律",
+    "original": "Cache_-e0e4a37b9607d1a.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/7a472796da93cb56e4af8cd7.webp",
+    "assets": {
+      "character": "assets/layers/e679b7a4727eefb96703e47c.webp",
+      "background": "assets/layers/976b23fcf5fb528eaaf56a3e.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/3c62b8989faaeb2684b58b45.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-d1cc85854e709389",
+    "sourceId": "1Obyayy0oEO09Le65HfHbodwb4vbMv1bI",
+    "sourceIndex": 55,
+    "name": "秋檐听风",
+    "original": "Cache_685230cd53764415.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/b40ccdba7fa680cd678c4b0f.webp",
+    "assets": {
+      "character": "assets/layers/be150a938e2921fd70cf6227.webp",
+      "background": "assets/layers/dc868b1f792506296e5b8f8d.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/4e6aa8a2dec616c772be24bf.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-93c0896651b0843c",
+    "sourceId": "1k1R8nBwoSN3j6A7wRNqfgnJUxpWJMfZ-",
+    "sourceIndex": 56,
+    "name": "虹纱流光",
+    "original": "Cache_35e3b1b544662ba.jpg",
+    "width": 1200,
+    "height": 1600,
+    "ratio": 0.75,
+    "legacy": false,
+    "thumbnail": "assets/layers/4bcf4cac85474c4024abf278.webp",
+    "assets": {
+      "character": "assets/layers/7bd34c9cf0904c42c6485d31.webp",
+      "background": "assets/layers/ffa362a9778c1ac6b24258e6.webp",
+      "ui": "assets/layers/7435ce0d6645d716e68aef72.webp",
+      "structure": "assets/layers/a0494ef86e886f1ebe249220.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-4459ee5b0b1c0deb",
+    "sourceId": "1BOvK0rnPjstPPnSgVS9qsla37MGpDGgM",
+    "sourceIndex": 60,
+    "name": "金穗甜点",
+    "original": "119436395_p0_master1200.jpg",
+    "width": 652,
+    "height": 1600,
+    "ratio": 0.4075,
+    "legacy": false,
+    "thumbnail": "assets/layers/25aca50e678ae746000db57c.webp",
+    "assets": {
+      "character": "assets/layers/edc71b69904cc27eb732e617.webp",
+      "background": "assets/layers/420084a01f20b90a7aeb7238.webp",
+      "ui": "assets/layers/a76c6f6937a7daa0433195d9.webp",
+      "structure": "assets/layers/1370552f96649035f20c4f91.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b65b05edc2364f3b",
+    "sourceId": "1WDaPlTZ04bjXMowx90DZz1rhPa-4MIku",
+    "sourceIndex": 61,
+    "name": "林间礼篮",
+    "original": "119436679_p0.jpg",
+    "width": 652,
+    "height": 1600,
+    "ratio": 0.4075,
+    "legacy": false,
+    "thumbnail": "assets/layers/e1de021f7af9dfe654d37b09.webp",
+    "assets": {
+      "character": "assets/layers/7543803f3153cf2b311b9c97.webp",
+      "background": "assets/layers/a53597393cfa52ab9e8d14dc.webp",
+      "ui": "assets/layers/a76c6f6937a7daa0433195d9.webp",
+      "structure": "assets/layers/1f31e229178ffbe0bfa37e9e.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-d967603d3f6d7f0c",
+    "sourceId": "14DWTX7JGhRMfafKF8dN9XCmhecMcnpjo",
+    "sourceIndex": 62,
+    "name": "碧海绮歌",
+    "original": "119419055_p0.jpg",
+    "width": 686,
+    "height": 1600,
+    "ratio": 0.42875,
+    "legacy": false,
+    "thumbnail": "assets/layers/1acec799ab696e3b6b32209f.webp",
+    "assets": {
+      "character": "assets/layers/e32aa5653b4825f1aa3107c4.webp",
+      "background": "assets/layers/51944742c6ec32ed556aa4de.webp",
+      "ui": "assets/layers/51046b871788a25a8943ce32.webp",
+      "structure": "assets/layers/4601f367d37912ce0f6b9066.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-c1d4a161cfcadfa5",
+    "sourceId": "14AKLlsA4R5fFFhGGkK0ZwdCIeRYd_aci",
+    "sourceIndex": 63,
+    "name": "星甲同游",
+    "original": "Cache_-13f317e065f982e.jpg",
+    "width": 1027,
+    "height": 1600,
+    "ratio": 0.641875,
+    "legacy": false,
+    "thumbnail": "assets/layers/794eca788807d5972c4c0748.webp",
+    "assets": {
+      "character": "assets/layers/415d309c391cffbf026f75b7.webp",
+      "background": "assets/layers/1679dc087c53237fd67337d5.webp",
+      "ui": "assets/layers/21057fb3c485ee16e41cbc4c.webp",
+      "structure": "assets/layers/69cc688adb4aa1de4780c21a.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-38cb118cea6e129a",
+    "sourceId": "1QDZblAlLJUR0dr-VZKrpBCQx4b_CzfkZ",
+    "sourceIndex": 66,
+    "name": "蓝窗初醒",
+    "original": "Cache_2bd8ca1ccfe6267f.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/3711b4c99e3423bdf11a8d52.webp",
+    "assets": {
+      "character": "assets/layers/934a8d91b6ffb33d6252e0b0.webp",
+      "background": "assets/layers/7e33309113e47df7d9d42131.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/d0a73b1897d387a2cdf520f3.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-2ce18bb827e903e8",
+    "sourceId": "1I0kqyj-R70EEU3xk_739X3XofMu_LzVt",
+    "sourceIndex": 67,
+    "name": "掌心猫语",
+    "original": "Cache_-52774dd2af65f2cc.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/96267a758b435e4f3bcc5e2a.webp",
+    "assets": {
+      "character": "assets/layers/c391c36fe7551b2635b1e47b.webp",
+      "background": "assets/layers/e29facb44507188b45e1d7b9.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/827d76d162b8a711d34bdc7f.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-1f4ba69514b8fc5f",
+    "sourceId": "1v7fdoiqHPOhoBGUKTkioh9nEoyqfRm1w",
+    "sourceIndex": 68,
+    "name": "绒光轻坐",
+    "original": "Cache_47046ea76a14ae47.jpg",
+    "width": 1024,
+    "height": 1600,
+    "ratio": 0.64,
+    "legacy": false,
+    "thumbnail": "assets/layers/9885705a67f01f3f9ccb21ae.webp",
+    "assets": {
+      "character": "assets/layers/48eb63ffbd6d334ea3ca91cd.webp",
+      "background": "assets/layers/99e8e1fd5f8a63501902903b.webp",
+      "ui": "assets/layers/8a8052d6ee5ca1946107f833.webp",
+      "structure": "assets/layers/c50787f6729a4a2dbc128699.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-9e4de1e8a2b2b223",
+    "sourceId": "1nbvE8SJes52lrBOwQbJ-QbOh6wli92iX",
+    "sourceIndex": 69,
+    "name": "晴窗绒尾",
+    "original": "Cache_-22ade8f83710358.jpg",
+    "width": 1053,
+    "height": 1600,
+    "ratio": 0.658125,
+    "legacy": false,
+    "thumbnail": "assets/layers/9b507786aff8c72e0b7a2b69.webp",
+    "assets": {
+      "character": "assets/layers/d3777939c056d1fe598f2fca.webp",
+      "background": "assets/layers/d72bd76cdc00a45806f6ab7b.webp",
+      "ui": "assets/layers/3e731d621972392eb5a4dcdb.webp",
+      "structure": "assets/layers/505df3abadaf3ab9ffb4d9d3.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-5e53e5ae8d86b9b5",
+    "sourceId": "1fySeuafgHcB1uMFCUYQjZHdzTmnzSIkE",
+    "sourceIndex": 70,
+    "name": "泡影海风",
+    "original": "Cache_59608eb4d684dab4.jpg",
+    "width": 1600,
+    "height": 969,
+    "ratio": 1.6511867905056758,
+    "legacy": false,
+    "thumbnail": "assets/layers/efc7953632a0d5d06ef9cdfa.webp",
+    "assets": {
+      "character": "assets/layers/22ccf64eabb7063d996f2861.webp",
+      "background": "assets/layers/ff30b4332b2350a93aed1c61.webp",
+      "ui": "assets/layers/1548a98685bece0985a72915.webp",
+      "structure": "assets/layers/d862cf0811af4426b02d4b0c.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-046a0874aa58c262",
+    "sourceId": "1z7dprZUvbzrktfutpsPDHwwvnkFX5Q-M",
+    "sourceIndex": 71,
+    "name": "霓雨回声",
+    "original": "Cache_-1f4271f29df3637f.jpg",
+    "width": 900,
+    "height": 1600,
+    "ratio": 0.5625,
+    "legacy": false,
+    "thumbnail": "assets/layers/0311b66b37a39150e185c8cd.webp",
+    "assets": {
+      "character": "assets/layers/a390963369d7538370f477bf.webp",
+      "background": "assets/layers/b43c33a161229cde3f2db1d7.webp",
+      "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+      "structure": "assets/layers/bf8f5997e754ed08da986552.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-cb4b21a069d652d8",
+    "sourceId": "1h6gXIqDjGm_i7Cqq_eavze_3e32Z1nAp",
+    "sourceIndex": 72,
+    "name": "绯线微风",
+    "original": "Cache_25cc64884a807c33.jpg",
+    "width": 1600,
+    "height": 1032,
+    "ratio": 1.550387596899225,
+    "legacy": false,
+    "thumbnail": "assets/layers/b9ff4f7fec7dfe7407f275a3.webp",
+    "assets": {
+      "character": "assets/layers/b5272cee080bf9a261d340f7.webp",
+      "background": "assets/layers/17db262f52ff13f8ab4c82d7.webp",
+      "ui": "assets/layers/293cc2f29e5cf3152461acfa.webp",
+      "structure": "assets/layers/321c01facef5f497964268e2.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b27f5016dc137e6f",
+    "sourceId": "1NHm8MA3CLzCq4AVYPgOBIAZzPO5nQtZP",
+    "sourceIndex": 73,
+    "name": "蓝影轻语",
+    "original": "Cache_-61b80446e7a2952c.png",
+    "width": 1279,
+    "height": 1600,
+    "ratio": 0.799375,
+    "legacy": false,
+    "thumbnail": "assets/layers/1109b63d990d4bc0d88542f3.webp",
+    "assets": {
+      "character": "assets/layers/e7884cd57110320b01940a0c.webp",
+      "background": "assets/layers/c10a2ca4dbee7aecec9ea300.webp",
+      "ui": "assets/layers/f849e4aa78109b0757ee577a.webp",
+      "structure": "assets/layers/7e5f4096c41861915fe8187f.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-97fd861e5472ebf8",
+    "sourceId": "1apTCwbvvZVIQ88zBvPcseaudK-IRisg0",
+    "sourceIndex": 74,
+    "name": "云间飞跃",
+    "original": "Cache_68fa872fba31be30.png",
+    "width": 1200,
+    "height": 1600,
+    "ratio": 0.75,
+    "legacy": false,
+    "thumbnail": "assets/layers/206b17f7ee19ec9591d895d7.webp",
+    "assets": {
+      "character": "assets/layers/0a50f4c79cff6c9fc9922689.webp",
+      "background": "assets/layers/5d7fce962ba4a9e0188a1cf1.webp",
+      "ui": "assets/layers/7435ce0d6645d716e68aef72.webp",
+      "structure": "assets/layers/f1f44d10142fe72aa4210ce4.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b4cb758db55bebae",
+    "sourceId": "1vjXEbnbfp-px3OGpUNqQIfQyXQS3AHJj",
+    "sourceIndex": 75,
+    "name": "浪花绮梦",
+    "original": "Cache_-346eff25c0178e16.jpg",
+    "width": 849,
+    "height": 1600,
+    "ratio": 0.530625,
+    "legacy": false,
+    "thumbnail": "assets/layers/5dbed2307b5f3e155027464d.webp",
+    "assets": {
+      "character": "assets/layers/9b6bfdaa9b8547f3e860a1e0.webp",
+      "background": "assets/layers/1e012cb9d222695b38459060.webp",
+      "ui": "assets/layers/8b8409d3b1ddadfbee6de319.webp",
+      "structure": "assets/layers/6d065f0b74ac870fd0033a84.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-c86812b9363bc769",
+    "sourceId": "1rowDYwa__UuW6KYy5M0VpCulKD8Nnls5",
+    "sourceIndex": 76,
+    "name": "暮海归风",
+    "original": "Cache_38ac705bfb41132b.jpg",
+    "width": 955,
+    "height": 1600,
+    "ratio": 0.596875,
+    "legacy": false,
+    "thumbnail": "assets/layers/45ac465aba65fe80ed094c91.webp",
+    "assets": {
+      "character": "assets/layers/270f98d0e94d443d437350a4.webp",
+      "background": "assets/layers/02b1c605fb3bbc562e1a56ba.webp",
+      "ui": "assets/layers/9b2b917d61d59ef0154b2a89.webp",
+      "structure": "assets/layers/76a12c33fceb8fe5408dd2af.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-e2bc56b9a714ea30",
+    "sourceId": "16fC_dOxfeSC8kz4N_zvLDi39H1zoUVGE",
+    "sourceIndex": 77,
+    "name": "花语微光",
+    "original": "Cache_66d21e03b75072e4.jpg",
+    "width": 1080,
+    "height": 1600,
+    "ratio": 0.675,
+    "legacy": false,
+    "thumbnail": "assets/layers/d11c8ede692ccac6b37fe97d.webp",
+    "assets": {
+      "character": "assets/layers/51c9a994838e44bdb8bd6946.webp",
+      "background": "assets/layers/847ac95fa938d723c8cc21a1.webp",
+      "ui": "assets/layers/efd01e6e3720c74d54e1b2a6.webp",
+      "structure": "assets/layers/e4236847bcc911d2e904b61a.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-e30ca03f988419d2",
+    "sourceId": "1McSqlqsLZeXeuh4450WRxvIcYxtlHb3v",
+    "sourceIndex": 78,
+    "name": "锦衣同庆",
+    "original": "Cache_37f4cfc62f42ed13.jpg",
+    "width": 1600,
+    "height": 800,
+    "ratio": 2,
+    "legacy": false,
+    "thumbnail": "assets/layers/a9789a231ac5f99132100a7d.webp",
+    "assets": {
+      "character": "assets/layers/5c77279d8140e279b91ad542.webp",
+      "background": "assets/layers/0cba591d8b94778a242a80e6.webp",
+      "ui": "assets/layers/cf3bf00154a448e588557531.webp",
+      "structure": "assets/layers/324b92032b997a9994e9a8fb.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-e414c5c799cf7462",
+    "sourceId": "1dI-sbeLoG0UzA5jGyFBeBQfW465pq2Pm",
+    "sourceIndex": 80,
+    "name": "樱风轻眨",
+    "original": "118687307_p0_master1200.jpg",
+    "width": 873,
+    "height": 1600,
+    "ratio": 0.545625,
+    "legacy": false,
+    "thumbnail": "assets/layers/bfe5e2f1cf49d4c564692471.webp",
+    "assets": {
+      "character": "assets/layers/7e626684e6e961f01b4b226b.webp",
+      "background": "assets/layers/ee9cedf5dbcde860d59b49b2.webp",
+      "ui": "assets/layers/5ab0e48fc2b4936c318ccdac.webp",
+      "structure": "assets/layers/4ae72f1d5ffacfe24f130de3.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-9561d56d9fb23438",
+    "sourceId": "1TWeEm9FVJSMrXS3ncbaQTeCBgZGJLqqY",
+    "sourceIndex": 81,
+    "name": "街角合唱",
+    "original": "Cache_-28beb95af8ada501.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/9d600d403e893cf51e086d54.webp",
+    "assets": {
+      "character": "assets/layers/6bcb09f5a082366639cf8a14.webp",
+      "background": "assets/layers/71d5b88dc33f4d192d189d07.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/c6a41c833be33353d9dd192c.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-be1e8744653b1469",
+    "sourceId": "1D8KJPfRDwmMMYPBwDNKnc8iEURMFvc4W",
+    "sourceIndex": 83,
+    "name": "花雨金瞳",
+    "original": "Cache_26d11f24a3579e57.jpg",
+    "width": 1200,
+    "height": 1600,
+    "ratio": 0.75,
+    "legacy": false,
+    "thumbnail": "assets/layers/81d1260e655c045683503f8f.webp",
+    "assets": {
+      "character": "assets/layers/5a3d855f9bf0df2716bb279a.webp",
+      "background": "assets/layers/e4a74fb1b3e43fcb26a62128.webp",
+      "ui": "assets/layers/7435ce0d6645d716e68aef72.webp",
+      "structure": "assets/layers/7b3b5ea67a54201e59d13b99.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-52c72b05e0d5c7d2",
+    "sourceId": "1Dt8JXRivTnJohrN590cajNgAYF-I0VlM",
+    "sourceIndex": 85,
+    "name": "远岫雪光",
+    "original": "Cache_5508fab983cc9a99.jpg",
+    "width": 720,
+    "height": 1600,
+    "ratio": 0.45,
+    "legacy": false,
+    "thumbnail": "assets/layers/2ae50088b9b86922683d55d4.webp",
+    "assets": {
+      "character": "assets/layers/2774e856a63ea9ffb5b77484.webp",
+      "background": "assets/layers/1272f63d09e34dd6d67ae1b7.webp",
+      "ui": "assets/layers/e06342dd08695aac5ce89393.webp",
+      "structure": "assets/layers/32c3255b79ef21e68e48be0f.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-1123531af6589284",
+    "sourceId": "1aMrOlBwwGZDmms1-l5KRe6J9NKvv61a4",
+    "sourceIndex": 86,
+    "name": "星海鲸游",
+    "original": "Cache_-243bced657fe388a.jpg",
+    "width": 1600,
+    "height": 1200,
+    "ratio": 1.3333333333333333,
+    "legacy": false,
+    "thumbnail": "assets/layers/b85d6caac9af73421be62b03.webp",
+    "assets": {
+      "character": "assets/layers/2fa14e59ec155a17180189c5.webp",
+      "background": "assets/layers/9f1f6901eed97da53dabed59.webp",
+      "ui": "assets/layers/5f4d0880af99b51ce0af601a.webp",
+      "structure": "assets/layers/10f1d5784798bcf21d1efb48.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-6bc553414cf933ff",
+    "sourceId": "1qml2USGb-Mn-8JUrdANMKfW8sZnaa_9h",
+    "sourceIndex": 87,
+    "name": "倒城纸雨",
+    "original": "Cache_-472cb047c4eb7bc.jpg",
+    "width": 1600,
+    "height": 1463,
+    "ratio": 1.0936431989063569,
+    "legacy": false,
+    "thumbnail": "assets/layers/2ecae6c06165470011f760c7.webp",
+    "assets": {
+      "character": "assets/layers/47972f1979083cf7e5fd46a3.webp",
+      "background": "assets/layers/7ef9847934ea20e063e4c9f2.webp",
+      "ui": "assets/layers/be0d59c51c237f78a2cad1ba.webp",
+      "structure": "assets/layers/45c8b65676ae0765e7220038.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-008969494f371357",
+    "sourceId": "1Y7z6c1VhbB1seBK6OiwZLAqRQuV3b-M2",
+    "sourceIndex": 88,
+    "name": "鲸空映梦",
+    "original": "Cache_3013923a1b6ee388.jpg",
+    "width": 739,
+    "height": 1600,
+    "ratio": 0.461875,
+    "legacy": false,
+    "thumbnail": "assets/layers/be077d68b55286b7898d222f.webp",
+    "assets": {
+      "character": "assets/layers/8b65743618a8ba910753abf5.webp",
+      "background": "assets/layers/f6cb5c0e181db023547d3d11.webp",
+      "ui": "assets/layers/a5a69cdaf9428bb67ffac1fe.webp",
+      "structure": "assets/layers/0cedf32a54177ea798d348c3.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-21872771ca58ede5",
+    "sourceId": "1mB0WCDpwicyh3ZIohm9rAlfbA66pIbbv",
+    "sourceIndex": 89,
+    "name": "窗边轻聆",
+    "original": "Cache_-66fdf1834d22b104.jpg",
+    "width": 900,
+    "height": 1600,
+    "ratio": 0.5625,
+    "legacy": false,
+    "thumbnail": "assets/layers/48e38fca98a6b0e542dd608b.webp",
+    "assets": {
+      "character": "assets/layers/1049bf8f6491f82f531268e8.webp",
+      "background": "assets/layers/1f5574251e84deb8ed410763.webp",
+      "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+      "structure": "assets/layers/4d340ae1c16674c7220901d9.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-0190eac16cb37e3e",
+    "sourceId": "1A3OWdeltfS7kzU2bCQp2lqm_UbzByLBF",
+    "sourceIndex": 90,
+    "name": "旋马冬歌",
+    "original": "Cache_30a98ff96d5f6ca4.jpg",
+    "width": 922,
+    "height": 1400,
+    "ratio": 0.6585714285714286,
+    "legacy": false,
+    "thumbnail": "assets/layers/aa331e106b8d0bd60e3b277a.webp",
+    "assets": {
+      "character": "assets/layers/68b465c9a327f15f673c6976.webp",
+      "background": "assets/layers/d8cfc609d2df4cd8c67c0843.webp",
+      "ui": "assets/layers/00fc9a13535ca90e4b7d8bc6.webp",
+      "structure": "assets/layers/4ff0015b08f8a66a616d9673.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-1b00c2c0b0a62f67",
+    "sourceId": "1w_cNQpdgQJBp1EX0GwDSaV9KNs4yRLbU",
+    "sourceIndex": 91,
+    "name": "夕野回眸",
+    "original": "Cache_-2216c8156766d5eb.jpg",
+    "width": 1067,
+    "height": 1600,
+    "ratio": 0.666875,
+    "legacy": false,
+    "thumbnail": "assets/layers/a43f5c21267bba40a30cfb3f.webp",
+    "assets": {
+      "character": "assets/layers/5744bb01537e84b5f48a0470.webp",
+      "background": "assets/layers/e6cd139ef31475a2d529c6e1.webp",
+      "ui": "assets/layers/9218a84899b25234d22d47ec.webp",
+      "structure": "assets/layers/86ccbb717c5eeafddb5afc83.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-ba96695650b60a91",
+    "sourceId": "1gKvcvwaSV8kmvkzRhYggTedjkUWCrnzK",
+    "sourceIndex": 92,
+    "name": "紫藤灯语",
+    "original": "Cache_-2799b8ba0f306037.jpg",
+    "width": 832,
+    "height": 1400,
+    "ratio": 0.5942857142857143,
+    "legacy": false,
+    "thumbnail": "assets/layers/7df409ef03962f57ed764132.webp",
+    "assets": {
+      "character": "assets/layers/2b8f93ab682b4f048504f7a5.webp",
+      "background": "assets/layers/db23c04f899e9e6a5cd9ca63.webp",
+      "ui": "assets/layers/9a812ca3d9e2ca50765b5551.webp",
+      "structure": "assets/layers/a9bd98aab2c454eedc81f019.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-7aabbfd92713d97e",
+    "sourceId": "1CowJg1ZOzkJ9yVBvDCsjfYxrT2fzk1oz",
+    "sourceIndex": 93,
+    "name": "街角静候",
+    "original": "Cache_-3f025b324eee4460.png",
+    "width": 797,
+    "height": 1400,
+    "ratio": 0.5692857142857143,
+    "legacy": false,
+    "thumbnail": "assets/layers/418a133fd0069a2d5c8495f1.webp",
+    "assets": {
+      "character": "assets/layers/d7cb8b8bfaea7b1cad89f99e.webp",
+      "background": "assets/layers/55defb82c6d57eaa1e40c749.webp",
+      "ui": "assets/layers/c313372d59b1243567e2ff78.webp",
+      "structure": "assets/layers/cb562e2f6689dfe4fb462a9e.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-ae2a5882d1e51d3e",
+    "sourceId": "1qvFkKQjn1E5wjiiMfP-RTkRkpbckFOmg",
+    "sourceIndex": 94,
+    "name": "夜阁金羽",
+    "original": "Cache_5c37684406f25f2a.png",
+    "width": 943,
+    "height": 1600,
+    "ratio": 0.589375,
+    "legacy": false,
+    "thumbnail": "assets/layers/1d06b904bef51e157208c4a1.webp",
+    "assets": {
+      "character": "assets/layers/1e32170c7be153ab16e4fb94.webp",
+      "background": "assets/layers/424852db8ce5a2a2b040d20c.webp",
+      "ui": "assets/layers/9866651c09fadd466e8fd38f.webp",
+      "structure": "assets/layers/c831e2bdc61374167d65adc3.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-339dccf163aa3780",
+    "sourceId": "1t_cts7UApGS__62vLjzSoPDAyFsH9HOG",
+    "sourceIndex": 96,
+    "name": "花彩群星",
+    "original": "Cache_-631396f45313aec9.jpg",
+    "width": 937,
+    "height": 1600,
+    "ratio": 0.585625,
+    "legacy": false,
+    "thumbnail": "assets/layers/847ce6a3788dc53ccaec644f.webp",
+    "assets": {
+      "character": "assets/layers/12c6234bf838ce4bb7ede359.webp",
+      "background": "assets/layers/bb253a6cb350a921574884a8.webp",
+      "ui": "assets/layers/8baef2b112d4c8b11c68c042.webp",
+      "structure": "assets/layers/1d7bb6b961f03c2398f1f8ad.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-8194b2b82be5cd95",
+    "sourceId": "1bcNLw6whm6FB-D6Zthc3NnN8FwDvEqZW",
+    "sourceIndex": 98,
+    "name": "寒光执剑",
+    "original": "Cache_-68873e269f594c1f(1).jpg",
+    "width": 866,
+    "height": 1600,
+    "ratio": 0.54125,
+    "legacy": false,
+    "thumbnail": "assets/layers/484ad86922cd869b8f945bb3.webp",
+    "assets": {
+      "character": "assets/layers/6352552d0ce1dfdc6dc07e11.webp",
+      "background": "assets/layers/c84f08c2591c929b35837659.webp",
+      "ui": "assets/layers/9e4ffd5a4b74ca2ee2e62bcf.webp",
+      "structure": "assets/layers/bb87c0d1dcc45fba8659e81d.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-253741f92e644723",
+    "sourceId": "1wBe2376MCKccxwKztyEbkohYlk3FxRPw",
+    "sourceIndex": 100,
+    "name": "星台蓝歌",
+    "original": "Cache_487d9ea52cffc5d.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/0a6e1c81ded9a47a84c825c1.webp",
+    "assets": {
+      "character": "assets/layers/fb03fe14587ef3dadb02fe7a.webp",
+      "background": "assets/layers/339637862db148744fbd32b3.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/208d79d63de910def1b21129.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-af6d4378f5d3fa41",
+    "sourceId": "1aTjZJA4RkJl5O4zXAF02mGzqps_zJf9e",
+    "sourceIndex": 101,
+    "name": "静候来信",
+    "original": "Cache_-4f0675c4c9da4802.jpg",
+    "width": 738,
+    "height": 1600,
+    "ratio": 0.46125,
+    "legacy": false,
+    "thumbnail": "assets/layers/a6d1762f463f36d402a74eda.webp",
+    "assets": {
+      "character": "assets/layers/a1f597df07145bf1f9a953b3.webp",
+      "background": "assets/layers/d84835c5a9f20ef052f5436c.webp",
+      "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+      "structure": "assets/layers/9702a606de4fd3b439d2de25.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-aef74dc8ebb9d8d8",
+    "sourceId": "15RbWcU1dDZx8r7_kgH9ar8smhvHGJVbj",
+    "sourceIndex": 102,
+    "name": "信笺微光",
+    "original": "Cache_-163d4b7671076f1f.jpg",
+    "width": 738,
+    "height": 1600,
+    "ratio": 0.46125,
+    "legacy": false,
+    "thumbnail": "assets/layers/2a8674a6e736fbd710b20e69.webp",
+    "assets": {
+      "character": "assets/layers/2d83ec1b3be1cb469f962c4c.webp",
+      "background": "assets/layers/a3399a4d5257d716fb2f4661.webp",
+      "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+      "structure": "assets/layers/89d181f59fcd2bdc294c88d6.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-44284b2feabcf540",
+    "sourceId": "1vMtM6yN6sAnbdL_2Q5ehhI3a53ZnOduP",
+    "sourceIndex": 105,
+    "name": "游园星光",
+    "original": "Cache_-114c5b93614a110b.jpg",
+    "width": 1600,
+    "height": 1000,
+    "ratio": 1.6,
+    "legacy": false,
+    "thumbnail": "assets/layers/7253e8b63eb17924b4805058.webp",
+    "assets": {
+      "character": "assets/layers/9dc75328d00dc9477413f68a.webp",
+      "background": "assets/layers/e84b313cd9f6b9a047610582.webp",
+      "ui": "assets/layers/fd537ff2f11afa48d4b7aa24.webp",
+      "structure": "assets/layers/87b86c7193bf2bbd19b03ee4.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b5e4504d265627b3",
+    "sourceId": "1-uJNNtBLZwjKosZW0uFNK9h5mhxKqmjD",
+    "sourceIndex": 107,
+    "name": "泡泡霓彩",
+    "original": "117754438_p0_master1200.jpg",
+    "width": 971,
+    "height": 1600,
+    "ratio": 0.606875,
+    "legacy": false,
+    "thumbnail": "assets/layers/d8759eea6848c92a873b21e9.webp",
+    "assets": {
+      "character": "assets/layers/1d52d3423aca267d6201848b.webp",
+      "background": "assets/layers/71d59b9cfcfe46b3df614b4b.webp",
+      "ui": "assets/layers/7f2d36e08cef327520c93d8c.webp",
+      "structure": "assets/layers/bde17f1bc51b0c613138d7fa.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-c79f891d2d42d84e",
+    "sourceId": "17Q2HqDum_IMYOLo4S-qws9j4hsF-Yx9d",
+    "sourceIndex": 110,
+    "name": "灵鹿雪行",
+    "original": "Cache_5cabb3ff6933a998.jpg",
+    "width": 682,
+    "height": 1200,
+    "ratio": 0.5683333333333334,
+    "legacy": false,
+    "thumbnail": "assets/layers/3ae7136019ad743517f1a4ca.webp",
+    "assets": {
+      "character": "assets/layers/eb5e5f93a63dde565351092d.webp",
+      "background": "assets/layers/e55784763d8ee6a90c634e31.webp",
+      "ui": "assets/layers/ce25fd6062aa2374f4b65161.webp",
+      "structure": "assets/layers/906a4fdfe1c8b20f875593ce.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-fbd9ec95f0c93ffd",
+    "sourceId": "1pgPPM_KRsy_OvNu8MsVHja9HmU91N7NT",
+    "sourceIndex": 111,
+    "name": "雾城驭龙",
+    "original": "Cache_-40d00ea9dd4b9f2f.jpg",
+    "width": 900,
+    "height": 1600,
+    "ratio": 0.5625,
+    "legacy": false,
+    "thumbnail": "assets/layers/5e457ef9de3ee122315486d0.webp",
+    "assets": {
+      "character": "assets/layers/340caff391f551a11f6f261d.webp",
+      "background": "assets/layers/90419f9cb9c63dc991fa71c3.webp",
+      "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+      "structure": "assets/layers/e8f492d9cddd3ddf9c430bdb.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-a112ede165061ef0",
+    "sourceId": "1IVksR7YyEhQ4uTiWZvTcabrsbAhZRfhh",
+    "sourceIndex": 112,
+    "name": "蓝金星涡",
+    "original": "Cache_30e3d638e8eaa789.jpg",
+    "width": 738,
+    "height": 1600,
+    "ratio": 0.46125,
+    "legacy": false,
+    "thumbnail": "assets/layers/2cae9956bde22e4e982e5aab.webp",
+    "assets": {
+      "character": "assets/layers/c3b7e9c69af0006725b2b642.webp",
+      "background": "assets/layers/c36dd36bfc82d0a8f260fbe5.webp",
+      "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+      "structure": "assets/layers/127a5127fa0f162c1bbac4a2.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-cb3d3bb69a7acdb4",
+    "sourceId": "1YN9AYcWqG3YG6YvCYW6OlnXgTVPj-bo3",
+    "sourceIndex": 113,
+    "name": "蝶刃夜风",
+    "original": "BEAT.jpg",
+    "width": 1600,
+    "height": 1050,
+    "ratio": 1.5238095238095237,
+    "legacy": false,
+    "thumbnail": "assets/layers/5c557d3f7df75764b1e9f7e2.webp",
+    "assets": {
+      "character": "assets/layers/18ba89b350424000b012b331.webp",
+      "background": "assets/layers/3632ddaae6e1164c0e2ad811.webp",
+      "ui": "assets/layers/d5567beef5dadc546891f32a.webp",
+      "structure": "assets/layers/a0ed132337d58f853c0b0079.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-6103b4f81bd4a8d9",
+    "sourceId": "1lf_n-2J_viM9luHW7RnatCHN62BQ9DWS",
+    "sourceIndex": 114,
+    "name": "紫蝶轻舞",
+    "original": "Shinobu - Sigh .jpg",
+    "width": 1175,
+    "height": 1600,
+    "ratio": 0.734375,
+    "legacy": false,
+    "thumbnail": "assets/layers/2daf2e9a3821a0ae5c0b54ab.webp",
+    "assets": {
+      "character": "assets/layers/9055bfab7edbcd6afab14be2.webp",
+      "background": "assets/layers/2a478dd72f7be50b9ceb3707.webp",
+      "ui": "assets/layers/2c4cf4034c725ee2e68ce279.webp",
+      "structure": "assets/layers/d4223e96e938e145b67b8d70.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-0d398df8e04116c4",
+    "sourceId": "1WwbC5B9VUXsKi6-gG8qqnK87j5JAjBV7",
+    "sourceIndex": 115,
+    "name": "晴台花帽",
+    "original": "Cache_-5007fde9a379c40.jpg",
+    "width": 1079,
+    "height": 1600,
+    "ratio": 0.674375,
+    "legacy": false,
+    "thumbnail": "assets/layers/e0c7423006d1cb3898ce36a6.webp",
+    "assets": {
+      "character": "assets/layers/a76f7bb4f7de64f4e40c0d76.webp",
+      "background": "assets/layers/baecedc2c8a934c16e192e30.webp",
+      "ui": "assets/layers/2a19f42ec7e33bb7a3c231af.webp",
+      "structure": "assets/layers/a5e54397f7a504a5ff58f9f9.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-7d1de06cc2a3b78c",
+    "sourceId": "1JndDc2VK8QoT3gMHn25FQSQjiujAB5Zb",
+    "sourceIndex": 116,
+    "name": "蓝裙时语",
+    "original": "Cache_-168a4c8623867d79.jpg",
+    "width": 800,
+    "height": 1600,
+    "ratio": 0.5,
+    "legacy": false,
+    "thumbnail": "assets/layers/ad095d2ef6db6dcd8d392983.webp",
+    "assets": {
+      "character": "assets/layers/de174d6e968a396a9a8b1d4f.webp",
+      "background": "assets/layers/c802da23f66f6d4d40e8f887.webp",
+      "ui": "assets/layers/534b06cbfb3b55f0a75a9ef3.webp",
+      "structure": "assets/layers/de5927bd24515d6b70246bbf.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-a7bcb51db5bfdc5f",
+    "sourceId": "1atd9jOnQmja0n8oL-qhGAJawqpY96UI4",
+    "sourceIndex": 118,
+    "name": "月环守望",
+    "original": "f43b7823599051c2c59696f083459d86.jpg",
+    "width": 956,
+    "height": 1600,
+    "ratio": 0.5975,
+    "legacy": false,
+    "thumbnail": "assets/layers/16da031c2f504b5931c58a1c.webp",
+    "assets": {
+      "character": "assets/layers/4d2394cf9482e0ef0360567c.webp",
+      "background": "assets/layers/11dc735169cfef0d3e708331.webp",
+      "ui": "assets/layers/fa537faeab01c30af966d5a4.webp",
+      "structure": "assets/layers/8a47dc337dfbc3d478616add.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-f06e6964b6b56037",
+    "sourceId": "1Cw77WgIM9HoPG6VSQqkJ8XqpKqzA3zY7",
+    "sourceIndex": 119,
+    "name": "紫叶星纹",
+    "original": "Cache_25b5ffadcfe30f4a.jpg",
+    "width": 1185,
+    "height": 1600,
+    "ratio": 0.740625,
+    "legacy": false,
+    "thumbnail": "assets/layers/a4b8c1f9e6449fdc5c4b2d08.webp",
+    "assets": {
+      "character": "assets/layers/3a96618ce90b00c567d95c04.webp",
+      "background": "assets/layers/b30079e61cd92a7a0bc360d6.webp",
+      "ui": "assets/layers/9124c10deb4082ad56df5cd7.webp",
+      "structure": "assets/layers/9a5881a813eacfd76bff0990.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-92f126742595d8eb",
+    "sourceId": "1OdqzBQtTGs80wno6oM2RhD_8eiRtTwu9",
+    "sourceIndex": 123,
+    "name": "霓彩歌声",
+    "original": "Cache_-65b36f295e1d8a64.jpg",
+    "width": 1035,
+    "height": 1600,
+    "ratio": 0.646875,
+    "legacy": false,
+    "thumbnail": "assets/layers/cf521494fdcb8c7d25db12f4.webp",
+    "assets": {
+      "character": "assets/layers/58d7c707929c4b76b70c1f6a.webp",
+      "background": "assets/layers/f34d27ba0ae6fff3dbcd7bb7.webp",
+      "ui": "assets/layers/e8390a91a005c3954e2c2543.webp",
+      "structure": "assets/layers/672b060d4a58a196fc2fbafe.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-4381e23728d9b294",
+    "sourceId": "1JnA13t9s5NGCHjMkE565loEKsEuahw1x",
+    "sourceIndex": 125,
+    "name": "炽彩跃动",
+    "original": "118050711_p0_master1200.jpg",
+    "width": 800,
+    "height": 1600,
+    "ratio": 0.5,
+    "legacy": false,
+    "thumbnail": "assets/layers/a52db680bebc39bd814770b5.webp",
+    "assets": {
+      "character": "assets/layers/233bcb06b55acef319f07d36.webp",
+      "background": "assets/layers/ca1cf5cc76dd6ae0c19647f1.webp",
+      "ui": "assets/layers/534b06cbfb3b55f0a75a9ef3.webp",
+      "structure": "assets/layers/5d3f1fbf0baaacc0e2ec6bc3.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-26c20e5e2cbe8409",
+    "sourceId": "1BA6k8Dpyla6Erdk7YWr_yn6NrekbpM_f",
+    "sourceIndex": 126,
+    "name": "幽灯蝶语",
+    "original": "Cache_64882a2961dc3ee9.jpg",
+    "width": 900,
+    "height": 1600,
+    "ratio": 0.5625,
+    "legacy": false,
+    "thumbnail": "assets/layers/3a4c1e5eeebdc7ec1fd6c91c.webp",
+    "assets": {
+      "character": "assets/layers/3db4aa53eb8f8131f2ddae49.webp",
+      "background": "assets/layers/0e6a8675a596aebe06f430c6.webp",
+      "ui": "assets/layers/159c78bb0c110a994160814f.webp",
+      "structure": "assets/layers/ab5320c4a4513cbd9ce4c5cd.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-1522b8129dc9c553",
+    "sourceId": "12Dnvdp0uR9k8v9RokUd9ukBiKy4CXpZW",
+    "sourceIndex": 127,
+    "name": "糖彩指尖",
+    "original": "Cache_-695157388542137a.jpg",
+    "width": 967,
+    "height": 1600,
+    "ratio": 0.604375,
+    "legacy": false,
+    "thumbnail": "assets/layers/78194415c0e76b80d90cd349.webp",
+    "assets": {
+      "character": "assets/layers/66dc8d079bfee9f462e1b8fe.webp",
+      "background": "assets/layers/2c48d8190fd603e1350fe97f.webp",
+      "ui": "assets/layers/519e8c4529987d881a0ba007.webp",
+      "structure": "assets/layers/d51171c888daf61a94307524.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-2c7ee508ba90c468",
+    "sourceId": "1MmV_BBgVk26dE6VFN8w4bW82TwYRXF6P",
+    "sourceIndex": 130,
+    "name": "果园晨甜",
+    "original": "Cache_-3295ffb7f1f35175.jpg",
+    "width": 958,
+    "height": 1600,
+    "ratio": 0.59875,
+    "legacy": false,
+    "thumbnail": "assets/layers/c0903958016d9c1a5d8bf155.webp",
+    "assets": {
+      "character": "assets/layers/c8b5d4f7f71d02b33d530a1f.webp",
+      "background": "assets/layers/8ee594a1a99a793c95acb083.webp",
+      "ui": "assets/layers/67d769cc646cc258d112ffbc.webp",
+      "structure": "assets/layers/15cd72f01872f57185eaca2d.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b034a5a91ca6d2a2",
+    "sourceId": "1DZzvzXIRRQpuizDeFkNBe8Q_6Nf-VsDI",
+    "sourceIndex": 131,
+    "name": "秋叶钟影",
+    "original": "Cache_7e4be8aea64ae8af.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/90369a25ed9410cc2e6d9229.webp",
+    "assets": {
+      "character": "assets/layers/a7f71abc7788e59c67216bd0.webp",
+      "background": "assets/layers/9a265f785755c338bc8770e5.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/3c1e6d64ddf68eed8d99a6d2.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-af71d1ebb9cc6339",
+    "sourceId": "1U7kz4tzpFUHQ89zXJtl14IXrQxxD_zN_",
+    "sourceIndex": 132,
+    "name": "晶辉幻夜",
+    "original": "9cef96725b9cef96725b.jpg",
+    "width": 1111,
+    "height": 1600,
+    "ratio": 0.694375,
+    "legacy": false,
+    "thumbnail": "assets/layers/85c9e72fc188657caa344539.webp",
+    "assets": {
+      "character": "assets/layers/f82cb1a51ad1c23ed72c31e0.webp",
+      "background": "assets/layers/72ed65b4aefd76c09deaf50b.webp",
+      "ui": "assets/layers/5f37d02cdc753778a8ea70b9.webp",
+      "structure": "assets/layers/5cd90ca8af351037e14be4c4.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-3fca6a48d5ca1da4",
+    "sourceId": "1ZxGrN-ccY_dtQQoXEETfP-P10LxTW8SI",
+    "sourceIndex": 133,
+    "name": "紫窗蝶梦",
+    "original": "014299bc4d014299bc4d.jpg",
+    "width": 800,
+    "height": 1600,
+    "ratio": 0.5,
+    "legacy": false,
+    "thumbnail": "assets/layers/77e3c7b5489c73575f8bd702.webp",
+    "assets": {
+      "character": "assets/layers/782dcf2bccf05f145241acf5.webp",
+      "background": "assets/layers/4792eb00a960fa292cdab0ea.webp",
+      "ui": "assets/layers/534b06cbfb3b55f0a75a9ef3.webp",
+      "structure": "assets/layers/74b9276a6ff4ea971fb34790.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-6312aa1f7a75fdbd",
+    "sourceId": "1PWYLAu4i5SHRhgYzbSJJc9rsundY50mq",
+    "sourceIndex": 134,
+    "name": "雨窗侧影",
+    "original": "Cache_-50c7607182feef7f.jpg",
+    "width": 1100,
+    "height": 1600,
+    "ratio": 0.6875,
+    "legacy": false,
+    "thumbnail": "assets/layers/6014f3274beeccec37fe8c8f.webp",
+    "assets": {
+      "character": "assets/layers/b55aa2dc56514f97519190a7.webp",
+      "background": "assets/layers/4e6be96232cefc88852ad0cb.webp",
+      "ui": "assets/layers/6162c228dbaa88b3d1c53006.webp",
+      "structure": "assets/layers/c20d9a8af56ac94f3345cb8f.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-119fb4fb43a259ea",
+    "sourceId": "1SRtS4rxh7daPPWjHxFv7Z3jxVNTvV2UY",
+    "sourceIndex": 135,
+    "name": "星弦夜奏",
+    "original": "Cache_2037934b20207faa.jpg",
+    "width": 1129,
+    "height": 1600,
+    "ratio": 0.705625,
+    "legacy": false,
+    "thumbnail": "assets/layers/21092faaf1e3de707aacdc87.webp",
+    "assets": {
+      "character": "assets/layers/a5a40ab34816d921dc724f05.webp",
+      "background": "assets/layers/c18f5472f53c995a520e4ab1.webp",
+      "ui": "assets/layers/98ac785177bfc8c3541b8604.webp",
+      "structure": "assets/layers/b741fc7ae731691a5740b29e.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-5027a55d78137ddd",
+    "sourceId": "1Sluj7WJA5GbgSy2VBdsgLkGG_1OTmrjT",
+    "sourceIndex": 136,
+    "name": "枕边玩偶",
+    "original": "Cache_-1483dbdaff2da8e5.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/88824413438dec753d2c27ac.webp",
+    "assets": {
+      "character": "assets/layers/82873308c781bbb9858e0289.webp",
+      "background": "assets/layers/8225d1e954b032aacc9bc334.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/97537403c77a830390e63de2.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-cf51b15075dac745",
+    "sourceId": "151OaQfr74aUaUwLj3Q-eQ-VKAiifUm6j",
+    "sourceIndex": 137,
+    "name": "霜刃静祈",
+    "original": "Cache_386f95b0b04ac752.jpg",
+    "width": 1194,
+    "height": 1600,
+    "ratio": 0.74625,
+    "legacy": false,
+    "thumbnail": "assets/layers/ef3d77a27b37ee32573054cc.webp",
+    "assets": {
+      "character": "assets/layers/8b9f8ddc3cbffb4d2c6c6e75.webp",
+      "background": "assets/layers/2e4e68225ff4031fdd9608ce.webp",
+      "ui": "assets/layers/15e5c4e356fca583cf1c7589.webp",
+      "structure": "assets/layers/62cfffdaecc31f23d5cd4116.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-8b29a7b80f423a88",
+    "sourceId": "1S72b_pAD_NvpG3z4d1HMdt-2YENGf3NM",
+    "sourceIndex": 138,
+    "name": "霓色碎梦",
+    "original": "Cache_-22411c49097ca3f8.jpg",
+    "width": 900,
+    "height": 1600,
+    "ratio": 0.5625,
+    "legacy": false,
+    "thumbnail": "assets/layers/3cbc6a5b62e64ee203769897.webp",
+    "assets": {
+      "character": "assets/layers/56c47c8b4cb552988fae5f91.webp",
+      "background": "assets/layers/54cc0fc40f487b2c7d6569f7.webp",
+      "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+      "structure": "assets/layers/abf80e98e7f8977d6793abaf.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-274d36d5ca208148",
+    "sourceId": "1F83klq88CXlQBx3bHb1Lwy9e-an2agTR",
+    "sourceIndex": 139,
+    "name": "幽蓝花语",
+    "original": "Cache_1534b9882107c88e.png",
+    "width": 1121,
+    "height": 1600,
+    "ratio": 0.700625,
+    "legacy": false,
+    "thumbnail": "assets/layers/1e946d2261ffb5ced9e6c0e0.webp",
+    "assets": {
+      "character": "assets/layers/f3e9281ddd1dceea2cd175b7.webp",
+      "background": "assets/layers/272c9f0c615d78e29b04efab.webp",
+      "ui": "assets/layers/b22389d9a52d836a640ad3ec.webp",
+      "structure": "assets/layers/db690db6ecaf1afdb4f7d268.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-5cf914406a9ff653",
+    "sourceId": "1SU6vm5ll8oZVgVfvLqPbmnjyuYeCnDO8",
+    "sourceIndex": 140,
+    "name": "镜前微光",
+    "original": "118016004_p0.jpg",
+    "width": 1000,
+    "height": 1411,
+    "ratio": 0.7087172218284904,
+    "legacy": false,
+    "thumbnail": "assets/layers/5d0eb2a8b69eb5c13c1d12ec.webp",
+    "assets": {
+      "character": "assets/layers/e3c624cfa2364ca782ac7d35.webp",
+      "background": "assets/layers/075420e82477f9018d3f7dc1.webp",
+      "ui": "assets/layers/c5bd9d325295a517798dfc58.webp",
+      "structure": "assets/layers/ac645854c7158943884a8241.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-ddbdf7146e9b6922",
+    "sourceId": "1EYRRcb6AcpXQZ00QjVIPWtQ9xAa_qcCE",
+    "sourceIndex": 144,
+    "name": "星河守望",
+    "original": "Cache_272e97fad962dba7.png",
+    "width": 738,
+    "height": 1600,
+    "ratio": 0.46125,
+    "legacy": false,
+    "thumbnail": "assets/layers/9c63a9a6b1a54f7b6629dc17.webp",
+    "assets": {
+      "character": "assets/layers/c83af471c22a5490168d7670.webp",
+      "background": "assets/layers/ab9666bf3f4f61c06aef3519.webp",
+      "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+      "structure": "assets/layers/3e18e397bfcf82b76266c201.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-7d2a5b6803d0665b",
+    "sourceId": "16oYGOUK3Nc8I50iI7IEvyGfCARFii1ug",
+    "sourceIndex": 145,
+    "name": "星彩祈愿",
+    "original": "Cache_-68c7ef0e26258015.png",
+    "width": 1069,
+    "height": 1600,
+    "ratio": 0.668125,
+    "legacy": false,
+    "thumbnail": "assets/layers/51cafdaec7469d45bb833603.webp",
+    "assets": {
+      "character": "assets/layers/9c0a1783b8925cd3ddbcfbbf.webp",
+      "background": "assets/layers/48e5b0a8d3c20eb3ac0c1cbd.webp",
+      "ui": "assets/layers/742e603c9814de44b33e2b41.webp",
+      "structure": "assets/layers/df119c5e931eacbbc0cd7a08.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b207d0e846a0069d",
+    "sourceId": "1kbQJDeIohDXVzT1QFRfk3Wz-lI-jdlhf",
+    "sourceIndex": 146,
+    "name": "烈焰同行",
+    "original": "d3455e04bd36fbb4b1f427a16d94afb0.jpg",
+    "width": 1600,
+    "height": 1000,
+    "ratio": 1.6,
+    "legacy": false,
+    "thumbnail": "assets/layers/f18fbbed36965f5356a3a0ee.webp",
+    "assets": {
+      "character": "assets/layers/bf32fa2602f2638bc7b51057.webp",
+      "background": "assets/layers/b8373b2e2b14eafb1fa400a2.webp",
+      "ui": "assets/layers/fd537ff2f11afa48d4b7aa24.webp",
+      "structure": "assets/layers/221313096f168ef31cc930b4.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-352e176619b7213e",
+    "sourceId": "1f7FZKnC4AxDyNgMZeZT3qodFB-YmAmTN",
+    "sourceIndex": 152,
+    "name": "心灯茶会",
+    "original": "Cache_34aca098c6ce1048.png",
+    "width": 1600,
+    "height": 1000,
+    "ratio": 1.6,
+    "legacy": false,
+    "thumbnail": "assets/layers/08711c570d2005e2b844ac75.webp",
+    "assets": {
+      "character": "assets/layers/361dbefc1645102c7dbfcaec.webp",
+      "background": "assets/layers/90d2ab3e4e7b0ef7eeed8daa.webp",
+      "ui": "assets/layers/fd537ff2f11afa48d4b7aa24.webp",
+      "structure": "assets/layers/e15a4f2fe510449140d9b099.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-c170dcf8dc27cf90",
+    "sourceId": "1KadTjJAOYbJ_SCCW00g9qRqB_r7D8gJD",
+    "sourceIndex": 157,
+    "name": "星月软梦",
+    "original": "116612239_p0.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/6dd4958b8b00436cd0f095d5.webp",
+    "assets": {
+      "character": "assets/layers/ea0ae5b69111da37140d6573.webp",
+      "background": "assets/layers/cea39f11a70cdc6c08255c73.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/e84601326c7b99cf8dae730b.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-f18323a2746b784d",
+    "sourceId": "1wYGuPLOY_tYK_2yDiYTxwwZ1ohyH6NbR",
+    "sourceIndex": 159,
+    "name": "莓糖花笺",
+    "original": "116566619_p0.jpg",
+    "width": 1131,
+    "height": 1600,
+    "ratio": 0.706875,
+    "legacy": false,
+    "thumbnail": "assets/layers/5e0fbd2b3e13cf4c845149a8.webp",
+    "assets": {
+      "character": "assets/layers/8f2dbba9b9287e5627ea3f7e.webp",
+      "background": "assets/layers/1def52f1edfba1321fb6f33b.webp",
+      "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+      "structure": "assets/layers/ef074cfeb82e1c7f58a8858e.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-2f796a07be70a9ad",
+    "sourceId": "1dhv7BqIH0NR67-SaXucEqWKkdq1t21Pb",
+    "sourceIndex": 161,
+    "name": "灯火龙舞",
+    "original": "116538352_p0.jpg",
+    "width": 1600,
+    "height": 800,
+    "ratio": 2,
+    "legacy": false,
+    "thumbnail": "assets/layers/729474a6b51fb3b8be82b15b.webp",
+    "assets": {
+      "character": "assets/layers/b0edde4eeba5053ad64d9528.webp",
+      "background": "assets/layers/c0888badb7853fd629caaea3.webp",
+      "ui": "assets/layers/cf3bf00154a448e588557531.webp",
+      "structure": "assets/layers/a8183d7af3e2b1de777a8632.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-51b03448f76b7f9d",
+    "sourceId": "1E1i8l7is73NtnWIlGJ3oaudCRXIFt9n8",
+    "sourceIndex": 164,
+    "name": "星翼海祈",
+    "original": "117100420_p0.jpg",
+    "width": 1037,
+    "height": 1600,
+    "ratio": 0.648125,
+    "legacy": false,
+    "thumbnail": "assets/layers/adda8fced05405227b4d2c99.webp",
+    "assets": {
+      "character": "assets/layers/16848cac3dab4a86787533e9.webp",
+      "background": "assets/layers/41d69986da18c55a672cdf97.webp",
+      "ui": "assets/layers/acf47cb7b646cb13fc36b955.webp",
+      "structure": "assets/layers/d109abb730aa84f43848e2c9.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-accd21cc83b71526",
+    "sourceId": "1X4bSjt9rNzwhEkkNxbwOEtu_paHZ6rG0",
+    "sourceIndex": 165,
+    "name": "灯下小聚",
+    "original": "114795606_p0_master1200.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/03c8d6ee4a3b4f4f702f092e.webp",
+    "assets": {
+      "character": "assets/layers/1c20045dec47c51b40bd8c9b.webp",
+      "background": "assets/layers/7c95ed998c62cb324ea8df13.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/090611a76a7b936315fb472f.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-3feaaff9ad04edf7",
+    "sourceId": "1MdWMgHGkxECHPXMtmR7-S1S1sRb8p1W2",
+    "sourceIndex": 166,
+    "name": "暖屋同游",
+    "original": "115741092_p0_master1200.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/2ff758bafbdc9400e5d9fd04.webp",
+    "assets": {
+      "character": "assets/layers/d49c82257f7766398971fcc2.webp",
+      "background": "assets/layers/000055533ef0119515e396ea.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/0762142ce68b86999971b65a.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-aafd8c2f86116d9a",
+    "sourceId": "1Pg_FnqgRrlx7-WbNDMQP8OLMrOIRgVnY",
+    "sourceIndex": 169,
+    "name": "灯夜欢游",
+    "original": "115727998_p0.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/72de941a8983e147965cd361.webp",
+    "assets": {
+      "character": "assets/layers/d2c579ad67d7e1cab61fc0dc.webp",
+      "background": "assets/layers/e715871f20836c86b4edecbc.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/92e2b7e21f0d6bf6a22a77b4.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-230b30ae10edfd20",
+    "sourceId": "1QiPg8jZxt1BTlnX3gFPLYiJxyPhikBES",
+    "sourceIndex": 170,
+    "name": "岩光龙吟",
+    "original": "116529138_p0.jpg",
+    "width": 1600,
+    "height": 752,
+    "ratio": 2.127659574468085,
+    "legacy": false,
+    "thumbnail": "assets/layers/aeac94c9ada02b249fde8df0.webp",
+    "assets": {
+      "character": "assets/layers/f21ce2352d74398004fff4ce.webp",
+      "background": "assets/layers/02a09bc8c9cc2d977814e01c.webp",
+      "ui": "assets/layers/ab38e2d3ba5ceaf0c7af8614.webp",
+      "structure": "assets/layers/9bdd57716b1cd89d7d234b10.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-10f5adaae53cdcda",
+    "sourceId": "1LlgVXZKuGfbxUOAouhJlDy0IuI7OflSv",
+    "sourceIndex": 171,
+    "name": "松云隐居",
+    "original": "116529006_p0.jpg",
+    "width": 1600,
+    "height": 876,
+    "ratio": 1.82648401826484,
+    "legacy": false,
+    "thumbnail": "assets/layers/a7f0b6f18e209906f06afd4a.webp",
+    "assets": {
+      "character": "assets/layers/2db2d979e85b3b8e37af3729.webp",
+      "background": "assets/layers/8513abfff9c15696a9bc5d08.webp",
+      "ui": "assets/layers/219b4464b110ffc0f96d3ace.webp",
+      "structure": "assets/layers/95618c9568bc4686710d1875.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-ad0b3bc5f8cb6510",
+    "sourceId": "1MArwffeiFa4T4kab_5zeHQVfR0j4m8zG",
+    "sourceIndex": 173,
+    "name": "龙灯市集",
+    "original": "Cache_-45645d94a147bd62.jpg",
+    "width": 1600,
+    "height": 471,
+    "ratio": 3.397027600849257,
+    "legacy": false,
+    "thumbnail": "assets/layers/a71fcc3eb2455ce35049d178.webp",
+    "assets": {
+      "character": "assets/layers/be911c0df8f8a23ea17c0459.webp",
+      "background": "assets/layers/cdab1611f126228f9dcfdaa4.webp",
+      "ui": "assets/layers/76dd74ba7cf1118e5add209c.webp",
+      "structure": "assets/layers/6ab6c43e83c0ab0179e6cc14.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-35e622858e2a397a",
+    "sourceId": "1xnuMHmFoAYo1cpUybbU9xDEWTxJ5VPhv",
+    "sourceIndex": 174,
+    "name": "暮色疾驰",
+    "original": "Cache_-3cd14e14dba41a09.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/2e15cd05a050aa82b875ca13.webp",
+    "assets": {
+      "character": "assets/layers/4bf36677718eb693ad314823.webp",
+      "background": "assets/layers/d5dfbe0b472c98746e2ac49b.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/af5759e36b826956e3019bfc.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-0ee40f024f18ab4e",
+    "sourceId": "1fjUHiL4vHfFhMav4B4Umn8K9vOjXYfpT",
+    "sourceIndex": 175,
+    "name": "云间执笔",
+    "original": "114560411_p0.jpg",
+    "width": 1100,
+    "height": 716,
+    "ratio": 1.5363128491620113,
+    "legacy": false,
+    "thumbnail": "assets/layers/25d96b68ebcfe0f93dfca136.webp",
+    "assets": {
+      "character": "assets/layers/05485401dade2c8a7e110dfc.webp",
+      "background": "assets/layers/fa97dbbf69580093b82690c5.webp",
+      "ui": "assets/layers/3927d204c1d19b3acd64134f.webp",
+      "structure": "assets/layers/5c5a5daa91a253f0405e29f1.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-c12b1facafab4b13",
+    "sourceId": "1244p9xCzhyTEIkRA-_Di5yFIby3196_4",
+    "sourceIndex": 176,
+    "name": "紫夜疾驰",
+    "original": "114530611_p0.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/b2d8b9308b6c32448c3024fc.webp",
+    "assets": {
+      "character": "assets/layers/2fab40da4f1d3b205608966c.webp",
+      "background": "assets/layers/f7802023129e8f1ab56e236f.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/0578e5c8d82505741ece849b.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b8ddf3f1d262bbab",
+    "sourceId": "1izcRYHgZcTWGQgbK53XuNGMcnlOQLudh",
+    "sourceIndex": 177,
+    "name": "向阳花束",
+    "original": "100112611_p0_master1200.jpg",
+    "width": 1050,
+    "height": 1447,
+    "ratio": 0.7256392536281963,
+    "legacy": false,
+    "thumbnail": "assets/layers/38aba7c3f482681a336959e0.webp",
+    "assets": {
+      "character": "assets/layers/01df9465a6d59d36dffabcc6.webp",
+      "background": "assets/layers/6878b87114b8b23930c08974.webp",
+      "ui": "assets/layers/1e123b3c7a9e04def9f6c2d7.webp",
+      "structure": "assets/layers/36dc0e3dac885291f9c1c99f.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b0ffdb422f5a843e",
+    "sourceId": "1vc7-_8Cvk7rYPFH8QflQrp_PdZ8QBres",
+    "sourceIndex": 180,
+    "name": "纸箱小憩",
+    "original": "70306105_p0_master1200.jpg",
+    "width": 688,
+    "height": 1000,
+    "ratio": 0.688,
+    "legacy": false,
+    "thumbnail": "assets/layers/7766fd4106fca4a505cadfb9.webp",
+    "assets": {
+      "character": "assets/layers/e59002a0bb49b1caccf6deec.webp",
+      "background": "assets/layers/0c618fdfa304eab49cb5b561.webp",
+      "ui": "assets/layers/33b1bd701124948353a01df2.webp",
+      "structure": "assets/layers/8017404e9338ee79739e002d.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-91b71118626fa198",
+    "sourceId": "1KoglyWVCsM5QjRsISVC7Lq8YrcjK--DO",
+    "sourceIndex": 181,
+    "name": "暮城风语",
+    "original": "114394560_p0.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/c4ecb47d9212429781c80370.webp",
+    "assets": {
+      "character": "assets/layers/befd390be914b8ec36caa290.webp",
+      "background": "assets/layers/35a8db3ac1f72374ef1e328b.webp",
+      "ui": "assets/layers/0fb7a692604d4857ec330252.webp",
+      "structure": "assets/layers/605a0586ccb5046a10a4aee4.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-3642a6707fa6776e",
+    "sourceId": "1EuzuJjgZUsFk5LcsQO3xD-1Kmkrqh797",
+    "sourceIndex": 182,
+    "name": "蓝夜城灯",
+    "original": "114396867_p0.jpg",
+    "width": 1600,
+    "height": 686,
+    "ratio": 2.3323615160349855,
+    "legacy": false,
+    "thumbnail": "assets/layers/81b30e8f8033ea22561c2aa8.webp",
+    "assets": {
+      "character": "assets/layers/2cc31f94442151704fa41b3f.webp",
+      "background": "assets/layers/55f9d74b1454aa95a3714355.webp",
+      "ui": "assets/layers/e75946e3b967e9ee15f4bffa.webp",
+      "structure": "assets/layers/07cf6ac4f9305eeccbd4e1be.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-354f405e6ee1d48a",
+    "sourceId": "1uA1fwykr8tTYnUqu4bP3de4bSfNGzU8G",
+    "sourceIndex": 183,
+    "name": "澄蓝乐章",
+    "original": "113626601_p0.jpg",
+    "width": 1013,
+    "height": 1600,
+    "ratio": 0.633125,
+    "legacy": false,
+    "thumbnail": "assets/layers/77f14b36e1f034f823a74dad.webp",
+    "assets": {
+      "character": "assets/layers/6d55ee1acc5d216b26cce2e3.webp",
+      "background": "assets/layers/a65ea62c599d197ecf02ea75.webp",
+      "ui": "assets/layers/7b808930271fc043b709f3cf.webp",
+      "structure": "assets/layers/4eede8d804cd8a83fe14e6fa.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-419b72a5ff0199b7",
+    "sourceId": "1l9c1iwn0hzAnYho7jIvfzfKqaCA7vyoC",
+    "sourceIndex": 184,
+    "name": "碧水巡游",
+    "original": "113600258_p0.jpg",
+    "width": 1600,
+    "height": 686,
+    "ratio": 2.3323615160349855,
+    "legacy": false,
+    "thumbnail": "assets/layers/180485bba875166b5aaef118.webp",
+    "assets": {
+      "character": "assets/layers/5cf67415b3ea71e962dcb3a3.webp",
+      "background": "assets/layers/15b84b423454a805643a1e34.webp",
+      "ui": "assets/layers/00575c54e38f38a9c0d9b658.webp",
+      "structure": "assets/layers/edc8795743f463a9165c0a1b.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-73ee30cb95c916cf",
+    "sourceId": "1Rz5PTG686zxQGBv-iFRjN-a8jU3vioUM",
+    "sourceIndex": 185,
+    "name": "星轨秘法",
+    "original": "95593833_p0_master1200.jpg",
+    "width": 1600,
+    "height": 1132,
+    "ratio": 1.4134275618374559,
+    "legacy": false,
+    "thumbnail": "assets/layers/911140034dce9f3efd4e43ba.webp",
+    "assets": {
+      "character": "assets/layers/24df80fc81f3cd67e8902277.webp",
+      "background": "assets/layers/4c9ea23f424880d79bfc4d84.webp",
+      "ui": "assets/layers/3d85398176bdf950d60343fa.webp",
+      "structure": "assets/layers/09bbaf5a8f43b981ed34ab68.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-4c4f5bee787eb596",
+    "sourceId": "1JZb6jT2cqD-GmXhxGbrQstFBlWU98sHP",
+    "sourceIndex": 186,
+    "name": "花扇雅韵",
+    "original": "91603009_p0_master1200.jpg",
+    "width": 887,
+    "height": 1600,
+    "ratio": 0.554375,
+    "legacy": false,
+    "thumbnail": "assets/layers/aa6f9a60582669e803ddae13.webp",
+    "assets": {
+      "character": "assets/layers/f0cb7c86112e519f9d1b4bbb.webp",
+      "background": "assets/layers/3e1b691c9db01929b0dce35e.webp",
+      "ui": "assets/layers/d783c82b8426b302ee32b8e7.webp",
+      "structure": "assets/layers/3695ba41af45a2e3c64b68df.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-563d1228bb983a28",
+    "sourceId": "1BMmFRld_op9TvdrETkaUVfd4Aa7Hee6-",
+    "sourceIndex": 187,
+    "name": "星海权杖",
+    "original": "101231662_p0_master1200.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/b53f12c50bbe7e81782b4d96.webp",
+    "assets": {
+      "character": "assets/layers/9d69952621c9af8c47bea50c.webp",
+      "background": "assets/layers/64b8229aa34fbeb828469d8e.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/2e9dd3dbb8ae7d13421430df.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-d84484186f7ec5d2",
+    "sourceId": "1SUk0YDfEOiwz3c1UDlLakcBJxcgeWbKe",
+    "sourceIndex": 191,
+    "name": "绯墨流光",
+    "original": "1700831903969.jpg",
+    "width": 1600,
+    "height": 1029,
+    "ratio": 1.554907677356657,
+    "legacy": false,
+    "thumbnail": "assets/layers/e486b6b79f9935792d165977.webp",
+    "assets": {
+      "character": "assets/layers/6ea4b6c46e2138b73b465e61.webp",
+      "background": "assets/layers/1be1ff6806c7445966ac7cec.webp",
+      "ui": "assets/layers/0c0046cb65e73ea2c81ffdea.webp",
+      "structure": "assets/layers/d184c75c2682713134bc88fd.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-532b02e19d48b489",
+    "sourceId": "1qyst0l9NGRpFMPz1UfZX1TVhLDm2RnQ7",
+    "sourceIndex": 193,
+    "name": "灵树寻光",
+    "original": "112104534_p0.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/8ce2f9bd8105df0fb77c7f21.webp",
+    "assets": {
+      "character": "assets/layers/c7f71a12018d1f28ffef32ac.webp",
+      "background": "assets/layers/4536ff7cb89657e8a7852343.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/34ed7c54fd9dbca327c2e262.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-d285015406fe125e",
+    "sourceId": "16ZW3vnlvtLNMNmuqKmpg0Ll2I31Ht7sA",
+    "sourceIndex": 194,
+    "name": "霓城夜奏",
+    "original": "112094545_p0.jpg",
+    "width": 1600,
+    "height": 898,
+    "ratio": 1.78173719376392,
+    "legacy": false,
+    "thumbnail": "assets/layers/a66b843842c52ad684fd28a1.webp",
+    "assets": {
+      "character": "assets/layers/df8544c9652ca85e5308a143.webp",
+      "background": "assets/layers/febcbf2b2036d908216b2dc4.webp",
+      "ui": "assets/layers/3cc30fc12905bd857f666dd0.webp",
+      "structure": "assets/layers/88223ae479630a01e1ee80d5.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-f4de06ab0476b413",
+    "sourceId": "1FJa1rmzpPmB5JnKKokuHyZBT4dTXrTno",
+    "sourceIndex": 195,
+    "name": "星窗抱偶",
+    "original": "112092506_p0.jpg",
+    "width": 1046,
+    "height": 1600,
+    "ratio": 0.65375,
+    "legacy": false,
+    "thumbnail": "assets/layers/0983069b160cda904d29b77c.webp",
+    "assets": {
+      "character": "assets/layers/d4e6465cda14aad32bc4604f.webp",
+      "background": "assets/layers/0f24ccbacdc8b42eeae9eb9d.webp",
+      "ui": "assets/layers/94d0f98b3c6abdfde4e11b91.webp",
+      "structure": "assets/layers/9620c5f850a6b26dc1dbc81f.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-ba7238977afe3477",
+    "sourceId": "19DkZGwlHbs-o-liy9VqDSw1tV3M4_Iat",
+    "sourceIndex": 196,
+    "name": "齿轮星时",
+    "original": "111157207_p0.jpg",
+    "width": 1107,
+    "height": 1600,
+    "ratio": 0.691875,
+    "legacy": false,
+    "thumbnail": "assets/layers/b8c172c9d6e8dbd01095a5dd.webp",
+    "assets": {
+      "character": "assets/layers/4ae89c215250b86422494050.webp",
+      "background": "assets/layers/bd951e9738a11ae08a1212b4.webp",
+      "ui": "assets/layers/8c9f8a7150fda8842dac277d.webp",
+      "structure": "assets/layers/541d6c6f234b6967c4a36f63.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-75da7ee136894aac",
+    "sourceId": "1Amo6aticnH-WL5d8ihKiGO_6Dz76HehA",
+    "sourceIndex": 197,
+    "name": "紫光琴弦",
+    "original": "103584845_p0_master1200.jpg",
+    "width": 1200,
+    "height": 1563,
+    "ratio": 0.7677543186180422,
+    "legacy": false,
+    "thumbnail": "assets/layers/a4b40d9d4d2b96fccbb44e5f.webp",
+    "assets": {
+      "character": "assets/layers/ee787f6cddf88904875a9089.webp",
+      "background": "assets/layers/4921f5976ba16d7b5b01d973.webp",
+      "ui": "assets/layers/33cf4bda9c4318337ec422ac.webp",
+      "structure": "assets/layers/c15342d0e3b65031e661ee54.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-298f99412935cc3a",
+    "sourceId": "1jZLb4e7JL4ItlU0ui8RhyRuZloZe7My5",
+    "sourceIndex": 199,
+    "name": "花厅轻候",
+    "original": "108161957_p0_master1200.jpg",
+    "width": 957,
+    "height": 1600,
+    "ratio": 0.598125,
+    "legacy": false,
+    "thumbnail": "assets/layers/103628c775895d351e003339.webp",
+    "assets": {
+      "character": "assets/layers/aa889834fefbb9a0ae8c3851.webp",
+      "background": "assets/layers/b8c6104e888ae63413781c32.webp",
+      "ui": "assets/layers/57505d5af0bcf190da3b8522.webp",
+      "structure": "assets/layers/ba9eeb594df5bad8dc7de152.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-04414838d228fb7c",
+    "sourceId": "1YbgKRvH0cWz9D_5IuosMKFhLx1nBQHso",
+    "sourceIndex": 200,
+    "name": "夏花池畔",
+    "original": "110502630_p0_master1200.jpg",
+    "width": 927,
+    "height": 1600,
+    "ratio": 0.579375,
+    "legacy": false,
+    "thumbnail": "assets/layers/1315a4e775b469f46145ecdb.webp",
+    "assets": {
+      "character": "assets/layers/0e0217ba34d92d702117a0b1.webp",
+      "background": "assets/layers/e011496349ef9a1120cfa709.webp",
+      "ui": "assets/layers/ea930fbdc07e7ed62d1857bc.webp",
+      "structure": "assets/layers/855b57878799126f4474e4a7.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-3b6f6dfd8ad06d63",
+    "sourceId": "1kZF3lkH2lEBoUgRQokndGQ_ejneRtel3",
+    "sourceIndex": 202,
+    "name": "月下星原",
+    "original": "110358123_p0.jpg",
+    "width": 1000,
+    "height": 1414,
+    "ratio": 0.7072135785007072,
+    "legacy": false,
+    "thumbnail": "assets/layers/aaacbca9f986a9395602fd44.webp",
+    "assets": {
+      "character": "assets/layers/a9fb8716a82e85d6b2fec02f.webp",
+      "background": "assets/layers/ca56bc75b42c3ce4acc0a964.webp",
+      "ui": "assets/layers/10bd86eca56448b62372b538.webp",
+      "structure": "assets/layers/2e8fd1f38e9ad7f9c33fcda3.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-0538540730c064ad",
+    "sourceId": "1XH0zgPt18oWjz3hYZCJSlcQjBQcJ83dy",
+    "sourceIndex": 203,
+    "name": "炫彩锋芒",
+    "original": "110182581_p0.jpg",
+    "width": 1600,
+    "height": 1600,
+    "ratio": 1,
+    "legacy": false,
+    "thumbnail": "assets/layers/cdeaf6653c35db2831ab4bae.webp",
+    "assets": {
+      "character": "assets/layers/401d3a36d8505ec081c29d5a.webp",
+      "background": "assets/layers/7089b32e8d9a40485fc93d60.webp",
+      "ui": "assets/layers/9acc294aa307f28a43f840e5.webp",
+      "structure": "assets/layers/8c5bda21c01a025e914bf3f1.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-5afbfa537a6a87c4",
+    "sourceId": "1Jlu3wprOsyMJhLFMD78vdX1-Oo3oyT0i",
+    "sourceIndex": 204,
+    "name": "星桥相伴",
+    "original": "109779549_p0.jpg",
+    "width": 1600,
+    "height": 900,
+    "ratio": 1.7777777777777777,
+    "legacy": false,
+    "thumbnail": "assets/layers/528c1161605ab09249836203.webp",
+    "assets": {
+      "character": "assets/layers/ed60a4b97258fe6f1a84ac21.webp",
+      "background": "assets/layers/7842a4b98ea483190a6b9950.webp",
+      "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+      "structure": "assets/layers/5ad80db23617947a8accdf46.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-b9986e86eb73db65",
+    "sourceId": "1opxLCNfT3Z19_jkL7UVugBNcSgnZlUuH",
+    "sourceIndex": 206,
+    "name": "枫庭回望",
+    "original": "109045598_p0.jpg",
+    "width": 1600,
+    "height": 738,
+    "ratio": 2.168021680216802,
+    "legacy": false,
+    "thumbnail": "assets/layers/404bf9b08e007b78f6fd2f69.webp",
+    "assets": {
+      "character": "assets/layers/d8a29458b2fbeb376ec3fae2.webp",
+      "background": "assets/layers/bd67953de3e1cb97b085560a.webp",
+      "ui": "assets/layers/d168cdcbfb25141c001e430a.webp",
+      "structure": "assets/layers/1dd084b88c2fbaea2c37fcdd.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-91c8c84429548a5d",
+    "sourceId": "1mc8MMJ0R4XfKz9rwMMYqrgm30ICgMkwp",
+    "sourceIndex": 208,
+    "name": "齿轮暮时",
+    "original": "108902587_p0.jpg",
+    "width": 1600,
+    "height": 686,
+    "ratio": 2.3323615160349855,
+    "legacy": false,
+    "thumbnail": "assets/layers/79929cca25cc9ac35f974f04.webp",
+    "assets": {
+      "character": "assets/layers/b1bdf41783faea14bc8427b8.webp",
+      "background": "assets/layers/d5416a9c4ef245a7666467d8.webp",
+      "ui": "assets/layers/00575c54e38f38a9c0d9b658.webp",
+      "structure": "assets/layers/c4bd0c2463d5758395e237d8.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-a3ef6ad22634dd4e",
+    "sourceId": "1xRDNCNOn3EVBoc9eMFoBwuTS8_R1kont",
+    "sourceIndex": 209,
+    "name": "清茶猫语",
+    "original": "108640782_p0.jpg",
+    "width": 1078,
+    "height": 1600,
+    "ratio": 0.67375,
+    "legacy": false,
+    "thumbnail": "assets/layers/af64347d470e3f65f9a54ffd.webp",
+    "assets": {
+      "character": "assets/layers/9de4f774761b552f5e024eaa.webp",
+      "background": "assets/layers/55600818c03ef8aab8ad7710.webp",
+      "ui": "assets/layers/ebba51ddd75a62ff67d6f98d.webp",
+      "structure": "assets/layers/1999ccd80fd664df5623124d.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  },
+  {
+    "id": "art-3aa8854d7dd41abb",
+    "sourceId": "10j-te1ka_CTsxYzXZuXthQ4HxjgKD6LG",
+    "sourceIndex": 213,
+    "name": "晴空双影",
+    "original": "108253372_p0.jpg",
+    "width": 1600,
+    "height": 598,
+    "ratio": 2.6755852842809364,
+    "legacy": false,
+    "thumbnail": "assets/layers/7cc5c0f2e182cb2186bf5731.webp",
+    "assets": {
+      "character": "assets/layers/d368155c7641d6b157733891.webp",
+      "background": "assets/layers/d4e98f8f91a00fed47945495.webp",
+      "ui": "assets/layers/2d77e1c23403f53d41fbb84d.webp",
+      "structure": "assets/layers/c0c2959c22c48057a94979ed.webp",
+      "backgroundScale": 1
+    },
+    "back": "assets/layers/afe85f2b001d50d84bff9f26.png"
+  }
+]

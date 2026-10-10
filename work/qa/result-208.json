@@ -1,0 +1,19 @@
+{
+  "id": "art-91c8c84429548a5d",
+  "sourceId": "1mc8MMJ0R4XfKz9rwMMYqrgm30ICgMkwp",
+  "sourceIndex": 208,
+  "name": "齿轮暮时",
+  "original": "108902587_p0.jpg",
+  "width": 1600,
+  "height": 686,
+  "ratio": 2.3323615160349855,
+  "legacy": false,
+  "thumbnail": "assets/layers/79929cca25cc9ac35f974f04.webp",
+  "assets": {
+    "character": "assets/layers/b1bdf41783faea14bc8427b8.webp",
+    "background": "assets/layers/d5416a9c4ef245a7666467d8.webp",
+    "ui": "assets/layers/00575c54e38f38a9c0d9b658.webp",
+    "structure": "assets/layers/c4bd0c2463d5758395e237d8.webp",
+    "backgroundScale": 1
+  }
+}

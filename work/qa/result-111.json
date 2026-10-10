@@ -1,0 +1,19 @@
+{
+  "id": "art-fbd9ec95f0c93ffd",
+  "sourceId": "1pgPPM_KRsy_OvNu8MsVHja9HmU91N7NT",
+  "sourceIndex": 111,
+  "name": "雾城驭龙",
+  "original": "Cache_-40d00ea9dd4b9f2f.jpg",
+  "width": 900,
+  "height": 1600,
+  "ratio": 0.5625,
+  "legacy": false,
+  "thumbnail": "assets/layers/5e457ef9de3ee122315486d0.webp",
+  "assets": {
+    "character": "assets/layers/340caff391f551a11f6f261d.webp",
+    "background": "assets/layers/90419f9cb9c63dc991fa71c3.webp",
+    "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+    "structure": "assets/layers/e8f492d9cddd3ddf9c430bdb.webp",
+    "backgroundScale": 1
+  }
+}

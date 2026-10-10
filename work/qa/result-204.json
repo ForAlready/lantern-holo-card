@@ -1,0 +1,19 @@
+{
+  "id": "art-5afbfa537a6a87c4",
+  "sourceId": "1Jlu3wprOsyMJhLFMD78vdX1-Oo3oyT0i",
+  "sourceIndex": 204,
+  "name": "星桥相伴",
+  "original": "109779549_p0.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/528c1161605ab09249836203.webp",
+  "assets": {
+    "character": "assets/layers/ed60a4b97258fe6f1a84ac21.webp",
+    "background": "assets/layers/7842a4b98ea483190a6b9950.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/5ad80db23617947a8accdf46.webp",
+    "backgroundScale": 1
+  }
+}

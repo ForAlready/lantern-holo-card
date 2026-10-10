@@ -1,0 +1,25 @@
+{
+  "index": 176,
+  "id": "1244p9xCzhyTEIkRA-_Di5yFIby3196_4",
+  "title": "114530611_p0.jpg",
+  "name": "紫夜疾驰",
+  "proxyPath": "work/layers/proxy-176.jpg",
+  "status": "needs-composite-review",
+  "width": 1600,
+  "height": 900,
+  "maskPath": "work/layers/mask-176.png",
+  "subjectRect": [
+    0.139,
+    0.008,
+    0.487,
+    0.951
+  ],
+  "backgroundPath": "work/layers/background-176.png",
+  "signatureRect": [
+    0.499,
+    0.818,
+    0.121,
+    0.098
+  ],
+  "notes": "Adult seated woman foreground; unoccupied car retained as background. Preserve original license plate pixels via signatureRect."
+}

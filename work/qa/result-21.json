@@ -1,0 +1,19 @@
+{
+  "id": "art-cec81cf32c545199",
+  "sourceId": "1QOWJiR-zRY53yAwkTznfWKlA_ic_cD3k",
+  "sourceIndex": 21,
+  "name": "流光骑迹",
+  "original": "Cache_1456350768e71b95.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/0bd3285f5f6dc0ebfde8b46c.webp",
+  "assets": {
+    "character": "assets/layers/0d0fb57070726feb2d4b1e46.webp",
+    "background": "assets/layers/8adf198e45a24c0034403dd9.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/03f28718fb14a626dbbaf2b8.webp",
+    "backgroundScale": 1
+  }
+}

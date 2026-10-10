@@ -1,0 +1,19 @@
+{
+  "index": 146,
+  "id": "1kbQJDeIohDXVzT1QFRfk3Wz-lI-jdlhf",
+  "title": "d3455e04bd36fbb4b1f427a16d94afb0.jpg",
+  "name": "烈焰同行",
+  "width": 1600,
+  "height": 1000,
+  "proxyPath": "work/layers/proxy-146.jpg",
+  "maskPath": "work/layers/mask-146-v3.png",
+  "backgroundPath": "work/layers/background-146.png",
+  "subjectRect": [
+    0,
+    0,
+    1,
+    0.94
+  ],
+  "status": "needs-composite-review",
+  "notes": "All foreground people and armored fantasy giants, rifles and capes together; ground excluded. Clean battle landscape. Surviving 1600px proxy precision limited. V3 removes internal contour lines and rifle-outline, original registration still requires composite review."
+}

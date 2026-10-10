@@ -1,0 +1,17 @@
+{
+  "index": 7,
+  "id": "1-5A4p2KYIm8KrbrwqTJu4zuNGOvylgRK",
+  "name": "纸间蓝韵",
+  "original": "plvlive_20240817-203053.png",
+  "title": "plvlive_20240817-203053.png",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-7",
+  "proxyPath": "work/layers/proxy-7.jpg",
+  "atlasPath": "work/layers/atlas-7.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "width": 2628,
+  "height": 4672,
+  "status": "needs-composite-review",
+  "notes": "v5 targeted internal-hole fill of exact-trace v4. Face/hand/clothing interiors solid white; obvious lower-left wallpaper fragments excluded. Root composite must verify sleeve and curls geometry. Existing atlas background preserved.",
+  "maskPath": "work/layers/mask-7-precise-v5.png"
+}

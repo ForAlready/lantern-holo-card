@@ -1,0 +1,19 @@
+{
+  "id": "art-2c7ee508ba90c468",
+  "sourceId": "1MmV_BBgVk26dE6VFN8w4bW82TwYRXF6P",
+  "sourceIndex": 130,
+  "name": "果园晨甜",
+  "original": "Cache_-3295ffb7f1f35175.jpg",
+  "width": 958,
+  "height": 1600,
+  "ratio": 0.59875,
+  "legacy": false,
+  "thumbnail": "assets/layers/c0903958016d9c1a5d8bf155.webp",
+  "assets": {
+    "character": "assets/layers/c8b5d4f7f71d02b33d530a1f.webp",
+    "background": "assets/layers/8ee594a1a99a793c95acb083.webp",
+    "ui": "assets/layers/67d769cc646cc258d112ffbc.webp",
+    "structure": "assets/layers/15cd72f01872f57185eaca2d.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "art-1123531af6589284",
+  "sourceId": "1aMrOlBwwGZDmms1-l5KRe6J9NKvv61a4",
+  "sourceIndex": 86,
+  "name": "星海鲸游",
+  "original": "Cache_-243bced657fe388a.jpg",
+  "width": 1600,
+  "height": 1200,
+  "ratio": 1.3333333333333333,
+  "legacy": false,
+  "thumbnail": "assets/layers/b85d6caac9af73421be62b03.webp",
+  "assets": {
+    "character": "assets/layers/2fa14e59ec155a17180189c5.webp",
+    "background": "assets/layers/9f1f6901eed97da53dabed59.webp",
+    "ui": "assets/layers/5f4d0880af99b51ce0af601a.webp",
+    "structure": "assets/layers/10f1d5784798bcf21d1efb48.webp",
+    "backgroundScale": 1
+  }
+}

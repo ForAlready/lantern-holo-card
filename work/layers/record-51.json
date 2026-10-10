@@ -1,0 +1,16 @@
+{
+  "index": 51,
+  "id": "11RL931ofjf9oDq2SDqHQVur6n4SiPQ14",
+  "name": "月幕星歌",
+  "original": "Cache_35c8f0c5cdcf9588.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-51",
+  "proxyPath": "work/layers/proxy-51.jpg",
+  "atlasPath": "work/layers/atlas-51.png",
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "width": 20000,
+  "height": 11112,
+  "status": "needs-composite-review",
+  "notes": "Single mask preserves original coordinates; person-only foreground, original RGB will be retained. Root must verify composite.",
+  "maskPath": "work/layers/mask-51-v3.png"
+}

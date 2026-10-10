@@ -1,0 +1,21 @@
+{
+  "index": 78,
+  "id": "1McSqlqsLZeXeuh4450WRxvIcYxtlHb3v",
+  "title": "Cache_37f4cfc62f42ed13.jpg",
+  "name": "锦衣同庆",
+  "width": 7680,
+  "height": 3840,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/../originals/source-78",
+  "proxyPath": "work/layers/proxy-78.jpg",
+  "maskPath": "work/layers/mask-78-root-v1.png",
+  "backgroundPath": "work/layers/background-78-root-v1.png",
+  "status": "needs-composite-review",
+  "backgroundOriginalRects": [
+    [
+      0.229,
+      0,
+      0.568,
+      0.32
+    ]
+  ]
+}

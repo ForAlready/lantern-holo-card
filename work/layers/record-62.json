@@ -1,0 +1,19 @@
+{
+  "index": 62,
+  "id": "14DWTX7JGhRMfafKF8dN9XCmhecMcnpjo",
+  "title": "119419055_p0.jpg",
+  "name": "碧海绮歌",
+  "width": 2700,
+  "height": 6300,
+  "proxyPath": "work/layers/proxy-62.jpg",
+  "maskPath": "work/layers/mask-62-aligned.png",
+  "backgroundPath": "work/layers/background-62-clean.png",
+  "status": "needs-composite-review",
+  "notes": "Original large file is unavailable after workspace pruning; surviving source proxy used. SINGLE generated binary mask and separately cleaned background. Original RGB foreground and original-pixel signatures only.",
+  "signatureRect": [
+    0.83,
+    0.982,
+    0.17,
+    0.018
+  ]
+}

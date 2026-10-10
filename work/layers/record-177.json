@@ -1,0 +1,21 @@
+{
+  "index": 177,
+  "id": "1izcRYHgZcTWGQgbK53XuNGMcnlOQLudh",
+  "name": "向阳花束",
+  "original": "100112611_p0_master1200.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-177",
+  "proxyPath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/work/layers/proxy-177.jpg",
+  "atlasPath": "work/layers/atlas-177.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "width": 1050,
+  "height": 1447,
+  "subjectRect": [
+    0,
+    0.173,
+    1,
+    0.827
+  ],
+  "status": "generated-reviewed",
+  "notes": "Clean sunflower field; no subject ghosts. Mask position changed: bbox must register to source full-width foreground starting y=.173; bouquet and costume preserved. Composite edge QA required."
+}

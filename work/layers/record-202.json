@@ -1,0 +1,19 @@
+{
+  "index": 202,
+  "id": "1kZF3lkH2lEBoUgRQokndGQ_ejneRtel3",
+  "title": "110358123_p0.jpg",
+  "name": "月下星原",
+  "width": 1000,
+  "height": 1414,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/../originals/source-202",
+  "proxyPath": "work/layers/proxy-202.jpg",
+  "maskPath": "work/layers/mask-202-root-v1.png",
+  "backgroundPath": "work/layers/background-202-root-v1.png",
+  "status": "needs-composite-review",
+  "signatureRect": [
+    0.007,
+    0.009,
+    0.103,
+    0.125
+  ]
+}

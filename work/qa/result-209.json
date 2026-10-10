@@ -1,0 +1,19 @@
+{
+  "id": "art-a3ef6ad22634dd4e",
+  "sourceId": "1xRDNCNOn3EVBoc9eMFoBwuTS8_R1kont",
+  "sourceIndex": 209,
+  "name": "清茶猫语",
+  "original": "108640782_p0.jpg",
+  "width": 1078,
+  "height": 1600,
+  "ratio": 0.67375,
+  "legacy": false,
+  "thumbnail": "assets/layers/af64347d470e3f65f9a54ffd.webp",
+  "assets": {
+    "character": "assets/layers/9de4f774761b552f5e024eaa.webp",
+    "background": "assets/layers/55600818c03ef8aab8ad7710.webp",
+    "ui": "assets/layers/ebba51ddd75a62ff67d6f98d.webp",
+    "structure": "assets/layers/1999ccd80fd664df5623124d.webp",
+    "backgroundScale": 1
+  }
+}

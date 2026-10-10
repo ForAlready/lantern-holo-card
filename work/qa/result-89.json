@@ -1,0 +1,19 @@
+{
+  "id": "art-21872771ca58ede5",
+  "sourceId": "1mB0WCDpwicyh3ZIohm9rAlfbA66pIbbv",
+  "sourceIndex": 89,
+  "name": "窗边轻聆",
+  "original": "Cache_-66fdf1834d22b104.jpg",
+  "width": 900,
+  "height": 1600,
+  "ratio": 0.5625,
+  "legacy": false,
+  "thumbnail": "assets/layers/48e38fca98a6b0e542dd608b.webp",
+  "assets": {
+    "character": "assets/layers/1049bf8f6491f82f531268e8.webp",
+    "background": "assets/layers/1f5574251e84deb8ed410763.webp",
+    "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+    "structure": "assets/layers/4d340ae1c16674c7220901d9.webp",
+    "backgroundScale": 1
+  }
+}

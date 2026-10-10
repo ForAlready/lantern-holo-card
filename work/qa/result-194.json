@@ -1,0 +1,19 @@
+{
+  "id": "art-d285015406fe125e",
+  "sourceId": "16ZW3vnlvtLNMNmuqKmpg0Ll2I31Ht7sA",
+  "sourceIndex": 194,
+  "name": "霓城夜奏",
+  "original": "112094545_p0.jpg",
+  "width": 1600,
+  "height": 898,
+  "ratio": 1.78173719376392,
+  "legacy": false,
+  "thumbnail": "assets/layers/a66b843842c52ad684fd28a1.webp",
+  "assets": {
+    "character": "assets/layers/df8544c9652ca85e5308a143.webp",
+    "background": "assets/layers/febcbf2b2036d908216b2dc4.webp",
+    "ui": "assets/layers/3cc30fc12905bd857f666dd0.webp",
+    "structure": "assets/layers/88223ae479630a01e1ee80d5.webp",
+    "backgroundScale": 1
+  }
+}

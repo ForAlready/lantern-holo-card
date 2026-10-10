@@ -1,0 +1,19 @@
+{
+  "id": "art-2b55e7036b0f525a",
+  "sourceId": "1OFH3XsFBQ9rwMLUJTr7FJe9eiF9B9CQH",
+  "sourceIndex": 12,
+  "name": "绒帽闲时",
+  "original": "plvlive_20240817-174542.png",
+  "width": 1095,
+  "height": 1600,
+  "ratio": 0.684375,
+  "legacy": false,
+  "thumbnail": "assets/layers/1166adcef3fffb272de232db.webp",
+  "assets": {
+    "character": "assets/layers/564709a0635fc6ebf2000ba1.webp",
+    "background": "assets/layers/c3dc1c3283d5474513364c58.webp",
+    "ui": "assets/layers/dec151342e3ed43f56fd77be.webp",
+    "structure": "assets/layers/75f6b17f083a33f168b482c2.webp",
+    "backgroundScale": 1
+  }
+}

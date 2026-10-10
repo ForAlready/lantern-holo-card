@@ -1,0 +1,19 @@
+{
+  "id": "art-17caba7b98916393",
+  "sourceId": "1DB6YnCFB4PDKVzLIngewwJgfBsSPAmqY",
+  "sourceIndex": 16,
+  "name": "纸墙随想",
+  "original": "plvlive_20240817-174115.png",
+  "width": 1080,
+  "height": 1440,
+  "ratio": 0.75,
+  "legacy": false,
+  "thumbnail": "assets/layers/f12dcbfa9e0aad8f183a8e90.webp",
+  "assets": {
+    "character": "assets/layers/0d5c05268f212574c06cfe42.webp",
+    "background": "assets/layers/40dad6c67aa91fff7fa0be62.webp",
+    "ui": "assets/layers/67fdb14723090288d1bf5533.webp",
+    "structure": "assets/layers/a31c14f45f3daae4f95951b6.webp",
+    "backgroundScale": 1
+  }
+}

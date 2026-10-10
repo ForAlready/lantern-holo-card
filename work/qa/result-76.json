@@ -1,0 +1,19 @@
+{
+  "id": "art-c86812b9363bc769",
+  "sourceId": "1rowDYwa__UuW6KYy5M0VpCulKD8Nnls5",
+  "sourceIndex": 76,
+  "name": "暮海归风",
+  "original": "Cache_38ac705bfb41132b.jpg",
+  "width": 955,
+  "height": 1600,
+  "ratio": 0.596875,
+  "legacy": false,
+  "thumbnail": "assets/layers/45ac465aba65fe80ed094c91.webp",
+  "assets": {
+    "character": "assets/layers/270f98d0e94d443d437350a4.webp",
+    "background": "assets/layers/02b1c605fb3bbc562e1a56ba.webp",
+    "ui": "assets/layers/9b2b917d61d59ef0154b2a89.webp",
+    "structure": "assets/layers/76a12c33fceb8fe5408dd2af.webp",
+    "backgroundScale": 1
+  }
+}

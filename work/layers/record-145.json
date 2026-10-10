@@ -1,0 +1,19 @@
+{
+  "index": 145,
+  "id": "16oYGOUK3Nc8I50iI7IEvyGfCARFii1ug",
+  "title": "Cache_-68c7ef0e26258015.png",
+  "name": "星彩祈愿",
+  "width": 1069,
+  "height": 1600,
+  "proxyPath": "work/layers/proxy-145.jpg",
+  "maskPath": "work/layers/mask-145-v2.png",
+  "backgroundPath": "work/layers/background-145.png",
+  "subjectRect": [
+    0,
+    0.037,
+    1,
+    0.963
+  ],
+  "status": "needs-composite-review",
+  "notes": "SINGLE full clothed wizard mask; v2 fills erroneous interior hat/hair arcs. Clean purple turquoise rocky magic-star background. Surviving 1600px proxy used; precision limited. Original geometry registration still requires composite approval."
+}
