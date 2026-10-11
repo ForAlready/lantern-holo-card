@@ -1,0 +1,20 @@
+{
+  "id": "art-0b343962895603d6",
+  "sourceId": "attachment:1d8f7ea4f5f7c01deb45a34defa40d6b1ede6eea50c987e2c7c01bb27a0209ee",
+  "sourceIndex": 229,
+  "sourceKind": "attachment",
+  "name": "雪城花誓",
+  "original": "IMG_0737.jpeg",
+  "width": 1078,
+  "height": 1536,
+  "ratio": 0.7018229166666666,
+  "legacy": false,
+  "thumbnail": "assets/layers/4039f0ba1596040c5b3b448f.webp",
+  "assets": {
+    "character": "assets/layers/a7549c6c3ed03fa7b1898dbf.webp",
+    "background": "assets/layers/91d3c3824fae4a78b31a5193.webp",
+    "ui": "assets/layers/3c756ca068248aae34ddbff1.webp",
+    "structure": "assets/layers/cc76ecb5c6731bff87cf3334.webp",
+    "backgroundScale": 1
+  }
+}

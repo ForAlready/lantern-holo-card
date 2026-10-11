@@ -1,0 +1,23 @@
+{
+  "id": "attachment:86c2f2f56accdf218db94f036f8db707e09f20c38560e9017556613ad5d32121",
+  "title": "IMG_0735.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 299761,
+  "sourceKind": "attachment",
+  "index": 230,
+  "name": "金叶静影",
+  "sourcePath": "work/layers/upload-230.jpg",
+  "proxyPath": "work/layers/upload-230.jpg",
+  "origin": {
+    "id": "attachment:86c2f2f56accdf218db94f036f8db707e09f20c38560e9017556613ad5d32121",
+    "title": "IMG_0735.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 299761,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-230.png"
+}

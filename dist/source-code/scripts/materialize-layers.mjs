@@ -8,10 +8,10 @@ fs.mkdirSync('dist/assets/layers',{recursive:true});fs.mkdirSync('work/qa',{recu
 async function save(buffer,ext){const file='assets/layers/'+sha(buffer)+'.'+ext;fs.writeFileSync('dist/'+file,buffer);return file;}
 async function materialize(r){
  if(/excluded|blocked/.test(r.status||'')){console.log('Excluded',r.index);return;}
- const inventory=JSON.parse(fs.readFileSync('work/source-inventory.json')),origin=inventory[r.index];
+ const inventory=JSON.parse(fs.readFileSync('work/source-inventory.json')),origin=r.origin??inventory[r.index];
  if(!origin||origin.id!==r.id)throw Error('Source ID mismatch');
  const source=r.sourcePath&&fs.existsSync(r.sourcePath)?r.sourcePath:r.proxyPath;
- const sm=await sharp(source,{limitInputPixels:false}).metadata(),scale=Math.min(1,1600/Math.max(sm.width,sm.height)),width=Math.round(sm.width*scale),height=Math.round(sm.height*scale);
+ const sm=await sharp(source,{limitInputPixels:false}).metadata(),scale=Math.min(1,(r.maxLongEdge??1600)/Math.max(sm.width,sm.height)),width=Math.round(sm.width*scale),height=Math.round(sm.height*scale);
  const rgb=await sharp(source,{limitInputPixels:false}).resize(width,height,{fit:'fill'}).removeAlpha().toColourspace('srgb').raw().toBuffer();
  const am=r.atlasPath?await sharp(r.atlasPath).metadata():null,side=['side-by-side','horizontal','left-right'].includes(r.layout),split=r.panelSplit??.5;
  const first=am?(side?{left:0,top:0,width:Math.round(am.width*split),height:am.height}:{left:0,top:0,width:am.width,height:Math.round(am.height*split)}):null;
@@ -40,7 +40,7 @@ async function materialize(r){
  const ui=await sharp({create:{width,height,channels:4,background:'#00000000'}}).composite(overlays).webp({lossless:true}).toBuffer();
  const composite=await sharp(background).composite([{input:character},{input:ui}]).png().toBuffer();
  const thumbnail=await sharp(composite).resize({width:540,height:675,fit:'inside'}).webp({quality:84}).toBuffer();
- const result={id:'art-'+crypto.createHash('sha256').update(r.id).digest('hex').slice(0,16),sourceId:r.id,sourceIndex:r.index,name:r.name,original:origin.title,width,height,ratio:width/height,legacy:false,thumbnail:await save(thumbnail,'webp'),assets:{character:await save(character,'webp'),background:await save(background,'webp'),ui:await save(ui,'webp'),structure:await save(line,'webp'),backgroundScale:1}};
+ const result={id:'art-'+crypto.createHash('sha256').update(r.id).digest('hex').slice(0,16),sourceId:r.id,sourceIndex:r.index,...(r.sourceKind?{sourceKind:r.sourceKind}:{}),name:r.name,original:origin.title,width,height,ratio:width/height,legacy:false,thumbnail:await save(thumbnail,'webp'),assets:{character:await save(character,'webp'),background:await save(background,'webp'),ui:await save(ui,'webp'),structure:await save(line,'webp'),backgroundScale:1}};
  const previews=[await sharp(rgb,{raw:{width,height,channels:3}}).png().toBuffer(),composite,character,background,line];const labels=['ORIGINAL','COMPOSITE','SUBJECT','BACKGROUND','CONTOUR'];const cells=[];for(let i=0;i<previews.length;i++){const b=await sharp(previews[i]).resize({width:260,height:380,fit:'inside'}).toBuffer(),meta=await sharp(b).metadata();cells.push({input:b,left:i*280+10+Math.round((260-meta.width)/2),top:30+Math.round((380-meta.height)/2)});cells.push({input:Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="260" height="25"><text x="4" y="18" fill="white" font-size="13">${labels[i]}</text></svg>`),left:i*280+10,top:3});}
  await sharp({create:{width:1400,height:420,channels:4,background:'#27232d'}}).composite(cells).png().toFile(`work/qa/contact-${r.index}.png`);
  fs.writeFileSync(`work/qa/result-${r.index}.json`,JSON.stringify(result,null,2));console.log('Materialized',r.index,r.name,width,height);

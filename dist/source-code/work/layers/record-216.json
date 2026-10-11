@@ -1,0 +1,24 @@
+{
+  "id": "attachment:159f8ed0b39b8ff54077ab8d4eb76e16a0cfce5ca375da5bc37a416b20e18534",
+  "title": "IMG_0540.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 268584,
+  "sourceKind": "attachment",
+  "index": 216,
+  "name": "蓝金慵时",
+  "sourcePath": "work/layers/upload-216.jpg",
+  "proxyPath": "work/layers/upload-216.jpg",
+  "origin": {
+    "id": "attachment:159f8ed0b39b8ff54077ab8d4eb76e16a0cfce5ca375da5bc37a416b20e18534",
+    "title": "IMG_0540.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 268584,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-216.png",
+  "maskPath": "work/layers/mask-216.png"
+}

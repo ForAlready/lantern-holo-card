@@ -1,0 +1,20 @@
+{
+  "id": "art-4cda11eb47290da4",
+  "sourceId": "attachment:33d1456ebb50706fc0be8caab7c9cb3306b4939a18add1968fd9230dcf592420",
+  "sourceIndex": 226,
+  "sourceKind": "attachment",
+  "name": "晶灯时环",
+  "original": "89165a8dbr1ad491c1fa4070125a619f.jpeg",
+  "width": 1064,
+  "height": 1536,
+  "ratio": 0.6927083333333334,
+  "legacy": false,
+  "thumbnail": "assets/layers/2ae7989cf364b4b640982d0f.webp",
+  "assets": {
+    "character": "assets/layers/0961455526aa8c5972011105.webp",
+    "background": "assets/layers/99aa11e99df6b0f03fa84804.webp",
+    "ui": "assets/layers/e7e29e99b93346957bd49b70.webp",
+    "structure": "assets/layers/ea5056dfcdbf358968727c4a.webp",
+    "backgroundScale": 1
+  }
+}

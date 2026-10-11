@@ -1,0 +1,20 @@
+{
+  "id": "art-7e2dadac6c861808",
+  "sourceId": "attachment:38547374c58de2352f7ba281931c36afb66aee990ccdde585c32c3f3850203c1",
+  "sourceIndex": 214,
+  "sourceKind": "attachment",
+  "name": "暖夜小憩",
+  "original": "IMG_0694.jpeg",
+  "width": 1536,
+  "height": 864,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/4bb4e8d840ffff93343ee5ea.webp",
+  "assets": {
+    "character": "assets/layers/67dc373dd5c7fda17c96ca64.webp",
+    "background": "assets/layers/a3f35f37b5421c43c9a2124d.webp",
+    "ui": "assets/layers/8117cd955f8b4b242aa35d0f.webp",
+    "structure": "assets/layers/6831cd1254d48cdb3715f420.webp",
+    "backgroundScale": 1
+  }
+}

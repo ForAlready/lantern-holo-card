@@ -1,0 +1,24 @@
+{
+  "id": "attachment:4eda931d728ec12d946b65559d30d1350a596c98d80d7b9e2f2b3a93a94fce8b",
+  "title": "IMG_0536.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 615535,
+  "sourceKind": "attachment",
+  "index": 220,
+  "name": "暖泉花影",
+  "sourcePath": "work/layers/upload-220.jpg",
+  "proxyPath": "work/layers/upload-220.jpg",
+  "origin": {
+    "id": "attachment:4eda931d728ec12d946b65559d30d1350a596c98d80d7b9e2f2b3a93a94fce8b",
+    "title": "IMG_0536.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 615535,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-220.png",
+  "maskPath": "work/layers/mask-220.png"
+}

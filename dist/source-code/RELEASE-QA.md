@@ -29,3 +29,11 @@ The former canvas was capped at 900/1408px wide and 1600px tall irrespective of 
 Phone 350×560 visible artwork at DPR 3 now renders at 1050×1680 visible pixels instead of the previous 562.5px visible width cap. A 1024×1440 CSS canvas at DPR 2 uses 2048×2880 backing pixels. Dimension, aspect, GPU budget and repeated resize/dispose tests pass; actual-device Safari/GPU sharpness and memory remain unverified.
 
 Previous native GitHub commit d2a24481d23604e7c218b18a9690bc862bb61846 and Pages run 38076933945 are confirmed successful. The former mirror manifest omitted physical dist/source-code paths and the local pull helper did not refresh README or its own manifest. Both are now included for a complete portable dist mirror; the pull helper still performs no remote Git mutation. Current GitHub synchronization is a native one-time commit with per-file Git blob verification and Pages result verification.
+
+## Uploaded card import — 2026-10-11
+
+Twenty uploaded files were reconciled: 16 processed into native-resolution layered cards; four safety-excluded uploads were not published. Existing 140 records are retained, yielding 156 unique cards. Duplicate comparison found no matching prior imported source. Each new static composite was visually reviewed; masks were corrected where position drifted, a residual bridal veil was removed from its background, and one plain background received matching scenes. Subjects use original RGB pixels, with content-hashed background, subject, contour, decoration and thumbnail assets. Offline depth endpoint sampling covers every new card. This is not a real GPU/Safari/mobile test.
+
+The same public Site and GitHub repository receive the exact updated code, catalog and processed assets; the previous Site version remains available for rollback. Native asset decode/hash checks, source reconciliation, search by title and filename, original backs, responsive card geometry, collection virtualization, renderer lifecycle and HiDPI sizing are checked before publication.
+
+Final uploaded-import verification: 156 unique cards and 736 fully decoded, hash-verified referenced assets; all 140 existing records unchanged. Unused candidate assets were pruned.

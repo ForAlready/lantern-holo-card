@@ -2,7 +2,7 @@
 import fs from 'node:fs';import{createRequire}from'node:module';
 const sharp=createRequire(import.meta.url)(process.env.CODEX_PRIMARY_RUNTIME_NODE_MODULES+'/sharp');
 const cards=JSON.parse(fs.readFileSync('dist/catalog.json')).filter(c=>!c.legacy);
-const selected=new Set([53,81,88,123,126,169,171,204,208,209,213]);const cells=[];
+const selected=new Set(JSON.parse(fs.readFileSync("work/qa/attachment-approved.json")));const cells=[];
 for(const c of cards){
  const w=360,h=Math.round(w/c.ratio),layers=[];
  for(const k of['background','character','ui'])layers.push(await sharp('dist/'+c.assets[k]).resize(w,h).ensureAlpha().raw().toBuffer());

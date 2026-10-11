@@ -1,0 +1,23 @@
+{
+  "id": "attachment:33d1456ebb50706fc0be8caab7c9cb3306b4939a18add1968fd9230dcf592420",
+  "title": "89165a8dbr1ad491c1fa4070125a619f.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 838145,
+  "sourceKind": "attachment",
+  "index": 226,
+  "name": "晶灯时环",
+  "sourcePath": "work/layers/upload-226.jpg",
+  "proxyPath": "work/layers/upload-226.jpg",
+  "origin": {
+    "id": "attachment:33d1456ebb50706fc0be8caab7c9cb3306b4939a18add1968fd9230dcf592420",
+    "title": "89165a8dbr1ad491c1fa4070125a619f.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 838145,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-226.png"
+}

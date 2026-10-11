@@ -1,0 +1,24 @@
+{
+  "id": "attachment:1d8f7ea4f5f7c01deb45a34defa40d6b1ede6eea50c987e2c7c01bb27a0209ee",
+  "title": "IMG_0737.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 848199,
+  "sourceKind": "attachment",
+  "index": 229,
+  "name": "雪城花誓",
+  "sourcePath": "work/layers/upload-229.jpg",
+  "proxyPath": "work/layers/upload-229.jpg",
+  "origin": {
+    "id": "attachment:1d8f7ea4f5f7c01deb45a34defa40d6b1ede6eea50c987e2c7c01bb27a0209ee",
+    "title": "IMG_0737.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 848199,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-229.png",
+  "backgroundPath": "work/layers/background-229.png"
+}

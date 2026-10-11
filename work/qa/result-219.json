@@ -1,0 +1,20 @@
+{
+  "id": "art-01cdc5fa187270a9",
+  "sourceId": "attachment:5e53855c0bad90006241a7049cbc36a84e2192023653e447faa25b7c415f7256",
+  "sourceIndex": 219,
+  "sourceKind": "attachment",
+  "name": "月下樱刃",
+  "original": "IMG_0537.jpeg",
+  "width": 1536,
+  "height": 872,
+  "ratio": 1.761467889908257,
+  "legacy": false,
+  "thumbnail": "assets/layers/34130e11ce92c174bba542c0.webp",
+  "assets": {
+    "character": "assets/layers/7134e4b142c6f3da573fb26f.webp",
+    "background": "assets/layers/784a81ec3343a6501585afc7.webp",
+    "ui": "assets/layers/d11d0f5be507b5227a76edae.webp",
+    "structure": "assets/layers/a987e324223acbe2c1d7b8ec.webp",
+    "backgroundScale": 1
+  }
+}

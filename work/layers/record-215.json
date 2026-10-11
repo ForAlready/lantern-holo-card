@@ -1,0 +1,24 @@
+{
+  "id": "attachment:a31fcb0ca0d0075090751ce735f5165baf94e928c3c6974eb144b5b379f38922",
+  "title": "IMG_0693.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 411094,
+  "sourceKind": "attachment",
+  "index": 215,
+  "name": "晴场合影",
+  "sourcePath": "work/layers/upload-215.jpg",
+  "proxyPath": "work/layers/upload-215.jpg",
+  "origin": {
+    "id": "attachment:a31fcb0ca0d0075090751ce735f5165baf94e928c3c6974eb144b5b379f38922",
+    "title": "IMG_0693.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 411094,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-215.png",
+  "maskPath": "work/layers/mask-215.png"
+}

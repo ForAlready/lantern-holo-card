@@ -1,0 +1,24 @@
+{
+  "id": "attachment:8a5f7ca38872bffbcb32465377f9c27326d8fc7f9889163ebe827b7fbaad1f7e",
+  "title": "IMG_0625.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 639502,
+  "sourceKind": "attachment",
+  "index": 233,
+  "name": "樱月灯城",
+  "sourcePath": "work/layers/upload-233.jpg",
+  "proxyPath": "work/layers/upload-233.jpg",
+  "origin": {
+    "id": "attachment:8a5f7ca38872bffbcb32465377f9c27326d8fc7f9889163ebe827b7fbaad1f7e",
+    "title": "IMG_0625.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 639502,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-233.png",
+  "maskPath": "work/layers/mask-233.png"
+}

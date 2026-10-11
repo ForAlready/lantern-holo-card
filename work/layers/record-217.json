@@ -1,0 +1,30 @@
+{
+  "id": "attachment:a807a28bd0f08fd0cd1a976e66c3e2a10691f712fb6d6b4aad1d7b2cae09b7ac",
+  "title": "IMG_0539.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 599246,
+  "sourceKind": "attachment",
+  "index": 217,
+  "name": "绯羽午后",
+  "sourcePath": "work/layers/upload-217.jpg",
+  "proxyPath": "work/layers/upload-217.jpg",
+  "origin": {
+    "id": "attachment:a807a28bd0f08fd0cd1a976e66c3e2a10691f712fb6d6b4aad1d7b2cae09b7ac",
+    "title": "IMG_0539.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 599246,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "signatureRect": [
+    0.852,
+    0.954,
+    0.145,
+    0.043
+  ],
+  "atlasPath": "work/layers/atlas-217.png",
+  "maskPath": "work/layers/mask-217.png"
+}

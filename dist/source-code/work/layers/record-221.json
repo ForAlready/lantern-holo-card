@@ -1,0 +1,24 @@
+{
+  "id": "attachment:61a5df3efa29f32838de91d8584a67c55863662c3bb507bbb17d16f20b820d76",
+  "title": "3459152d8mcf6398596cd2789725bd7b.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 598050,
+  "sourceKind": "attachment",
+  "index": 221,
+  "name": "金樱回眸",
+  "sourcePath": "work/layers/upload-221.jpg",
+  "proxyPath": "work/layers/upload-221.jpg",
+  "origin": {
+    "id": "attachment:61a5df3efa29f32838de91d8584a67c55863662c3bb507bbb17d16f20b820d76",
+    "title": "3459152d8mcf6398596cd2789725bd7b.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 598050,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-221.png",
+  "maskPath": "work/layers/mask-221.png"
+}

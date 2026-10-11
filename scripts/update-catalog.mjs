@@ -11,7 +11,8 @@ const added=approved.map(index=>{
  fs.writeFileSync(`work/qa/result-${index}.json`,JSON.stringify(card,null,2)+'\n');
  return card;
 });
-const cards=[...legacy,...added].map(c=>({...c,back:c.back||legacy[0].back}));
+const attachments=fs.existsSync('work/qa/attachment-approved.json')?read('work/qa/attachment-approved.json').map(index=>read(`work/qa/result-${index}.json`)):[];
+const cards=[...legacy,...added,...attachments].map(c=>({...c,back:c.back||legacy[0].back}));
 if(new Set(cards.map(c=>c.id)).size!==cards.length)throw Error('Duplicate card ID');
 fs.writeFileSync('dist/catalog.json',JSON.stringify(cards,null,2)+'\n');
-console.log(`Catalog: ${legacy.length} original + ${added.length} reviewed = ${cards.length}`);
+console.log(`Catalog: ${legacy.length} original + ${added.length} reviewed + ${attachments.length} attachments = ${cards.length}`);

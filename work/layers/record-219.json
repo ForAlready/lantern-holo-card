@@ -1,0 +1,24 @@
+{
+  "id": "attachment:5e53855c0bad90006241a7049cbc36a84e2192023653e447faa25b7c415f7256",
+  "title": "IMG_0537.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 727856,
+  "sourceKind": "attachment",
+  "index": 219,
+  "name": "月下樱刃",
+  "sourcePath": "work/layers/upload-219.jpg",
+  "proxyPath": "work/layers/upload-219.jpg",
+  "origin": {
+    "id": "attachment:5e53855c0bad90006241a7049cbc36a84e2192023653e447faa25b7c415f7256",
+    "title": "IMG_0537.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 727856,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-219.png",
+  "maskPath": "work/layers/mask-219.png"
+}

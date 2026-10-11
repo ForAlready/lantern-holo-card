@@ -1,0 +1,20 @@
+{
+  "id": "art-78d4161dfd9f518f",
+  "sourceId": "attachment:a31fcb0ca0d0075090751ce735f5165baf94e928c3c6974eb144b5b379f38922",
+  "sourceIndex": 215,
+  "sourceKind": "attachment",
+  "name": "晴场合影",
+  "original": "IMG_0693.jpeg",
+  "width": 1536,
+  "height": 864,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/8ed66a6937175bb285a9f22d.webp",
+  "assets": {
+    "character": "assets/layers/a14c9463027a0dc1c3253178.webp",
+    "background": "assets/layers/a67838ec1dcd45cc3ddab04a.webp",
+    "ui": "assets/layers/4d562bb512e48e732a33f7f4.webp",
+    "structure": "assets/layers/c99e1d8185d537ce0ec82544.webp",
+    "backgroundScale": 1
+  }
+}

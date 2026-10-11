@@ -1,0 +1,20 @@
+{
+  "id": "art-2a088e27b41a11ba",
+  "sourceId": "attachment:56a5c72bb0baa4adb59f88ac403a47333c51494e5c406cf6b5aaa308c1851428",
+  "sourceIndex": 223,
+  "sourceKind": "attachment",
+  "name": "赤缎夜影",
+  "original": "IMG_0525.jpeg",
+  "width": 1280,
+  "height": 1856,
+  "ratio": 0.6896551724137931,
+  "legacy": false,
+  "thumbnail": "assets/layers/42590c53787c7135ea90a367.webp",
+  "assets": {
+    "character": "assets/layers/088a102eef1465889a674f32.webp",
+    "background": "assets/layers/ff1d8f9c9d3d08072b6f868d.webp",
+    "ui": "assets/layers/3f4bdf9031a5e626ecf9e7d3.webp",
+    "structure": "assets/layers/68a72adc5418759b6aa54c26.webp",
+    "backgroundScale": 1
+  }
+}

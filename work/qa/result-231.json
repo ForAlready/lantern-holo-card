@@ -1,0 +1,20 @@
+{
+  "id": "art-89aa29431884d151",
+  "sourceId": "attachment:cdec69060a5f88ac409e0a995cbe509ea7c8641cfc8fe327428dc82082ab87fa",
+  "sourceIndex": 231,
+  "sourceKind": "attachment",
+  "name": "羽光画室",
+  "original": "IMG_0695.jpeg",
+  "width": 1536,
+  "height": 863,
+  "ratio": 1.779837775202781,
+  "legacy": false,
+  "thumbnail": "assets/layers/199e4f8049c6bfa1bd79230d.webp",
+  "assets": {
+    "character": "assets/layers/fb68e53cfdf2bfad2aee0f01.webp",
+    "background": "assets/layers/62bd293a5b2ad1db69184244.webp",
+    "ui": "assets/layers/31df4af4821d373e1d5c7b11.webp",
+    "structure": "assets/layers/bfcf6da7aa88a863fb5923b7.webp",
+    "backgroundScale": 1
+  }
+}

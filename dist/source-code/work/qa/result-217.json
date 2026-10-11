@@ -1,0 +1,20 @@
+{
+  "id": "art-5575ed07a2edc5e4",
+  "sourceId": "attachment:a807a28bd0f08fd0cd1a976e66c3e2a10691f712fb6d6b4aad1d7b2cae09b7ac",
+  "sourceIndex": 217,
+  "sourceKind": "attachment",
+  "name": "绯羽午后",
+  "original": "IMG_0539.jpeg",
+  "width": 1536,
+  "height": 864,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/48cde0aa26652ed6da73e8fb.webp",
+  "assets": {
+    "character": "assets/layers/860653df41e25ac437af3bae.webp",
+    "background": "assets/layers/eb407cb724e0b36b41ab90f5.webp",
+    "ui": "assets/layers/4d562bb512e48e732a33f7f4.webp",
+    "structure": "assets/layers/5d6e3512748a4e250afd1204.webp",
+    "backgroundScale": 1
+  }
+}

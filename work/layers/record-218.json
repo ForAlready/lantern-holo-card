@@ -1,0 +1,24 @@
+{
+  "id": "attachment:b53824128a8c21ff09c19c505a45a8bc3941c9c328005a7b341af29cef2b31f1",
+  "title": "IMG_0538.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 781432,
+  "sourceKind": "attachment",
+  "index": 218,
+  "name": "星海回澜",
+  "sourcePath": "work/layers/upload-218.jpg",
+  "proxyPath": "work/layers/upload-218.jpg",
+  "origin": {
+    "id": "attachment:b53824128a8c21ff09c19c505a45a8bc3941c9c328005a7b341af29cef2b31f1",
+    "title": "IMG_0538.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 781432,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-218.png",
+  "maskPath": "work/layers/mask-218.png"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "art-824499962ff88fb6",
+  "sourceId": "attachment:86c2f2f56accdf218db94f036f8db707e09f20c38560e9017556613ad5d32121",
+  "sourceIndex": 230,
+  "sourceKind": "attachment",
+  "name": "金叶静影",
+  "original": "IMG_0735.jpeg",
+  "width": 1024,
+  "height": 1536,
+  "ratio": 0.6666666666666666,
+  "legacy": false,
+  "thumbnail": "assets/layers/3e3050f09f22f17fd51e4cf1.webp",
+  "assets": {
+    "character": "assets/layers/05aae543793e0b54272e10b4.webp",
+    "background": "assets/layers/aae8780042bcf67fc784264a.webp",
+    "ui": "assets/layers/05a465b239a9c2f94069fe1b.webp",
+    "structure": "assets/layers/0b9edfd00a24e516392229bb.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "attachment:c4f22a5162cfa8d1c6494d49acbebc893c6c7edc74c69dd453685ffdb22fb01e",
+  "title": "IMG_0739.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 396242,
+  "sourceKind": "attachment",
+  "index": 225,
+  "name": "晴窗蝶影",
+  "sourcePath": "work/layers/upload-225.jpg",
+  "proxyPath": "work/layers/upload-225.jpg",
+  "origin": {
+    "id": "attachment:c4f22a5162cfa8d1c6494d49acbebc893c6c7edc74c69dd453685ffdb22fb01e",
+    "title": "IMG_0739.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 396242,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-225.png"
+}

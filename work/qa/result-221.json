@@ -1,0 +1,20 @@
+{
+  "id": "art-ce1f22a4e711bf9f",
+  "sourceId": "attachment:61a5df3efa29f32838de91d8584a67c55863662c3bb507bbb17d16f20b820d76",
+  "sourceIndex": 221,
+  "sourceKind": "attachment",
+  "name": "金樱回眸",
+  "original": "3459152d8mcf6398596cd2789725bd7b.jpeg",
+  "width": 1536,
+  "height": 865,
+  "ratio": 1.7757225433526012,
+  "legacy": false,
+  "thumbnail": "assets/layers/1ba1b393d60059fab8872863.webp",
+  "assets": {
+    "character": "assets/layers/aa089061d2fcb00fcd78bfea.webp",
+    "background": "assets/layers/4d75afa1057eb368fa635b81.webp",
+    "ui": "assets/layers/ce88a19f53458b0a0dd87a32.webp",
+    "structure": "assets/layers/0de8e42cbc37e8b301a044f6.webp",
+    "backgroundScale": 1
+  }
+}

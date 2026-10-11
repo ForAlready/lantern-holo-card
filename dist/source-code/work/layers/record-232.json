@@ -1,0 +1,24 @@
+{
+  "id": "attachment:17f45d7815e65b4833b2d80bfbb34dbb2e472df2e8cfd28be561c4979a7f3d4c",
+  "title": "IMG_0626.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 653498,
+  "sourceKind": "attachment",
+  "index": 232,
+  "name": "幻彩回声",
+  "sourcePath": "work/layers/upload-232.jpg",
+  "proxyPath": "work/layers/upload-232.jpg",
+  "origin": {
+    "id": "attachment:17f45d7815e65b4833b2d80bfbb34dbb2e472df2e8cfd28be561c4979a7f3d4c",
+    "title": "IMG_0626.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 653498,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-232.png",
+  "maskPath": "work/layers/mask-232.png"
+}

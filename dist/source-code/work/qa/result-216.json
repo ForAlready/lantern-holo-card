@@ -1,0 +1,20 @@
+{
+  "id": "art-99edebc8b66aa294",
+  "sourceId": "attachment:159f8ed0b39b8ff54077ab8d4eb76e16a0cfce5ca375da5bc37a416b20e18534",
+  "sourceIndex": 216,
+  "sourceKind": "attachment",
+  "name": "蓝金慵时",
+  "original": "IMG_0540.jpeg",
+  "width": 1280,
+  "height": 720,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/4de549b067b713098edb3491.webp",
+  "assets": {
+    "character": "assets/layers/511c9585361e7bfe3cc27144.webp",
+    "background": "assets/layers/076795be05fcb58525863598.webp",
+    "ui": "assets/layers/3b8f42a1ba1ff654c3132453.webp",
+    "structure": "assets/layers/f2253e94ab279feadb6e18ee.webp",
+    "backgroundScale": 1
+  }
+}

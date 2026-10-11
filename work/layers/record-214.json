@@ -1,0 +1,24 @@
+{
+  "id": "attachment:38547374c58de2352f7ba281931c36afb66aee990ccdde585c32c3f3850203c1",
+  "title": "IMG_0694.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 380127,
+  "sourceKind": "attachment",
+  "index": 214,
+  "name": "暖夜小憩",
+  "sourcePath": "work/layers/upload-214.jpg",
+  "proxyPath": "work/layers/upload-214.jpg",
+  "origin": {
+    "id": "attachment:38547374c58de2352f7ba281931c36afb66aee990ccdde585c32c3f3850203c1",
+    "title": "IMG_0694.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 380127,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-214.png",
+  "originalUiMaskPath": "work/layers/ui-214.svg"
+}

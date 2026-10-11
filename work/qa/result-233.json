@@ -1,0 +1,20 @@
+{
+  "id": "art-21d6025ad503909d",
+  "sourceId": "attachment:8a5f7ca38872bffbcb32465377f9c27326d8fc7f9889163ebe827b7fbaad1f7e",
+  "sourceIndex": 233,
+  "sourceKind": "attachment",
+  "name": "樱月灯城",
+  "original": "IMG_0625.jpeg",
+  "width": 1122,
+  "height": 1402,
+  "ratio": 0.8002853067047075,
+  "legacy": false,
+  "thumbnail": "assets/layers/f26509fe95c5665e6b3c9328.webp",
+  "assets": {
+    "character": "assets/layers/907463547dd22b9fde31b7bd.webp",
+    "background": "assets/layers/f63fd56bb11fd791a460804b.webp",
+    "ui": "assets/layers/abdc19c12964276efc71009a.webp",
+    "structure": "assets/layers/e4b4dadad791cff565a79342.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "attachment:56a5c72bb0baa4adb59f88ac403a47333c51494e5c406cf6b5aaa308c1851428",
+  "title": "IMG_0525.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 379058,
+  "sourceKind": "attachment",
+  "index": 223,
+  "name": "赤缎夜影",
+  "sourcePath": "work/layers/upload-223.jpg",
+  "proxyPath": "work/layers/upload-223.jpg",
+  "origin": {
+    "id": "attachment:56a5c72bb0baa4adb59f88ac403a47333c51494e5c406cf6b5aaa308c1851428",
+    "title": "IMG_0525.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 379058,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-223.png"
+}

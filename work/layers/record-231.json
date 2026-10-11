@@ -1,0 +1,24 @@
+{
+  "id": "attachment:cdec69060a5f88ac409e0a995cbe509ea7c8641cfc8fe327428dc82082ab87fa",
+  "title": "IMG_0695.jpeg",
+  "mime_type": "image/jpeg",
+  "size": 297754,
+  "sourceKind": "attachment",
+  "index": 231,
+  "name": "羽光画室",
+  "sourcePath": "work/layers/upload-231.jpg",
+  "proxyPath": "work/layers/upload-231.jpg",
+  "origin": {
+    "id": "attachment:cdec69060a5f88ac409e0a995cbe509ea7c8641cfc8fe327428dc82082ab87fa",
+    "title": "IMG_0695.jpeg",
+    "mime_type": "image/jpeg",
+    "size": 297754,
+    "sourceKind": "attachment"
+  },
+  "layout": "stacked",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-231.png",
+  "maskPath": "work/layers/mask-231.png"
+}

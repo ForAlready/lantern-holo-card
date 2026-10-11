@@ -1,0 +1,20 @@
+{
+  "id": "art-96d93eac81747759",
+  "sourceId": "attachment:17f45d7815e65b4833b2d80bfbb34dbb2e472df2e8cfd28be561c4979a7f3d4c",
+  "sourceIndex": 232,
+  "sourceKind": "attachment",
+  "name": "幻彩回声",
+  "original": "IMG_0626.jpeg",
+  "width": 1536,
+  "height": 864,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/62d467009e6145cab2fe003b.webp",
+  "assets": {
+    "character": "assets/layers/45788ee060eae1b5b5221174.webp",
+    "background": "assets/layers/fbfd9a94d50f846566a03b32.webp",
+    "ui": "assets/layers/4d562bb512e48e732a33f7f4.webp",
+    "structure": "assets/layers/f6532d4492495e66f35bf2cd.webp",
+    "backgroundScale": 1
+  }
+}

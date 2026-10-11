@@ -1,0 +1,20 @@
+{
+  "id": "art-cad6f011b61e6705",
+  "sourceId": "attachment:c4f22a5162cfa8d1c6494d49acbebc893c6c7edc74c69dd453685ffdb22fb01e",
+  "sourceIndex": 225,
+  "sourceKind": "attachment",
+  "name": "晴窗蝶影",
+  "original": "IMG_0739.jpeg",
+  "width": 1080,
+  "height": 1800,
+  "ratio": 0.6,
+  "legacy": false,
+  "thumbnail": "assets/layers/20e2883ecbfedf6f4892b388.webp",
+  "assets": {
+    "character": "assets/layers/d27a062d7355ec2434f548c2.webp",
+    "background": "assets/layers/3acc4fdea6593330817c0f2f.webp",
+    "ui": "assets/layers/80d8060bdd1185caad968b04.webp",
+    "structure": "assets/layers/8840cd83f6622bbb0d1bec16.webp",
+    "backgroundScale": 1
+  }
+}
