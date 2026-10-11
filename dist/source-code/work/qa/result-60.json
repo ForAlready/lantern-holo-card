@@ -1,0 +1,19 @@
+{
+  "id": "art-4459ee5b0b1c0deb",
+  "sourceId": "1BOvK0rnPjstPPnSgVS9qsla37MGpDGgM",
+  "sourceIndex": 60,
+  "name": "金穗甜点",
+  "original": "119436395_p0_master1200.jpg",
+  "width": 652,
+  "height": 1600,
+  "ratio": 0.4075,
+  "legacy": false,
+  "thumbnail": "assets/layers/25aca50e678ae746000db57c.webp",
+  "assets": {
+    "character": "assets/layers/edc71b69904cc27eb732e617.webp",
+    "background": "assets/layers/420084a01f20b90a7aeb7238.webp",
+    "ui": "assets/layers/a76c6f6937a7daa0433195d9.webp",
+    "structure": "assets/layers/1370552f96649035f20c4f91.webp",
+    "backgroundScale": 1
+  }
+}

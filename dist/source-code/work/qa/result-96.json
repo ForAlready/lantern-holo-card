@@ -1,0 +1,19 @@
+{
+  "id": "art-339dccf163aa3780",
+  "sourceId": "1t_cts7UApGS__62vLjzSoPDAyFsH9HOG",
+  "sourceIndex": 96,
+  "name": "花彩群星",
+  "original": "Cache_-631396f45313aec9.jpg",
+  "width": 937,
+  "height": 1600,
+  "ratio": 0.585625,
+  "legacy": false,
+  "thumbnail": "assets/layers/847ce6a3788dc53ccaec644f.webp",
+  "assets": {
+    "character": "assets/layers/12c6234bf838ce4bb7ede359.webp",
+    "background": "assets/layers/bb253a6cb350a921574884a8.webp",
+    "ui": "assets/layers/8baef2b112d4c8b11c68c042.webp",
+    "structure": "assets/layers/1d7bb6b961f03c2398f1f8ad.webp",
+    "backgroundScale": 1
+  }
+}

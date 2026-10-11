@@ -1,0 +1,19 @@
+{
+  "id": "art-aaa22a1b3181269b",
+  "sourceId": "1f5tM2D7D1NJNPl270-7zPfKsb-8yZu5h",
+  "sourceIndex": 48,
+  "name": "猫枕晨醒",
+  "original": "Cache_4d3ea29f009e1b94(1).jpg",
+  "width": 1069,
+  "height": 1600,
+  "ratio": 0.668125,
+  "legacy": false,
+  "thumbnail": "assets/layers/e784113ffb066ab8c16515d1.webp",
+  "assets": {
+    "character": "assets/layers/15e67fbab47f5ffd6d29d30c.webp",
+    "background": "assets/layers/19d70eaf1babae4183251a1b.webp",
+    "ui": "assets/layers/742e603c9814de44b33e2b41.webp",
+    "structure": "assets/layers/564baaa3c09a938f0fcfec4d.webp",
+    "backgroundScale": 1
+  }
+}

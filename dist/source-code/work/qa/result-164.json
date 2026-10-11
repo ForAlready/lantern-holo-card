@@ -1,0 +1,19 @@
+{
+  "id": "art-51b03448f76b7f9d",
+  "sourceId": "1E1i8l7is73NtnWIlGJ3oaudCRXIFt9n8",
+  "sourceIndex": 164,
+  "name": "星翼海祈",
+  "original": "117100420_p0.jpg",
+  "width": 1037,
+  "height": 1600,
+  "ratio": 0.648125,
+  "legacy": false,
+  "thumbnail": "assets/layers/adda8fced05405227b4d2c99.webp",
+  "assets": {
+    "character": "assets/layers/16848cac3dab4a86787533e9.webp",
+    "background": "assets/layers/41d69986da18c55a672cdf97.webp",
+    "ui": "assets/layers/acf47cb7b646cb13fc36b955.webp",
+    "structure": "assets/layers/d109abb730aa84f43848e2c9.webp",
+    "backgroundScale": 1
+  }
+}

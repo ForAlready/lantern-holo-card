@@ -1,0 +1,19 @@
+{
+  "id": "art-ddbdf7146e9b6922",
+  "sourceId": "1EYRRcb6AcpXQZ00QjVIPWtQ9xAa_qcCE",
+  "sourceIndex": 144,
+  "name": "星河守望",
+  "original": "Cache_272e97fad962dba7.png",
+  "width": 738,
+  "height": 1600,
+  "ratio": 0.46125,
+  "legacy": false,
+  "thumbnail": "assets/layers/9c63a9a6b1a54f7b6629dc17.webp",
+  "assets": {
+    "character": "assets/layers/c83af471c22a5490168d7670.webp",
+    "background": "assets/layers/ab9666bf3f4f61c06aef3519.webp",
+    "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+    "structure": "assets/layers/3e18e397bfcf82b76266c201.webp",
+    "backgroundScale": 1
+  }
+}

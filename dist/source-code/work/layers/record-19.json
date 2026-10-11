@@ -1,0 +1,14 @@
+{
+  "index": 19,
+  "id": "15NLEzHYY08PP5WubR2whaUqepWmQFtk1",
+  "title": "Cache_5f935763688b48ee.jpg",
+  "name": "星环疾驰",
+  "width": 1600,
+  "height": 450,
+  "proxyPath": "work/layers/proxy-19.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-19",
+  "maskPath": "work/layers/mask-19-cropped.png",
+  "backgroundPath": "work/layers/background-19-cropped.png",
+  "status": "needs-composite-review",
+  "precisionNote": "Original raw no longer present after maintenance; source RGB and dimensions currently use max1600 preserved JPEG proxy. Re-fetch original for precise original dimensions/maximum source fidelity."
+}

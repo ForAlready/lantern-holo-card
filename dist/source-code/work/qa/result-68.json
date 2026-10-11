@@ -1,0 +1,19 @@
+{
+  "id": "art-1f4ba69514b8fc5f",
+  "sourceId": "1v7fdoiqHPOhoBGUKTkioh9nEoyqfRm1w",
+  "sourceIndex": 68,
+  "name": "绒光轻坐",
+  "original": "Cache_47046ea76a14ae47.jpg",
+  "width": 1024,
+  "height": 1600,
+  "ratio": 0.64,
+  "legacy": false,
+  "thumbnail": "assets/layers/9885705a67f01f3f9ccb21ae.webp",
+  "assets": {
+    "character": "assets/layers/48eb63ffbd6d334ea3ca91cd.webp",
+    "background": "assets/layers/99e8e1fd5f8a63501902903b.webp",
+    "ui": "assets/layers/8a8052d6ee5ca1946107f833.webp",
+    "structure": "assets/layers/c50787f6729a4a2dbc128699.webp",
+    "backgroundScale": 1
+  }
+}

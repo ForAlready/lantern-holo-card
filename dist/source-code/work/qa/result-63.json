@@ -1,0 +1,19 @@
+{
+  "id": "art-c1d4a161cfcadfa5",
+  "sourceId": "14AKLlsA4R5fFFhGGkK0ZwdCIeRYd_aci",
+  "sourceIndex": 63,
+  "name": "星甲同游",
+  "original": "Cache_-13f317e065f982e.jpg",
+  "width": 1027,
+  "height": 1600,
+  "ratio": 0.641875,
+  "legacy": false,
+  "thumbnail": "assets/layers/794eca788807d5972c4c0748.webp",
+  "assets": {
+    "character": "assets/layers/415d309c391cffbf026f75b7.webp",
+    "background": "assets/layers/1679dc087c53237fd67337d5.webp",
+    "ui": "assets/layers/21057fb3c485ee16e41cbc4c.webp",
+    "structure": "assets/layers/69cc688adb4aa1de4780c21a.webp",
+    "backgroundScale": 1
+  }
+}

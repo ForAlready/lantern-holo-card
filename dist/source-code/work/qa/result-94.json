@@ -1,0 +1,19 @@
+{
+  "id": "art-ae2a5882d1e51d3e",
+  "sourceId": "1qvFkKQjn1E5wjiiMfP-RTkRkpbckFOmg",
+  "sourceIndex": 94,
+  "name": "夜阁金羽",
+  "original": "Cache_5c37684406f25f2a.png",
+  "width": 943,
+  "height": 1600,
+  "ratio": 0.589375,
+  "legacy": false,
+  "thumbnail": "assets/layers/1d06b904bef51e157208c4a1.webp",
+  "assets": {
+    "character": "assets/layers/1e32170c7be153ab16e4fb94.webp",
+    "background": "assets/layers/424852db8ce5a2a2b040d20c.webp",
+    "ui": "assets/layers/9866651c09fadd466e8fd38f.webp",
+    "structure": "assets/layers/c831e2bdc61374167d65adc3.webp",
+    "backgroundScale": 1
+  }
+}

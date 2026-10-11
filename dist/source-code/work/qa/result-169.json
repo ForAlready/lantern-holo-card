@@ -1,0 +1,19 @@
+{
+  "id": "art-aafd8c2f86116d9a",
+  "sourceId": "1Pg_FnqgRrlx7-WbNDMQP8OLMrOIRgVnY",
+  "sourceIndex": 169,
+  "name": "灯夜欢游",
+  "original": "115727998_p0.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/72de941a8983e147965cd361.webp",
+  "assets": {
+    "character": "assets/layers/d2c579ad67d7e1cab61fc0dc.webp",
+    "background": "assets/layers/e715871f20836c86b4edecbc.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/92e2b7e21f0d6bf6a22a77b4.webp",
+    "backgroundScale": 1
+  }
+}

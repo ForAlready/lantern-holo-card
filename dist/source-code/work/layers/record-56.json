@@ -1,0 +1,19 @@
+{
+  "index": 56,
+  "id": "1k1R8nBwoSN3j6A7wRNqfgnJUxpWJMfZ-",
+  "title": "Cache_35e3b1b544662ba.jpg",
+  "name": "虹纱流光",
+  "width": 1200,
+  "height": 1600,
+  "proxyPath": "work/layers/proxy-56.jpg",
+  "maskPath": "work/layers/mask-56-v2.png",
+  "backgroundPath": "work/layers/background-56.png",
+  "status": "needs-composite-review",
+  "notes": "Original unavailable; surviving max1600 proxy used. Imagegen single white foreground mask + separate clean inpainted plate. Requires composite/depth QA. Right edge small pink original signature restored from original pixels by signatureRect; do not use generated lettering.",
+  "signatureRect": [
+    0.94,
+    0.415,
+    0.06,
+    0.09
+  ]
+}

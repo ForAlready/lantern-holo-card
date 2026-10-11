@@ -1,0 +1,19 @@
+{
+  "id": "art-3642a6707fa6776e",
+  "sourceId": "1EuzuJjgZUsFk5LcsQO3xD-1Kmkrqh797",
+  "sourceIndex": 182,
+  "name": "蓝夜城灯",
+  "original": "114396867_p0.jpg",
+  "width": 1600,
+  "height": 686,
+  "ratio": 2.3323615160349855,
+  "legacy": false,
+  "thumbnail": "assets/layers/81b30e8f8033ea22561c2aa8.webp",
+  "assets": {
+    "character": "assets/layers/2cc31f94442151704fa41b3f.webp",
+    "background": "assets/layers/55f9d74b1454aa95a3714355.webp",
+    "ui": "assets/layers/e75946e3b967e9ee15f4bffa.webp",
+    "structure": "assets/layers/07cf6ac4f9305eeccbd4e1be.webp",
+    "backgroundScale": 1
+  }
+}

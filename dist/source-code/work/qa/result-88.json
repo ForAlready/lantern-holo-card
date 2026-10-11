@@ -1,0 +1,19 @@
+{
+  "id": "art-008969494f371357",
+  "sourceId": "1Y7z6c1VhbB1seBK6OiwZLAqRQuV3b-M2",
+  "sourceIndex": 88,
+  "name": "鲸空映梦",
+  "original": "Cache_3013923a1b6ee388.jpg",
+  "width": 739,
+  "height": 1600,
+  "ratio": 0.461875,
+  "legacy": false,
+  "thumbnail": "assets/layers/be077d68b55286b7898d222f.webp",
+  "assets": {
+    "character": "assets/layers/8b65743618a8ba910753abf5.webp",
+    "background": "assets/layers/f6cb5c0e181db023547d3d11.webp",
+    "ui": "assets/layers/a5a69cdaf9428bb67ffac1fe.webp",
+    "structure": "assets/layers/0cedf32a54177ea798d348c3.webp",
+    "backgroundScale": 1
+  }
+}

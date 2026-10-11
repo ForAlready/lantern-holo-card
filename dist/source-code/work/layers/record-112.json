@@ -1,0 +1,14 @@
+{
+  "index": 112,
+  "id": "1IVksR7YyEhQ4uTiWZvTcabrsbAhZRfhh",
+  "title": "Cache_30e3d638e8eaa789.jpg",
+  "name": "蓝金星涡",
+  "width": 3543,
+  "height": 7680,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-112",
+  "proxyPath": "work/layers/proxy-112.jpg",
+  "maskPath": "work/layers/mask-112.png",
+  "backgroundPath": "work/layers/background-112.png",
+  "status": "needs-composite-review",
+  "notes": "Original dimensions recovered from previously fully decoded RAW; original RAW currently unavailable, surviving fully decoded proxy used. SINGLE semantic mask and clean background await root composite QA; original foreground RGB retained."
+}

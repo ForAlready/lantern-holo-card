@@ -1,0 +1,39 @@
+{
+  "index": 61,
+  "id": "1WDaPlTZ04bjXMowx90DZz1rhPa-4MIku",
+  "title": "119436679_p0.jpg",
+  "name": "林间礼篮",
+  "width": 1019,
+  "height": 2500,
+  "proxyPath": "work/layers/proxy-61.jpg",
+  "maskPath": "work/layers/mask-61-aligned.png",
+  "backgroundPath": "work/layers/background-61-clean.png",
+  "status": "needs-composite-review",
+  "notes": "Original large file is unavailable after workspace pruning; surviving source proxy used. SINGLE generated binary mask and separately cleaned background. Original RGB foreground and original-pixel signatures only. Mask generator shifted/scaled entire subject; union bounding box re-register to measured original subjectRect, inspect contact.",
+  "signatureRect": [
+    0.69,
+    0.8,
+    0.3,
+    0.185
+  ],
+  "backgroundOriginalRects": [
+    [
+      0.025,
+      0.01,
+      0.95,
+      0.105
+    ],
+    [
+      0.67,
+      0.395,
+      0.19,
+      0.048
+    ]
+  ],
+  "subjectRect": [
+    0.046,
+    0.248,
+    0.94,
+    0.638
+  ]
+}

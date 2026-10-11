@@ -1,0 +1,19 @@
+{
+  "id": "art-701a5a8f61e5a461",
+  "sourceId": "1o5VZj_zctTTthlV4gOElGSqVbdK64QkD",
+  "sourceIndex": 44,
+  "name": "青歌礼盒",
+  "original": "Cache_-1c45ebedb77b26c5.jpg",
+  "width": 1127,
+  "height": 1600,
+  "ratio": 0.704375,
+  "legacy": false,
+  "thumbnail": "assets/layers/17c837eb7e3447586afb4e4c.webp",
+  "assets": {
+    "character": "assets/layers/3da28eb8019a5664acfd27ea.webp",
+    "background": "assets/layers/ad2480211699e4fb4c2266ee.webp",
+    "ui": "assets/layers/afd17d464bedea70af2d5872.webp",
+    "structure": "assets/layers/893cc64aa78d317d71a93b08.webp",
+    "backgroundScale": 1
+  }
+}

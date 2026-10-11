@@ -1,0 +1,19 @@
+{
+  "id": "art-b0ffdb422f5a843e",
+  "sourceId": "1vc7-_8Cvk7rYPFH8QflQrp_PdZ8QBres",
+  "sourceIndex": 180,
+  "name": "纸箱小憩",
+  "original": "70306105_p0_master1200.jpg",
+  "width": 688,
+  "height": 1000,
+  "ratio": 0.688,
+  "legacy": false,
+  "thumbnail": "assets/layers/7766fd4106fca4a505cadfb9.webp",
+  "assets": {
+    "character": "assets/layers/e59002a0bb49b1caccf6deec.webp",
+    "background": "assets/layers/0c618fdfa304eab49cb5b561.webp",
+    "ui": "assets/layers/33b1bd701124948353a01df2.webp",
+    "structure": "assets/layers/8017404e9338ee79739e002d.webp",
+    "backgroundScale": 1
+  }
+}

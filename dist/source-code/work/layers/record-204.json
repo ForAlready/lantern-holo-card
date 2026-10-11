@@ -1,0 +1,21 @@
+{
+  "index": 204,
+  "id": "1Jlu3wprOsyMJhLFMD78vdX1-Oo3oyT0i",
+  "title": "109779549_p0.jpg",
+  "name": "星桥相伴",
+  "width": 5760,
+  "height": 3240,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/../originals/source-204",
+  "proxyPath": "work/layers/proxy-204.jpg",
+  "maskPath": "work/layers/mask-204-final.png",
+  "backgroundPath": "work/layers/background-204-final.png",
+  "status": "needs-composite-review",
+  "backgroundOriginalRects": [
+    [
+      0.61,
+      0.56,
+      0.39,
+      0.44
+    ]
+  ]
+}

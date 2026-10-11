@@ -1,0 +1,19 @@
+{
+  "id": "art-3a79ac9d45c10e8a",
+  "sourceId": "1MVlG3RObxbKp6ui5iwxrAXLdLlFXjZG2",
+  "sourceIndex": 13,
+  "name": "雾城双刃",
+  "original": "plvlive_20240817-174319.png",
+  "width": 899,
+  "height": 1600,
+  "ratio": 0.561875,
+  "legacy": false,
+  "thumbnail": "assets/layers/0a32fcb482f6c5044430a59c.webp",
+  "assets": {
+    "character": "assets/layers/21d569d8963dd2d1e46a71a7.webp",
+    "background": "assets/layers/be88c352f8573b032872f466.webp",
+    "ui": "assets/layers/8557f0b4cc3a9ed9e977993c.webp",
+    "structure": "assets/layers/64027893cea97cc6e499b130.webp",
+    "backgroundScale": 1
+  }
+}

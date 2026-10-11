@@ -1,0 +1,19 @@
+{
+  "id": "art-1b00c2c0b0a62f67",
+  "sourceId": "1w_cNQpdgQJBp1EX0GwDSaV9KNs4yRLbU",
+  "sourceIndex": 91,
+  "name": "夕野回眸",
+  "original": "Cache_-2216c8156766d5eb.jpg",
+  "width": 1067,
+  "height": 1600,
+  "ratio": 0.666875,
+  "legacy": false,
+  "thumbnail": "assets/layers/a43f5c21267bba40a30cfb3f.webp",
+  "assets": {
+    "character": "assets/layers/5744bb01537e84b5f48a0470.webp",
+    "background": "assets/layers/e6cd139ef31475a2d529c6e1.webp",
+    "ui": "assets/layers/9218a84899b25234d22d47ec.webp",
+    "structure": "assets/layers/86ccbb717c5eeafddb5afc83.webp",
+    "backgroundScale": 1
+  }
+}

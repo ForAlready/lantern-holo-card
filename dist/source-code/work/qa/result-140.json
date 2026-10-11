@@ -1,0 +1,19 @@
+{
+  "id": "art-5cf914406a9ff653",
+  "sourceId": "1SU6vm5ll8oZVgVfvLqPbmnjyuYeCnDO8",
+  "sourceIndex": 140,
+  "name": "镜前微光",
+  "original": "118016004_p0.jpg",
+  "width": 1000,
+  "height": 1411,
+  "ratio": 0.7087172218284904,
+  "legacy": false,
+  "thumbnail": "assets/layers/5d0eb2a8b69eb5c13c1d12ec.webp",
+  "assets": {
+    "character": "assets/layers/e3c624cfa2364ca782ac7d35.webp",
+    "background": "assets/layers/075420e82477f9018d3f7dc1.webp",
+    "ui": "assets/layers/c5bd9d325295a517798dfc58.webp",
+    "structure": "assets/layers/ac645854c7158943884a8241.webp",
+    "backgroundScale": 1
+  }
+}

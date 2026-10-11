@@ -1,0 +1,19 @@
+{
+  "id": "art-ba7238977afe3477",
+  "sourceId": "19DkZGwlHbs-o-liy9VqDSw1tV3M4_Iat",
+  "sourceIndex": 196,
+  "name": "齿轮星时",
+  "original": "111157207_p0.jpg",
+  "width": 1107,
+  "height": 1600,
+  "ratio": 0.691875,
+  "legacy": false,
+  "thumbnail": "assets/layers/b8c172c9d6e8dbd01095a5dd.webp",
+  "assets": {
+    "character": "assets/layers/4ae89c215250b86422494050.webp",
+    "background": "assets/layers/bd951e9738a11ae08a1212b4.webp",
+    "ui": "assets/layers/8c9f8a7150fda8842dac277d.webp",
+    "structure": "assets/layers/541d6c6f234b6967c4a36f63.webp",
+    "backgroundScale": 1
+  }
+}

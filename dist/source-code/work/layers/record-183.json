@@ -1,0 +1,20 @@
+{
+  "index": 183,
+  "id": "1uA1fwykr8tTYnUqu4bP3de4bSfNGzU8G",
+  "title": "113626601_p0.jpg",
+  "name": "澄蓝乐章",
+  "width": 1013,
+  "height": 1600,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-183",
+  "proxyPath": "work/layers/proxy-183.jpg",
+  "maskPath": "work/layers/mask-183-precise-v3.png",
+  "backgroundPath": "work/layers/background-183-recovered-v2.png",
+  "signatureRect": [
+    0.7,
+    0.75,
+    0.14,
+    0.055
+  ],
+  "status": "needs-composite-review",
+  "notes": "New SINGLE v3 with absolute source landmark prompting. Head top restored near original y21%; verify fine hair and instrument occlusion pixel-registration. Existing background preserved."
+}

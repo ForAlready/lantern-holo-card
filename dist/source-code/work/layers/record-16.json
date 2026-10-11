@@ -1,0 +1,22 @@
+{
+  "index": 16,
+  "id": "1DB6YnCFB4PDKVzLIngewwJgfBsSPAmqY",
+  "name": "纸墙随想",
+  "original": "plvlive_20240817-174115.png",
+  "title": "plvlive_20240817-174115.png",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-16",
+  "proxyPath": "work/layers/proxy-16.jpg",
+  "atlasPath": "work/layers/atlas-16.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "width": 1080,
+  "height": 1440,
+  "subjectRect": [
+    0.14,
+    0.212,
+    0.745,
+    0.788
+  ],
+  "status": "generated-reviewed",
+  "notes": "Clean pastel paper wall; silhouette enlarged, bbox registered to original."
+}

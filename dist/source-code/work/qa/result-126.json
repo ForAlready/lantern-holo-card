@@ -1,0 +1,19 @@
+{
+  "id": "art-26c20e5e2cbe8409",
+  "sourceId": "1BA6k8Dpyla6Erdk7YWr_yn6NrekbpM_f",
+  "sourceIndex": 126,
+  "name": "幽灯蝶语",
+  "original": "Cache_64882a2961dc3ee9.jpg",
+  "width": 900,
+  "height": 1600,
+  "ratio": 0.5625,
+  "legacy": false,
+  "thumbnail": "assets/layers/3a4c1e5eeebdc7ec1fd6c91c.webp",
+  "assets": {
+    "character": "assets/layers/3db4aa53eb8f8131f2ddae49.webp",
+    "background": "assets/layers/0e6a8675a596aebe06f430c6.webp",
+    "ui": "assets/layers/159c78bb0c110a994160814f.webp",
+    "structure": "assets/layers/ab5320c4a4513cbd9ce4c5cd.webp",
+    "backgroundScale": 1
+  }
+}

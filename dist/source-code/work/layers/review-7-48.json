@@ -1,0 +1,51 @@
+[
+  {
+    "index": 7,
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 8,
+    "status": "excluded",
+    "reason": "sexualized likely underage character"
+  },
+  {
+    "index": 9,
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 10,
+    "status": "excluded",
+    "reason": "sexualized likely underage character"
+  },
+  {
+    "index": 11,
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 12,
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 13,
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 14,
+    "status": "excluded",
+    "reason": "prior image editing safety refusal; not retried"
+  },
+  {
+    "index": 15,
+    "status": "excluded",
+    "reason": "sexualized youthful maid characters; prior safety refusal"
+  },
+  {
+    "index": 16,
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 18,
+    "status": "excluded",
+    "reason": "explicit sexualized character"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "art-af71d1ebb9cc6339",
+  "sourceId": "1U7kz4tzpFUHQ89zXJtl14IXrQxxD_zN_",
+  "sourceIndex": 132,
+  "name": "晶辉幻夜",
+  "original": "9cef96725b9cef96725b.jpg",
+  "width": 1111,
+  "height": 1600,
+  "ratio": 0.694375,
+  "legacy": false,
+  "thumbnail": "assets/layers/85c9e72fc188657caa344539.webp",
+  "assets": {
+    "character": "assets/layers/f82cb1a51ad1c23ed72c31e0.webp",
+    "background": "assets/layers/72ed65b4aefd76c09deaf50b.webp",
+    "ui": "assets/layers/5f37d02cdc753778a8ea70b9.webp",
+    "structure": "assets/layers/5cd90ca8af351037e14be4c4.webp",
+    "backgroundScale": 1
+  }
+}

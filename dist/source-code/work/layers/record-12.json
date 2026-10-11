@@ -1,0 +1,17 @@
+{
+  "index": 12,
+  "id": "1OFH3XsFBQ9rwMLUJTr7FJe9eiF9B9CQH",
+  "name": "绒帽闲时",
+  "original": "plvlive_20240817-174542.png",
+  "title": "plvlive_20240817-174542.png",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-12",
+  "proxyPath": "work/layers/proxy-12.jpg",
+  "atlasPath": "work/layers/atlas-12.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "width": 5304,
+  "height": 7752,
+  "status": "needs-composite-review",
+  "notes": "Single mask preserves original coordinates; person-only foreground, original RGB will be retained. Root must verify composite.",
+  "maskPath": "work/layers/mask-12-v3.png"
+}

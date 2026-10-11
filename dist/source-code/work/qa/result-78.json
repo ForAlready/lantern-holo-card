@@ -1,0 +1,19 @@
+{
+  "id": "art-e30ca03f988419d2",
+  "sourceId": "1McSqlqsLZeXeuh4450WRxvIcYxtlHb3v",
+  "sourceIndex": 78,
+  "name": "锦衣同庆",
+  "original": "Cache_37f4cfc62f42ed13.jpg",
+  "width": 1600,
+  "height": 800,
+  "ratio": 2,
+  "legacy": false,
+  "thumbnail": "assets/layers/a9789a231ac5f99132100a7d.webp",
+  "assets": {
+    "character": "assets/layers/5c77279d8140e279b91ad542.webp",
+    "background": "assets/layers/0cba591d8b94778a242a80e6.webp",
+    "ui": "assets/layers/cf3bf00154a448e588557531.webp",
+    "structure": "assets/layers/324b92032b997a9994e9a8fb.webp",
+    "backgroundScale": 1
+  }
+}

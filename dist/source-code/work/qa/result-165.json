@@ -1,0 +1,19 @@
+{
+  "id": "art-accd21cc83b71526",
+  "sourceId": "1X4bSjt9rNzwhEkkNxbwOEtu_paHZ6rG0",
+  "sourceIndex": 165,
+  "name": "灯下小聚",
+  "original": "114795606_p0_master1200.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/03c8d6ee4a3b4f4f702f092e.webp",
+  "assets": {
+    "character": "assets/layers/1c20045dec47c51b40bd8c9b.webp",
+    "background": "assets/layers/7c95ed998c62cb324ea8df13.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/090611a76a7b936315fb472f.webp",
+    "backgroundScale": 1
+  }
+}

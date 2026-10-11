@@ -1,0 +1,19 @@
+{
+  "id": "art-119fb4fb43a259ea",
+  "sourceId": "1SRtS4rxh7daPPWjHxFv7Z3jxVNTvV2UY",
+  "sourceIndex": 135,
+  "name": "星弦夜奏",
+  "original": "Cache_2037934b20207faa.jpg",
+  "width": 1129,
+  "height": 1600,
+  "ratio": 0.705625,
+  "legacy": false,
+  "thumbnail": "assets/layers/21092faaf1e3de707aacdc87.webp",
+  "assets": {
+    "character": "assets/layers/a5a40ab34816d921dc724f05.webp",
+    "background": "assets/layers/c18f5472f53c995a520e4ab1.webp",
+    "ui": "assets/layers/98ac785177bfc8c3541b8604.webp",
+    "structure": "assets/layers/b741fc7ae731691a5740b29e.webp",
+    "backgroundScale": 1
+  }
+}

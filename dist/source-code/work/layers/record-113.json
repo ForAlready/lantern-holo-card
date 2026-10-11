@@ -1,0 +1,14 @@
+{
+  "index": 113,
+  "id": "1YN9AYcWqG3YG6YvCYW6OlnXgTVPj-bo3",
+  "title": "BEAT.jpg",
+  "name": "蝶刃夜风",
+  "width": 5000,
+  "height": 3281,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-113",
+  "proxyPath": "work/layers/proxy-113.jpg",
+  "maskPath": "work/layers/mask-113.png",
+  "backgroundPath": "work/layers/background-113.png",
+  "status": "needs-composite-review",
+  "notes": "Original dimensions recovered from previously fully decoded RAW; original RAW currently unavailable, surviving fully decoded proxy used. SINGLE semantic mask and clean background await root composite QA; original foreground RGB retained."
+}

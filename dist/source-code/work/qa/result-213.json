@@ -1,0 +1,19 @@
+{
+  "id": "art-3aa8854d7dd41abb",
+  "sourceId": "10j-te1ka_CTsxYzXZuXthQ4HxjgKD6LG",
+  "sourceIndex": 213,
+  "name": "晴空双影",
+  "original": "108253372_p0.jpg",
+  "width": 1600,
+  "height": 598,
+  "ratio": 2.6755852842809364,
+  "legacy": false,
+  "thumbnail": "assets/layers/7cc5c0f2e182cb2186bf5731.webp",
+  "assets": {
+    "character": "assets/layers/d368155c7641d6b157733891.webp",
+    "background": "assets/layers/d4e98f8f91a00fed47945495.webp",
+    "ui": "assets/layers/2d77e1c23403f53d41fbb84d.webp",
+    "structure": "assets/layers/c0c2959c22c48057a94979ed.webp",
+    "backgroundScale": 1
+  }
+}

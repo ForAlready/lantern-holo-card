@@ -1,0 +1,19 @@
+{
+  "index": 105,
+  "id": "1vMtM6yN6sAnbdL_2Q5ehhI3a53ZnOduP",
+  "title": "Cache_-114c5b93614a110b.jpg",
+  "name": "游园星光",
+  "width": 1600,
+  "height": 1000,
+  "proxyPath": "work/layers/proxy-105.jpg",
+  "maskPath": "work/layers/mask-105-v4.png",
+  "backgroundPath": "work/layers/background-105.png",
+  "subjectRect": [
+    0.073,
+    0.083,
+    0.788,
+    0.917
+  ],
+  "status": "needs-composite-review",
+  "notes": "Built-in imagegen SINGLE mask v4 repairs dark collar and hand interior. Large foreground figure only; all distant people removed in clean carnival background. Original RGB taken from max1600 surviving proxy; original source unavailable."
+}

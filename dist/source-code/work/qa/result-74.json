@@ -1,0 +1,19 @@
+{
+  "id": "art-97fd861e5472ebf8",
+  "sourceId": "1apTCwbvvZVIQ88zBvPcseaudK-IRisg0",
+  "sourceIndex": 74,
+  "name": "云间飞跃",
+  "original": "Cache_68fa872fba31be30.png",
+  "width": 1200,
+  "height": 1600,
+  "ratio": 0.75,
+  "legacy": false,
+  "thumbnail": "assets/layers/206b17f7ee19ec9591d895d7.webp",
+  "assets": {
+    "character": "assets/layers/0a50f4c79cff6c9fc9922689.webp",
+    "background": "assets/layers/5d7fce962ba4a9e0188a1cf1.webp",
+    "ui": "assets/layers/7435ce0d6645d716e68aef72.webp",
+    "structure": "assets/layers/f1f44d10142fe72aa4210ce4.webp",
+    "backgroundScale": 1
+  }
+}

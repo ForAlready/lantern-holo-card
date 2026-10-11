@@ -1,0 +1,19 @@
+{
+  "id": "art-419b72a5ff0199b7",
+  "sourceId": "1l9c1iwn0hzAnYho7jIvfzfKqaCA7vyoC",
+  "sourceIndex": 184,
+  "name": "碧水巡游",
+  "original": "113600258_p0.jpg",
+  "width": 1600,
+  "height": 686,
+  "ratio": 2.3323615160349855,
+  "legacy": false,
+  "thumbnail": "assets/layers/180485bba875166b5aaef118.webp",
+  "assets": {
+    "character": "assets/layers/5cf67415b3ea71e962dcb3a3.webp",
+    "background": "assets/layers/15b84b423454a805643a1e34.webp",
+    "ui": "assets/layers/00575c54e38f38a9c0d9b658.webp",
+    "structure": "assets/layers/edc8795743f463a9165c0a1b.webp",
+    "backgroundScale": 1
+  }
+}

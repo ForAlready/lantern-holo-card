@@ -1,0 +1,14 @@
+{
+  "index": 114,
+  "id": "1lf_n-2J_viM9luHW7RnatCHN62BQ9DWS",
+  "title": "Shinobu - Sigh .jpg",
+  "name": "紫蝶轻舞",
+  "width": 4885,
+  "height": 6653,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-114",
+  "proxyPath": "work/layers/proxy-114.jpg",
+  "maskPath": "work/layers/mask-114-v2.png",
+  "backgroundPath": "work/layers/background-114-v2.png",
+  "status": "needs-composite-review",
+  "notes": "Original dimensions recovered from previously fully decoded RAW; original RAW currently unavailable, surviving fully decoded proxy used. SINGLE semantic mask and clean background await root composite QA; original foreground RGB retained. Mask v2 includes complete large foreground butterflies crossing shoulder and lower dress, avoiding clipped wings. Background v2 removes upper-left foreground butterfly, wrist butterfly and lower-left large butterfly residue."
+}

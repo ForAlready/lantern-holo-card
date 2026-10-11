@@ -1,0 +1,19 @@
+{
+  "id": "art-e9ca876a60144427",
+  "sourceId": "1ayn7ZumYGXS-55w2xP3moqf-Y5ipALKa",
+  "sourceIndex": 4,
+  "name": "纸页心事",
+  "original": "plvlive_20240817-222817.png",
+  "width": 720,
+  "height": 1280,
+  "ratio": 0.5625,
+  "legacy": false,
+  "thumbnail": "assets/layers/f82ef0ecdf7c88c8f7180530.webp",
+  "assets": {
+    "character": "assets/layers/dbf79a1427e5db888ef6475a.webp",
+    "background": "assets/layers/a646e4af9c9f3c9419e3093f.webp",
+    "ui": "assets/layers/d9fd7c29c2dff9515073285d.webp",
+    "structure": "assets/layers/3c58d9eda17e13a092e2e3c2.webp",
+    "backgroundScale": 1
+  }
+}

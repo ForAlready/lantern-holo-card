@@ -1,0 +1,19 @@
+{
+  "id": "art-47fbb09b5199b061",
+  "sourceId": "1sMVELxWzNHwWK4ayz-GW8z0bZfMcXN08",
+  "sourceIndex": 11,
+  "name": "古殿银弦",
+  "original": "plvlive_20240817-174746.png",
+  "width": 1303,
+  "height": 1600,
+  "ratio": 0.814375,
+  "legacy": false,
+  "thumbnail": "assets/layers/e6cd35792bd6d6de9ac4250e.webp",
+  "assets": {
+    "character": "assets/layers/bad8d0b07d90281784672852.webp",
+    "background": "assets/layers/707063650f2d31b0546376cd.webp",
+    "ui": "assets/layers/e2eb88725b1e4df3d9b8cd95.webp",
+    "structure": "assets/layers/b2c4c1f6c780395a86a8b585.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "art-66d1794a88e1d54d",
+  "sourceId": "1fHZkK4qqv_0oKCrnKZrt2FqpIhshbgvn",
+  "sourceIndex": 37,
+  "name": "暗夜绯卷",
+  "original": "Cache_5df83905883e41d9.jpg",
+  "width": 1171,
+  "height": 1600,
+  "ratio": 0.731875,
+  "legacy": false,
+  "thumbnail": "assets/layers/d31f0b2bb887d4fe3aa409d9.webp",
+  "assets": {
+    "character": "assets/layers/36a1ca8759a178ad445e0c00.webp",
+    "background": "assets/layers/4689edd58a0eece127fd3417.webp",
+    "ui": "assets/layers/0cd6b6bc31975a07a8f9511f.webp",
+    "structure": "assets/layers/fb4de67f79548da7e795d6e4.webp",
+    "backgroundScale": 1
+  }
+}

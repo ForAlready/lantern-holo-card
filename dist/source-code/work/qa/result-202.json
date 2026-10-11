@@ -1,0 +1,19 @@
+{
+  "id": "art-3b6f6dfd8ad06d63",
+  "sourceId": "1kZF3lkH2lEBoUgRQokndGQ_ejneRtel3",
+  "sourceIndex": 202,
+  "name": "月下星原",
+  "original": "110358123_p0.jpg",
+  "width": 1000,
+  "height": 1414,
+  "ratio": 0.7072135785007072,
+  "legacy": false,
+  "thumbnail": "assets/layers/aaacbca9f986a9395602fd44.webp",
+  "assets": {
+    "character": "assets/layers/a9fb8716a82e85d6b2fec02f.webp",
+    "background": "assets/layers/ca56bc75b42c3ce4acc0a964.webp",
+    "ui": "assets/layers/10bd86eca56448b62372b538.webp",
+    "structure": "assets/layers/2e8fd1f38e9ad7f9c33fcda3.webp",
+    "backgroundScale": 1
+  }
+}

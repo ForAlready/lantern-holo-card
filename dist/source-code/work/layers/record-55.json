@@ -1,0 +1,21 @@
+{
+  "index": 55,
+  "id": "1Obyayy0oEO09Le65HfHbodwb4vbMv1bI",
+  "title": "Cache_685230cd53764415.jpg",
+  "name": "秋檐听风",
+  "width": 1131,
+  "height": 1600,
+  "proxyPath": "work/layers/proxy-55.jpg",
+  "maskPath": "work/layers/mask-55-rooftop-only.png",
+  "backgroundPath": "work/layers/background-55-rooftop-only.png",
+  "status": "needs-composite-review",
+  "notes": "Original unavailable; max1600 surviving proxy used. Foreground is rooftop girl ONLY; two small blue-haired characters intentionally remain behind orange foliage on background plane because occlusion masks could not reliably isolate visible pixels. Generated background removes rooftop girl, retains bottom two figures. Requires composite/depth QA. Restore both lower figures and occluding leaves from original pixels on scene plane using feathered ROI.",
+  "backgroundOriginalRects": [
+    [
+      0.45,
+      0.795,
+      0.245,
+      0.2
+    ]
+  ]
+}

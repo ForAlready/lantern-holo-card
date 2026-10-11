@@ -1,0 +1,19 @@
+{
+  "id": "art-d84484186f7ec5d2",
+  "sourceId": "1SUk0YDfEOiwz3c1UDlLakcBJxcgeWbKe",
+  "sourceIndex": 191,
+  "name": "绯墨流光",
+  "original": "1700831903969.jpg",
+  "width": 1600,
+  "height": 1029,
+  "ratio": 1.554907677356657,
+  "legacy": false,
+  "thumbnail": "assets/layers/e486b6b79f9935792d165977.webp",
+  "assets": {
+    "character": "assets/layers/6ea4b6c46e2138b73b465e61.webp",
+    "background": "assets/layers/1be1ff6806c7445966ac7cec.webp",
+    "ui": "assets/layers/0c0046cb65e73ea2c81ffdea.webp",
+    "structure": "assets/layers/d184c75c2682713134bc88fd.webp",
+    "backgroundScale": 1
+  }
+}

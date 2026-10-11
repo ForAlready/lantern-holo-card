@@ -1,3 +1,4 @@
+import {renderResolution} from './render-resolution.js';
 const vertex = `attribute vec2 position; varying vec2 uv; void main(){uv=position*.5+.5;gl_Position=vec4(position,0.,1.);}`;
 const fragment = `precision highp float;
 varying vec2 uv; uniform sampler2D art,bg,uiTex,bloomNear,bloomWide,structureTex; uniform float extracted, cardAspect, backgroundScale; uniform vec2 view; uniform float depth, contourBrightness, power, glowPass, pixelWidth;
@@ -147,45 +148,39 @@ export async function createCardRenderer(canvas, assets, signal) {
     gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, image);
     return t;
   });
-  // Full-resolution artwork and line core; bloom only is computed at half/quarter resolution.
-  canvas.width = Math.min(window.innerWidth < 640 ? 900 : 1408, Math.floor(1600 / Math.max(1, images[0].height/images[0].width)), gl.getParameter(gl.MAX_TEXTURE_SIZE));
-  canvas.height = Math.round(
-    canvas.width * (assets ? images[0].height / images[0].width : 1.4),
-  );
-  function target(scale) {
-    const w = Math.round(canvas.width * scale),
-      h = Math.round(canvas.height * scale);
-    const t = texture(gl.NEAREST);
-    gl.texImage2D(
-      gl.TEXTURE_2D,
-      0,
-      gl.RGBA,
-      w,
-      h,
-      0,
-      gl.RGBA,
-      gl.UNSIGNED_BYTE,
-      null,
-    );
-    const f = gl.createFramebuffer();
-    frames.push(f);
-    gl.bindFramebuffer(gl.FRAMEBUFFER, f);
-    gl.framebufferTexture2D(
-      gl.FRAMEBUFFER,
-      gl.COLOR_ATTACHMENT0,
-      gl.TEXTURE_2D,
-      t,
-      0,
-    );
-    if (gl.checkFramebufferStatus(gl.FRAMEBUFFER) !== gl.FRAMEBUFFER_COMPLETE)
-      throw new Error('Bloom framebuffer unavailable');
-    return { t, f, w, h };
+  // Keep artwork at native texture resolution. Only the light bloom is blurred.
+  // Size the main pass for CSS pixels × device density, including overscan.
+  const aspect=images[0].height/images[0].width;
+  const viewport=gl.getParameter(gl.MAX_VIEWPORT_DIMS);
+  const side=Math.min(gl.getParameter(gl.MAX_TEXTURE_SIZE),gl.getParameter(gl.MAX_RENDERBUFFER_SIZE));
+  const limits={maxWidth:Math.min(side,viewport?.[0]||side),maxHeight:Math.min(side,viewport?.[1]||side)};
+  const targets=[];
+  function allocate(t){
+    t.w=Math.max(1,Math.floor(canvas.width*t.scale));t.h=Math.max(1,Math.floor(canvas.height*t.scale));
+    gl.bindTexture(gl.TEXTURE_2D,t.t);
+    gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,t.w,t.h,0,gl.RGBA,gl.UNSIGNED_BYTE,null);
+    gl.bindFramebuffer(gl.FRAMEBUFFER,t.f);
+    if(gl.checkFramebufferStatus(gl.FRAMEBUFFER)!==gl.FRAMEBUFFER_COMPLETE)throw new Error('Bloom framebuffer unavailable');
   }
-  const emission = target(0.5),
-    temp = target(0.5),
-    near = target(0.5),
-    wideTemp = target(0.25),
-    wide = target(0.25);
+  function resize(){
+    if(disposed)return false;
+    const cssWidth=canvas.clientWidth||640,cssHeight=canvas.clientHeight||cssWidth*aspect;
+    const next=renderResolution(cssWidth,cssHeight,window.devicePixelRatio||1,limits);
+    if(canvas.width===next.width&&canvas.height===next.height)return false;
+    canvas.width=next.width;canvas.height=next.height;
+    for(const t of targets)allocate(t);
+    use(scene);
+    gl.uniform1f(gl.getUniformLocation(scene,'pixelWidth'),1.6/canvas.width);
+    return true;
+  }
+  resize();
+  function target(scale){
+    const t=texture(gl.LINEAR),f=gl.createFramebuffer();frames.push(f);
+    gl.bindFramebuffer(gl.FRAMEBUFFER,f);
+    gl.framebufferTexture2D(gl.FRAMEBUFFER,gl.COLOR_ATTACHMENT0,gl.TEXTURE_2D,t,0);
+    const target={t,f,scale};targets.push(target);allocate(target);return target;
+  }
+  const emission=target(.5),temp=target(.5),near=target(.5),wideTemp=target(.25),wide=target(.25);
   const sceneU = {
     view: gl.getUniformLocation(scene, 'view'),
     power: gl.getUniformLocation(scene, 'power'),
@@ -196,12 +191,12 @@ export async function createCardRenderer(canvas, assets, signal) {
   use(scene);
   gl.uniform1f(
     gl.getUniformLocation(scene, 'cardAspect'),
-    canvas.height / canvas.width,
+    aspect,
   );
   gl.uniform1f(gl.getUniformLocation(scene, 'extracted'), assets ? 1 : 0);
   gl.uniform1f(gl.getUniformLocation(scene, 'backgroundScale'), assets.backgroundScale ?? .5);
   gl.uniform1i(gl.getUniformLocation(scene, 'structureTex'), 5);
-  gl.uniform1f(gl.getUniformLocation(scene, 'pixelWidth'), 1 / canvas.width);
+  gl.uniform1f(gl.getUniformLocation(scene, 'pixelWidth'), 1.6 / canvas.width);
   ['art', 'bg', 'uiTex', 'bloomNear', 'bloomWide'].forEach((name, i) =>
     gl.uniform1i(gl.getUniformLocation(scene, name), i),
   );
@@ -223,6 +218,7 @@ export async function createCardRenderer(canvas, assets, signal) {
   return {
     draw(x, y, strength, depth = 0, contourBrightness = 0.15) {
       if(disposed)return;
+      resize();
       use(scene);
       artTextures.forEach((t, i) => bind(t, i === 3 ? 5 : i));
       bind(near.t, 3);
@@ -252,6 +248,7 @@ export async function createCardRenderer(canvas, assets, signal) {
       gl.viewport(0, 0, canvas.width, canvas.height);
       gl.drawArrays(gl.TRIANGLES, 0, 6);
     },
+    resize,
     dispose,
   };
   } catch(error) {dispose();throw error;}

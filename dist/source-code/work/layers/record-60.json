@@ -1,0 +1,27 @@
+{
+  "index": 60,
+  "id": "1BOvK0rnPjstPPnSgVS9qsla37MGpDGgM",
+  "title": "119436395_p0_master1200.jpg",
+  "name": "金穗甜点",
+  "width": 1001,
+  "height": 2456,
+  "proxyPath": "work/layers/proxy-60.jpg",
+  "maskPath": "work/layers/mask-60-aligned.png",
+  "backgroundPath": "work/layers/background-60-clean.png",
+  "status": "needs-composite-review",
+  "notes": "Original large file is unavailable after workspace pruning; surviving source proxy used. SINGLE generated binary mask and separately cleaned background. Original RGB foreground and original-pixel signatures only.",
+  "signatureRect": [
+    0.69,
+    0.8,
+    0.3,
+    0.185
+  ],
+  "backgroundOriginalRects": [
+    [
+      0.025,
+      0.01,
+      0.95,
+      0.105
+    ]
+  ]
+}

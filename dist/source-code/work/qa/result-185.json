@@ -1,0 +1,19 @@
+{
+  "id": "art-73ee30cb95c916cf",
+  "sourceId": "1Rz5PTG686zxQGBv-iFRjN-a8jU3vioUM",
+  "sourceIndex": 185,
+  "name": "星轨秘法",
+  "original": "95593833_p0_master1200.jpg",
+  "width": 1600,
+  "height": 1132,
+  "ratio": 1.4134275618374559,
+  "legacy": false,
+  "thumbnail": "assets/layers/911140034dce9f3efd4e43ba.webp",
+  "assets": {
+    "character": "assets/layers/24df80fc81f3cd67e8902277.webp",
+    "background": "assets/layers/4c9ea23f424880d79bfc4d84.webp",
+    "ui": "assets/layers/3d85398176bdf950d60343fa.webp",
+    "structure": "assets/layers/09bbaf5a8f43b981ed34ab68.webp",
+    "backgroundScale": 1
+  }
+}

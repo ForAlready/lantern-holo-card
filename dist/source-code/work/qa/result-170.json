@@ -1,0 +1,19 @@
+{
+  "id": "art-230b30ae10edfd20",
+  "sourceId": "1QiPg8jZxt1BTlnX3gFPLYiJxyPhikBES",
+  "sourceIndex": 170,
+  "name": "岩光龙吟",
+  "original": "116529138_p0.jpg",
+  "width": 1600,
+  "height": 752,
+  "ratio": 2.127659574468085,
+  "legacy": false,
+  "thumbnail": "assets/layers/aeac94c9ada02b249fde8df0.webp",
+  "assets": {
+    "character": "assets/layers/f21ce2352d74398004fff4ce.webp",
+    "background": "assets/layers/02a09bc8c9cc2d977814e01c.webp",
+    "ui": "assets/layers/ab38e2d3ba5ceaf0c7af8614.webp",
+    "structure": "assets/layers/9bdd57716b1cd89d7d234b10.webp",
+    "backgroundScale": 1
+  }
+}

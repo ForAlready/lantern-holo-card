@@ -1,0 +1,19 @@
+{
+  "id": "art-be1e8744653b1469",
+  "sourceId": "1D8KJPfRDwmMMYPBwDNKnc8iEURMFvc4W",
+  "sourceIndex": 83,
+  "name": "花雨金瞳",
+  "original": "Cache_26d11f24a3579e57.jpg",
+  "width": 1200,
+  "height": 1600,
+  "ratio": 0.75,
+  "legacy": false,
+  "thumbnail": "assets/layers/81d1260e655c045683503f8f.webp",
+  "assets": {
+    "character": "assets/layers/5a3d855f9bf0df2716bb279a.webp",
+    "background": "assets/layers/e4a74fb1b3e43fcb26a62128.webp",
+    "ui": "assets/layers/7435ce0d6645d716e68aef72.webp",
+    "structure": "assets/layers/7b3b5ea67a54201e59d13b99.webp",
+    "backgroundScale": 1
+  }
+}

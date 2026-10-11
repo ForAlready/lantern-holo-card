@@ -1,0 +1,19 @@
+{
+  "id": "art-c718c1fe0d0884de",
+  "sourceId": "1HeyYO4dGe519Bt5EIL9rDrdDUx0sfg5k",
+  "sourceIndex": 41,
+  "name": "晴窗猫憩",
+  "original": "Cache_-6a916e2264299231.jpg",
+  "width": 1000,
+  "height": 1516,
+  "ratio": 0.6596306068601583,
+  "legacy": false,
+  "thumbnail": "assets/layers/76edc1e3a44bb889d17cbbc5.webp",
+  "assets": {
+    "character": "assets/layers/bb605265c5f9ed6eec4429ba.webp",
+    "background": "assets/layers/512fdd439ccca903ac6586d6.webp",
+    "ui": "assets/layers/d2ca0012f36e77d3a629b02f.webp",
+    "structure": "assets/layers/9762a153815c1dd6fa849cca.webp",
+    "backgroundScale": 1
+  }
+}

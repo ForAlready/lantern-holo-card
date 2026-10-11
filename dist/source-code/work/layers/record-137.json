@@ -1,0 +1,14 @@
+{
+  "index": 137,
+  "id": "151OaQfr74aUaUwLj3Q-eQ-VKAiifUm6j",
+  "name": "霜刃静祈",
+  "original": "Cache_386f95b0b04ac752.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-137",
+  "proxyPath": "work/layers/proxy-137.jpg",
+  "width": 1194,
+  "height": 1600,
+  "maskPath": "work/layers/mask-137-v2.png",
+  "backgroundPath": "work/layers/background-137-v2.png",
+  "status": "needs-composite-qa",
+  "notes": "Standalone full-coordinate mask repair; inspect original vs composite for contour drift before ready. Background retained or regenerated as separate plate."
+}

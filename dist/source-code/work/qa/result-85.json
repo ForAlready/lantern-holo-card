@@ -1,0 +1,19 @@
+{
+  "id": "art-52c72b05e0d5c7d2",
+  "sourceId": "1Dt8JXRivTnJohrN590cajNgAYF-I0VlM",
+  "sourceIndex": 85,
+  "name": "远岫雪光",
+  "original": "Cache_5508fab983cc9a99.jpg",
+  "width": 720,
+  "height": 1600,
+  "ratio": 0.45,
+  "legacy": false,
+  "thumbnail": "assets/layers/2ae50088b9b86922683d55d4.webp",
+  "assets": {
+    "character": "assets/layers/2774e856a63ea9ffb5b77484.webp",
+    "background": "assets/layers/1272f63d09e34dd6d67ae1b7.webp",
+    "ui": "assets/layers/e06342dd08695aac5ce89393.webp",
+    "structure": "assets/layers/32c3255b79ef21e68e48be0f.webp",
+    "backgroundScale": 1
+  }
+}

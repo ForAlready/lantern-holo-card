@@ -1,0 +1,22 @@
+{
+  "index": 13,
+  "id": "1MVlG3RObxbKp6ui5iwxrAXLdLlFXjZG2",
+  "name": "雾城双刃",
+  "original": "plvlive_20240817-174319.png",
+  "title": "plvlive_20240817-174319.png",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-13",
+  "proxyPath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/work/layers/proxy-13.jpg",
+  "atlasPath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/work/layers/atlas-13.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "width": 8640,
+  "height": 15376,
+  "subjectRect": [
+    0,
+    0.031,
+    0.884,
+    0.969
+  ],
+  "status": "generated-reviewed",
+  "notes": "Empty fog city inpaint; mask coordinate bbox registration to source."
+}

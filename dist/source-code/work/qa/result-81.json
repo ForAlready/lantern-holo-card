@@ -1,0 +1,19 @@
+{
+  "id": "art-9561d56d9fb23438",
+  "sourceId": "1TWeEm9FVJSMrXS3ncbaQTeCBgZGJLqqY",
+  "sourceIndex": 81,
+  "name": "街角合唱",
+  "original": "Cache_-28beb95af8ada501.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/9d600d403e893cf51e086d54.webp",
+  "assets": {
+    "character": "assets/layers/6bcb09f5a082366639cf8a14.webp",
+    "background": "assets/layers/71d5b88dc33f4d192d189d07.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/c6a41c833be33353d9dd192c.webp",
+    "backgroundScale": 1
+  }
+}

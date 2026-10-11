@@ -1,0 +1,20 @@
+{
+  "index": 98,
+  "id": "1bcNLw6whm6FB-D6Zthc3NnN8FwDvEqZW",
+  "title": "Cache_-68873e269f594c1f(1).jpg",
+  "name": "寒光执剑",
+  "width": 7768,
+  "height": 14348,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-98",
+  "proxyPath": "work/layers/proxy-98.jpg",
+  "status": "needs-composite-review",
+  "maskPath": "work/layers/mask-98-recovered-v3.png",
+  "backgroundPath": "work/layers/background-98.png",
+  "signatureRect": [
+    0.245,
+    0.848,
+    0.498,
+    0.115
+  ],
+  "repairNote": "Regenerated single exact-coordinate mask. RGB alpha inspection retains face, coat, armor, sword and cropped bottom coat. Source title is over foreground body and must not be duplicated in independent signature layer; parent should decide preservation strategy."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "art-3feaaff9ad04edf7",
+  "sourceId": "1MdWMgHGkxECHPXMtmR7-S1S1sRb8p1W2",
+  "sourceIndex": 166,
+  "name": "暖屋同游",
+  "original": "115741092_p0_master1200.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/2ff758bafbdc9400e5d9fd04.webp",
+  "assets": {
+    "character": "assets/layers/d49c82257f7766398971fcc2.webp",
+    "background": "assets/layers/000055533ef0119515e396ea.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/0762142ce68b86999971b65a.webp",
+    "backgroundScale": 1
+  }
+}

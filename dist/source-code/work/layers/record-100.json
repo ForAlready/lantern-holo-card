@@ -1,0 +1,15 @@
+{
+  "index": 100,
+  "id": "1wBe2376MCKccxwKztyEbkohYlk3FxRPw",
+  "title": "Cache_487d9ea52cffc5d.jpg",
+  "name": "星台蓝歌",
+  "width": 11576,
+  "height": 16372,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-100",
+  "proxyPath": "work/layers/proxy-100.jpg",
+  "status": "needs-composite-review",
+  "maskPath": "work/layers/mask-100-solid-v3.png",
+  "backgroundPath": "work/layers/background-100.png",
+  "note": "Original ornamental title overlaps person; preserve original title as part of foreground mask.",
+  "notes": "SINGLE v3 targeted edit of v2: all small enclosed false holes under glove / prop filled white, face and clothing solid. Exterior, real background arm/leg gaps and ornate title loops preserved. Needs root composite geometry QA. Existing background preserved."
+}

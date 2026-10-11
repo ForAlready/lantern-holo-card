@@ -1,0 +1,19 @@
+{
+  "id": "art-af6d4378f5d3fa41",
+  "sourceId": "1aTjZJA4RkJl5O4zXAF02mGzqps_zJf9e",
+  "sourceIndex": 101,
+  "name": "静候来信",
+  "original": "Cache_-4f0675c4c9da4802.jpg",
+  "width": 738,
+  "height": 1600,
+  "ratio": 0.46125,
+  "legacy": false,
+  "thumbnail": "assets/layers/a6d1762f463f36d402a74eda.webp",
+  "assets": {
+    "character": "assets/layers/a1f597df07145bf1f9a953b3.webp",
+    "background": "assets/layers/d84835c5a9f20ef052f5436c.webp",
+    "ui": "assets/layers/1f64f621dfd22011317f3dca.webp",
+    "structure": "assets/layers/9702a606de4fd3b439d2de25.webp",
+    "backgroundScale": 1
+  }
+}

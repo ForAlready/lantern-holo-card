@@ -1,0 +1,19 @@
+{
+  "id": "art-73f0331f2605aade",
+  "sourceId": "1xnr3KXqgHkmb1a2EU2jqsFUdaL8xKcxZ",
+  "sourceIndex": 47,
+  "name": "绒尾轻眠",
+  "original": "Cache_5f625f79d3477ab6.jpg",
+  "width": 1053,
+  "height": 1600,
+  "ratio": 0.658125,
+  "legacy": false,
+  "thumbnail": "assets/layers/23a91735f6e7c1b0b9abe936.webp",
+  "assets": {
+    "character": "assets/layers/fdc79ec9ad71e8ff33f939eb.webp",
+    "background": "assets/layers/9cd993838272beba17a084ef.webp",
+    "ui": "assets/layers/3e731d621972392eb5a4dcdb.webp",
+    "structure": "assets/layers/3a3d8f5ce6d2c2f5239a3a80.webp",
+    "backgroundScale": 1
+  }
+}

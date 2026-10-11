@@ -1,0 +1,19 @@
+{
+  "id": "art-0d398df8e04116c4",
+  "sourceId": "1WwbC5B9VUXsKi6-gG8qqnK87j5JAjBV7",
+  "sourceIndex": 115,
+  "name": "晴台花帽",
+  "original": "Cache_-5007fde9a379c40.jpg",
+  "width": 1079,
+  "height": 1600,
+  "ratio": 0.674375,
+  "legacy": false,
+  "thumbnail": "assets/layers/e0c7423006d1cb3898ce36a6.webp",
+  "assets": {
+    "character": "assets/layers/a76f7bb4f7de64f4e40c0d76.webp",
+    "background": "assets/layers/baecedc2c8a934c16e192e30.webp",
+    "ui": "assets/layers/2a19f42ec7e33bb7a3c231af.webp",
+    "structure": "assets/layers/a5e54397f7a504a5ff58f9f9.webp",
+    "backgroundScale": 1
+  }
+}

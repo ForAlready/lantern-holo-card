@@ -1,0 +1,20 @@
+{
+  "index": 76,
+  "id": "1rowDYwa__UuW6KYy5M0VpCulKD8Nnls5",
+  "title": "Cache_38ac705bfb41132b.jpg",
+  "name": "暮海归风",
+  "width": 2700,
+  "height": 4525,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/../originals/source-76",
+  "proxyPath": "work/layers/proxy-76.jpg",
+  "maskPath": "work/layers/mask-76-no-title.png",
+  "backgroundPath": "work/layers/background-76-root-v1.png",
+  "status": "needs-composite-review",
+  "signatureRect": [
+    0.35,
+    0.853,
+    0.31,
+    0.045
+  ],
+  "notes": "Removed non-subject title from lower mask; original text restored on background."
+}

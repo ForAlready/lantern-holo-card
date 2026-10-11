@@ -1,0 +1,19 @@
+{
+  "id": "art-a7bcb51db5bfdc5f",
+  "sourceId": "1atd9jOnQmja0n8oL-qhGAJawqpY96UI4",
+  "sourceIndex": 118,
+  "name": "月环守望",
+  "original": "f43b7823599051c2c59696f083459d86.jpg",
+  "width": 956,
+  "height": 1600,
+  "ratio": 0.5975,
+  "legacy": false,
+  "thumbnail": "assets/layers/16da031c2f504b5931c58a1c.webp",
+  "assets": {
+    "character": "assets/layers/4d2394cf9482e0ef0360567c.webp",
+    "background": "assets/layers/11dc735169cfef0d3e708331.webp",
+    "ui": "assets/layers/fa537faeab01c30af966d5a4.webp",
+    "structure": "assets/layers/8a47dc337dfbc3d478616add.webp",
+    "backgroundScale": 1
+  }
+}

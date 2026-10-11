@@ -1,0 +1,15 @@
+{
+  "index": 53,
+  "maskBlackThreshold": 12,
+  "id": "15PL0EZ454VcFkHg0wdC9B2yWjxxCv2eA",
+  "name": "旋梯轻羽",
+  "original": "Cache_4b77bbe1b77e0870.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-53",
+  "proxyPath": "work/layers/proxy-53.jpg",
+  "width": 9920,
+  "height": 14028,
+  "status": "needs-composite-review",
+  "notes": "Joint original person and complete near stair flight; clean background removes both.",
+  "maskPath": "work/layers/mask-53-all-stair-solid.png",
+  "backgroundPath": "work/layers/background-53-no-top.png"
+}

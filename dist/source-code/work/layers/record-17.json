@@ -1,0 +1,22 @@
+{
+  "index": 17,
+  "id": "1jsB_1xHXXEFsDsoen-jBa8RcqCYmlqHf",
+  "name": "天台晚霞",
+  "original": "plvlive_20240817-174025.png",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-17",
+  "proxyPath": "work/layers/proxy-17.jpg",
+  "width": 900,
+  "height": 1600,
+  "maskPath": "work/layers/mask-17-divider-excluded.png",
+  "atlasPath": "work/layers/atlas-17.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "signatureRect": [
+    0.36,
+    0.92,
+    0.32,
+    0.065
+  ],
+  "status": "needs-composite-qa",
+  "notes": "Standalone full-coordinate mask repair; inspect original vs composite for contour drift before ready. Background retained or regenerated as separate plate."
+}

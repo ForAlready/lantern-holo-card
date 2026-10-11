@@ -1,0 +1,19 @@
+{
+  "id": "art-04414838d228fb7c",
+  "sourceId": "1YbgKRvH0cWz9D_5IuosMKFhLx1nBQHso",
+  "sourceIndex": 200,
+  "name": "夏花池畔",
+  "original": "110502630_p0_master1200.jpg",
+  "width": 927,
+  "height": 1600,
+  "ratio": 0.579375,
+  "legacy": false,
+  "thumbnail": "assets/layers/1315a4e775b469f46145ecdb.webp",
+  "assets": {
+    "character": "assets/layers/0e0217ba34d92d702117a0b1.webp",
+    "background": "assets/layers/e011496349ef9a1120cfa709.webp",
+    "ui": "assets/layers/ea930fbdc07e7ed62d1857bc.webp",
+    "structure": "assets/layers/855b57878799126f4474e4a7.webp",
+    "backgroundScale": 1
+  }
+}

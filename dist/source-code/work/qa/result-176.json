@@ -1,0 +1,19 @@
+{
+  "id": "art-c12b1facafab4b13",
+  "sourceId": "1244p9xCzhyTEIkRA-_Di5yFIby3196_4",
+  "sourceIndex": 176,
+  "name": "紫夜疾驰",
+  "original": "114530611_p0.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/b2d8b9308b6c32448c3024fc.webp",
+  "assets": {
+    "character": "assets/layers/2fab40da4f1d3b205608966c.webp",
+    "background": "assets/layers/f7802023129e8f1ab56e236f.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/0578e5c8d82505741ece849b.webp",
+    "backgroundScale": 1
+  }
+}

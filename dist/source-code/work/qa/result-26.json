@@ -1,0 +1,19 @@
+{
+  "id": "art-ab06b5e0b0bf4f21",
+  "sourceId": "1ezMww-_1epx50dUbUNi43cdEl3RTj7HL",
+  "sourceIndex": 26,
+  "name": "金枝花衣",
+  "original": "Cache_-d027ffd0cd6173c.jpg",
+  "width": 943,
+  "height": 1600,
+  "ratio": 0.589375,
+  "legacy": false,
+  "thumbnail": "assets/layers/bc7d48941ff09358938efbe1.webp",
+  "assets": {
+    "character": "assets/layers/bf6ee1994afa056645a978cb.webp",
+    "background": "assets/layers/132c1aa40bab268da9cc82e2.webp",
+    "ui": "assets/layers/9866651c09fadd466e8fd38f.webp",
+    "structure": "assets/layers/7d57546c7b37aba290fdf16b.webp",
+    "backgroundScale": 1
+  }
+}

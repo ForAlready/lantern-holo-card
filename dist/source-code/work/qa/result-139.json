@@ -1,0 +1,19 @@
+{
+  "id": "art-274d36d5ca208148",
+  "sourceId": "1F83klq88CXlQBx3bHb1Lwy9e-an2agTR",
+  "sourceIndex": 139,
+  "name": "幽蓝花语",
+  "original": "Cache_1534b9882107c88e.png",
+  "width": 1121,
+  "height": 1600,
+  "ratio": 0.700625,
+  "legacy": false,
+  "thumbnail": "assets/layers/1e946d2261ffb5ced9e6c0e0.webp",
+  "assets": {
+    "character": "assets/layers/f3e9281ddd1dceea2cd175b7.webp",
+    "background": "assets/layers/272c9f0c615d78e29b04efab.webp",
+    "ui": "assets/layers/b22389d9a52d836a640ad3ec.webp",
+    "structure": "assets/layers/db690db6ecaf1afdb4f7d268.webp",
+    "backgroundScale": 1
+  }
+}

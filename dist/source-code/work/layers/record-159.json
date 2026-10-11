@@ -1,0 +1,20 @@
+{
+  "index": 159,
+  "id": "1wYGuPLOY_tYK_2yDiYTxwwZ1ohyH6NbR",
+  "title": "116566619_p0.jpg",
+  "name": "莓糖花笺",
+  "width": 2892,
+  "height": 4091,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-159",
+  "proxyPath": "work/layers/proxy-159.jpg",
+  "maskPath": "work/layers/mask-159-v4.png",
+  "backgroundPath": "work/layers/background-159.png",
+  "signatureRect": [
+    0.2,
+    0.885,
+    0.62,
+    0.095
+  ],
+  "status": "needs-composite-review",
+  "notes": "Single foreground union includes visible character + held bunnies/goblet + floating lower-left books and adjoining candy. Background removes whole union; original lower title restored via source pixels."
+}

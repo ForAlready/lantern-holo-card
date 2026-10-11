@@ -1,0 +1,13 @@
+{
+  "index": 107,
+  "id": "1-uJNNtBLZwjKosZW0uFNK9h5mhxKqmjD",
+  "title": "117754438_p0_master1200.jpg",
+  "name": "泡泡霓彩",
+  "width": 971,
+  "height": 1600,
+  "proxyPath": "work/layers/proxy-107.jpg",
+  "maskPath": "work/layers/mask-107-v2.png",
+  "backgroundPath": "work/layers/background-107.png",
+  "status": "needs-composite-review",
+  "notes": "Built-in imagegen SINGLE mask v2 fixes sleeve and top-hair holes; full-canvas edge-cropped foreground so no bbox stretch requested. Original signed wrist ribbon retained within opaque original-RGB foreground, no signatureRect necessary. Flat orange background enriched with restrained matching pop-art halftone design. Original source unavailable; surviving max1600 proxy used."
+}

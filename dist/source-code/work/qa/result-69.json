@@ -1,0 +1,19 @@
+{
+  "id": "art-9e4de1e8a2b2b223",
+  "sourceId": "1nbvE8SJes52lrBOwQbJ-QbOh6wli92iX",
+  "sourceIndex": 69,
+  "name": "晴窗绒尾",
+  "original": "Cache_-22ade8f83710358.jpg",
+  "width": 1053,
+  "height": 1600,
+  "ratio": 0.658125,
+  "legacy": false,
+  "thumbnail": "assets/layers/9b507786aff8c72e0b7a2b69.webp",
+  "assets": {
+    "character": "assets/layers/d3777939c056d1fe598f2fca.webp",
+    "background": "assets/layers/d72bd76cdc00a45806f6ab7b.webp",
+    "ui": "assets/layers/3e731d621972392eb5a4dcdb.webp",
+    "structure": "assets/layers/505df3abadaf3ab9ffb4d9d3.webp",
+    "backgroundScale": 1
+  }
+}

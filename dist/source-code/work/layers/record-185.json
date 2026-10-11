@@ -1,0 +1,19 @@
+{
+  "index": 185,
+  "id": "1Rz5PTG686zxQGBv-iFRjN-a8jU3vioUM",
+  "title": "95593833_p0_master1200.jpg",
+  "name": "星轨秘法",
+  "proxyPath": "work/layers/proxy-185.jpg",
+  "status": "needs-composite-review",
+  "width": 1600,
+  "height": 1132,
+  "maskPath": "work/layers/mask-185.png",
+  "subjectRect": [
+    0,
+    0.06,
+    0.68,
+    0.94
+  ],
+  "backgroundPath": "work/layers/background-185.png",
+  "notes": "Only visible girl pixels foreground; magic orb and ribbons in background. Original hair/dress edge cropping must stay."
+}

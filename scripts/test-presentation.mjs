@@ -4,7 +4,7 @@ const cards=JSON.parse(fs.readFileSync('dist/catalog.json'));
 assert.equal(cards.length,140);
 for(const c of cards){assert(c.back,'Every card must have the original illustrated back');assert(fs.existsSync('dist/'+c.back));
  for(const[w,h]of[[320,430],[740,670],[1160,820],[1400,520]]){
-  const l=cardLayout(w,h,c.ratio);assert(l.visibleWidth<=w*.90001&&l.visibleHeight<=h*.90001);assert(Math.abs(l.visibleWidth/l.visibleHeight-c.ratio)<1e-8);assert(Math.max(l.visibleWidth/w,l.visibleHeight/h)>.8999);
+  const l=cardLayout(w,h,c.ratio);assert(l.visibleWidth<=w*.90001&&l.visibleHeight<=h*.90001);assert(Math.abs(l.visibleWidth/l.visibleHeight-c.ratio)<1e-8);assert(Math.abs(l.canvasWidth/l.canvasHeight-c.ratio)<1e-8);assert(Math.max(l.visibleWidth/w,l.visibleHeight/h)>.8999);
  }
 }
 assert(fs.existsSync('dist/assets/favicon.svg'));assert(fs.existsSync('dist/assets/apple-touch-icon.png'));

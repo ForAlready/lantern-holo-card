@@ -1,0 +1,19 @@
+{
+  "id": "art-3fca6a48d5ca1da4",
+  "sourceId": "1ZxGrN-ccY_dtQQoXEETfP-P10LxTW8SI",
+  "sourceIndex": 133,
+  "name": "紫窗蝶梦",
+  "original": "014299bc4d014299bc4d.jpg",
+  "width": 800,
+  "height": 1600,
+  "ratio": 0.5,
+  "legacy": false,
+  "thumbnail": "assets/layers/77e3c7b5489c73575f8bd702.webp",
+  "assets": {
+    "character": "assets/layers/782dcf2bccf05f145241acf5.webp",
+    "background": "assets/layers/4792eb00a960fa292cdab0ea.webp",
+    "ui": "assets/layers/534b06cbfb3b55f0a75a9ef3.webp",
+    "structure": "assets/layers/74b9276a6ff4ea971fb34790.webp",
+    "backgroundScale": 1
+  }
+}

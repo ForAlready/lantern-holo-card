@@ -1,0 +1,19 @@
+{
+  "id": "art-6be2b7742e259a2f",
+  "sourceId": "1fD8FV0ugUX7PZVbLkiJDsli8lo8qSn67",
+  "sourceIndex": 20,
+  "name": "引力远行",
+  "original": "Cache_-5b45f45cd8d5e78f.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/eb08a10767a56343ef5f79fc.webp",
+  "assets": {
+    "character": "assets/layers/725840829772dbe7f10f31c9.webp",
+    "background": "assets/layers/cd507fe13a9087273722b7a0.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/3e04bbea2206dd295b9f9843.webp",
+    "backgroundScale": 1
+  }
+}

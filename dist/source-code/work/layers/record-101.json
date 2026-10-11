@@ -1,0 +1,20 @@
+{
+  "index": 101,
+  "id": "1aTjZJA4RkJl5O4zXAF02mGzqps_zJf9e",
+  "title": "Cache_-4f0675c4c9da4802.jpg",
+  "name": "静候来信",
+  "width": 738,
+  "height": 1600,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-101",
+  "proxyPath": "work/layers/proxy-101.jpg",
+  "maskPath": "work/layers/mask-101.png",
+  "backgroundPath": "work/layers/background-101.png",
+  "subjectRect": [
+    0,
+    0.528,
+    0.985,
+    0.472
+  ],
+  "status": "needs-composite-review",
+  "notes": "SINGLE white silhouette + generated correspondence room background replacing original flat gray. Preserve original lower-half composition; register generated mask bbox with subjectRect. Original source unavailable, surviving proxy used."
+}

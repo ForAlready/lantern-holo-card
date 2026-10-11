@@ -1,0 +1,19 @@
+{
+  "id": "art-fe6b4638b0305a9f",
+  "sourceId": "1Q7ejlBfCmU3HvDARnVHDJFRhZ-OydDL1",
+  "sourceIndex": 54,
+  "name": "花夜旋律",
+  "original": "Cache_-e0e4a37b9607d1a.jpg",
+  "width": 1131,
+  "height": 1600,
+  "ratio": 0.706875,
+  "legacy": false,
+  "thumbnail": "assets/layers/7a472796da93cb56e4af8cd7.webp",
+  "assets": {
+    "character": "assets/layers/e679b7a4727eefb96703e47c.webp",
+    "background": "assets/layers/976b23fcf5fb528eaaf56a3e.webp",
+    "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+    "structure": "assets/layers/3c62b8989faaeb2684b58b45.webp",
+    "backgroundScale": 1
+  }
+}

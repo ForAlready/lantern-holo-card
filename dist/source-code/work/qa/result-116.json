@@ -1,0 +1,19 @@
+{
+  "id": "art-7d1de06cc2a3b78c",
+  "sourceId": "1JndDc2VK8QoT3gMHn25FQSQjiujAB5Zb",
+  "sourceIndex": 116,
+  "name": "蓝裙时语",
+  "original": "Cache_-168a4c8623867d79.jpg",
+  "width": 800,
+  "height": 1600,
+  "ratio": 0.5,
+  "legacy": false,
+  "thumbnail": "assets/layers/ad095d2ef6db6dcd8d392983.webp",
+  "assets": {
+    "character": "assets/layers/de174d6e968a396a9a8b1d4f.webp",
+    "background": "assets/layers/c802da23f66f6d4d40e8f887.webp",
+    "ui": "assets/layers/534b06cbfb3b55f0a75a9ef3.webp",
+    "structure": "assets/layers/de5927bd24515d6b70246bbf.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "art-4c4f5bee787eb596",
+  "sourceId": "1JZb6jT2cqD-GmXhxGbrQstFBlWU98sHP",
+  "sourceIndex": 186,
+  "name": "花扇雅韵",
+  "original": "91603009_p0_master1200.jpg",
+  "width": 887,
+  "height": 1600,
+  "ratio": 0.554375,
+  "legacy": false,
+  "thumbnail": "assets/layers/aa6f9a60582669e803ddae13.webp",
+  "assets": {
+    "character": "assets/layers/f0cb7c86112e519f9d1b4bbb.webp",
+    "background": "assets/layers/3e1b691c9db01929b0dce35e.webp",
+    "ui": "assets/layers/d783c82b8426b302ee32b8e7.webp",
+    "structure": "assets/layers/3695ba41af45a2e3c64b68df.webp",
+    "backgroundScale": 1
+  }
+}

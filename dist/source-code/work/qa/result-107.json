@@ -1,0 +1,19 @@
+{
+  "id": "art-b5e4504d265627b3",
+  "sourceId": "1-uJNNtBLZwjKosZW0uFNK9h5mhxKqmjD",
+  "sourceIndex": 107,
+  "name": "泡泡霓彩",
+  "original": "117754438_p0_master1200.jpg",
+  "width": 971,
+  "height": 1600,
+  "ratio": 0.606875,
+  "legacy": false,
+  "thumbnail": "assets/layers/d8759eea6848c92a873b21e9.webp",
+  "assets": {
+    "character": "assets/layers/1d52d3423aca267d6201848b.webp",
+    "background": "assets/layers/71d59b9cfcfe46b3df614b4b.webp",
+    "ui": "assets/layers/7f2d36e08cef327520c93d8c.webp",
+    "structure": "assets/layers/bde17f1bc51b0c613138d7fa.webp",
+    "backgroundScale": 1
+  }
+}

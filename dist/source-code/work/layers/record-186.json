@@ -1,0 +1,19 @@
+{
+  "index": 186,
+  "id": "1JZb6jT2cqD-GmXhxGbrQstFBlWU98sHP",
+  "title": "91603009_p0_master1200.jpg",
+  "name": "花扇雅韵",
+  "proxyPath": "work/layers/proxy-186.jpg",
+  "status": "needs-composite-review",
+  "width": 887,
+  "height": 1600,
+  "maskPath": "work/layers/mask-186-v7.png",
+  "subjectRect": [
+    0.075,
+    0.087,
+    0.863,
+    0.898
+  ],
+  "backgroundPath": "work/layers/background-186.png",
+  "notes": "Built-in imagegen v7 removes floral/leaf/vase white fringes from mask v4 while preserving actual visible woman and fan. Black occlusion cutouts at orange flowers remain. subjectRect retained from v4 approximate registration; root should verify exact source composite especially flower boundary and shoe. Failed v5/v6 are not adopted."
+}

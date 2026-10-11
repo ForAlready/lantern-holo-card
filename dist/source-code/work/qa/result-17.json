@@ -1,0 +1,19 @@
+{
+  "id": "art-d5883e1584aa2b2f",
+  "sourceId": "1jsB_1xHXXEFsDsoen-jBa8RcqCYmlqHf",
+  "sourceIndex": 17,
+  "name": "天台晚霞",
+  "original": "plvlive_20240817-174025.png",
+  "width": 900,
+  "height": 1600,
+  "ratio": 0.5625,
+  "legacy": false,
+  "thumbnail": "assets/layers/dabf67d1c8e1f7d1990f0c81.webp",
+  "assets": {
+    "character": "assets/layers/ce117997dd8bc441fbb95d55.webp",
+    "background": "assets/layers/c40742fae5860dbf14016151.webp",
+    "ui": "assets/layers/68ba5a5b196bf674ef2e5796.webp",
+    "structure": "assets/layers/6c1b508774068ceac1cd515e.webp",
+    "backgroundScale": 1
+  }
+}

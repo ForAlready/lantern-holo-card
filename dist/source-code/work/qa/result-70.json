@@ -1,0 +1,19 @@
+{
+  "id": "art-5e53e5ae8d86b9b5",
+  "sourceId": "1fySeuafgHcB1uMFCUYQjZHdzTmnzSIkE",
+  "sourceIndex": 70,
+  "name": "泡影海风",
+  "original": "Cache_59608eb4d684dab4.jpg",
+  "width": 1600,
+  "height": 969,
+  "ratio": 1.6511867905056758,
+  "legacy": false,
+  "thumbnail": "assets/layers/efc7953632a0d5d06ef9cdfa.webp",
+  "assets": {
+    "character": "assets/layers/22ccf64eabb7063d996f2861.webp",
+    "background": "assets/layers/ff30b4332b2350a93aed1c61.webp",
+    "ui": "assets/layers/1548a98685bece0985a72915.webp",
+    "structure": "assets/layers/d862cf0811af4426b02d4b0c.webp",
+    "backgroundScale": 1
+  }
+}

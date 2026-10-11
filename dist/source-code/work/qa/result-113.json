@@ -1,0 +1,19 @@
+{
+  "id": "art-cb3d3bb69a7acdb4",
+  "sourceId": "1YN9AYcWqG3YG6YvCYW6OlnXgTVPj-bo3",
+  "sourceIndex": 113,
+  "name": "蝶刃夜风",
+  "original": "BEAT.jpg",
+  "width": 1600,
+  "height": 1050,
+  "ratio": 1.5238095238095237,
+  "legacy": false,
+  "thumbnail": "assets/layers/5c557d3f7df75764b1e9f7e2.webp",
+  "assets": {
+    "character": "assets/layers/18ba89b350424000b012b331.webp",
+    "background": "assets/layers/3632ddaae6e1164c0e2ad811.webp",
+    "ui": "assets/layers/d5567beef5dadc546891f32a.webp",
+    "structure": "assets/layers/a0ed132337d58f853c0b0079.webp",
+    "backgroundScale": 1
+  }
+}

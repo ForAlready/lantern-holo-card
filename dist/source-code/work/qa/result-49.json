@@ -1,0 +1,19 @@
+{
+  "id": "art-41a4ebf0fae9f2ff",
+  "sourceId": "1VGG1W8DhTTnrSwL6uWoCG1fnCPwlrmzd",
+  "sourceIndex": 49,
+  "name": "鎏金舞台",
+  "original": "Cache_-2b2a1e19594afac6.jpg",
+  "width": 928,
+  "height": 1600,
+  "ratio": 0.58,
+  "legacy": false,
+  "thumbnail": "assets/layers/e7a2c41325aa968a2660f55e.webp",
+  "assets": {
+    "character": "assets/layers/5139937f0a5447c196752f4d.webp",
+    "background": "assets/layers/c70142751ab7424962b8cff8.webp",
+    "ui": "assets/layers/f360cce67dfd9f711273ccde.webp",
+    "structure": "assets/layers/dde995e503f03f91f8c3ba7c.webp",
+    "backgroundScale": 1
+  }
+}

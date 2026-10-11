@@ -1,0 +1,19 @@
+{
+  "id": "art-b27f5016dc137e6f",
+  "sourceId": "1NHm8MA3CLzCq4AVYPgOBIAZzPO5nQtZP",
+  "sourceIndex": 73,
+  "name": "蓝影轻语",
+  "original": "Cache_-61b80446e7a2952c.png",
+  "width": 1279,
+  "height": 1600,
+  "ratio": 0.799375,
+  "legacy": false,
+  "thumbnail": "assets/layers/1109b63d990d4bc0d88542f3.webp",
+  "assets": {
+    "character": "assets/layers/e7884cd57110320b01940a0c.webp",
+    "background": "assets/layers/c10a2ca4dbee7aecec9ea300.webp",
+    "ui": "assets/layers/f849e4aa78109b0757ee577a.webp",
+    "structure": "assets/layers/7e5f4096c41861915fe8187f.webp",
+    "backgroundScale": 1
+  }
+}

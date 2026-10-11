@@ -1,0 +1,19 @@
+{
+  "id": "art-da51a9b7fe0cb262",
+  "sourceId": "15NLEzHYY08PP5WubR2whaUqepWmQFtk1",
+  "sourceIndex": 19,
+  "name": "星环疾驰",
+  "original": "Cache_5f935763688b48ee.jpg",
+  "width": 1600,
+  "height": 450,
+  "ratio": 3.5555555555555554,
+  "legacy": false,
+  "thumbnail": "assets/layers/8e71c9e9d9b434d6ed1119cf.webp",
+  "assets": {
+    "character": "assets/layers/33671374ddd3d76763d49e57.webp",
+    "background": "assets/layers/1fd8613aa5fa1c7803dffe4a.webp",
+    "ui": "assets/layers/890a83bcb117e2ca6ed123bd.webp",
+    "structure": "assets/layers/29c6892beb0fc4286798eb6f.webp",
+    "backgroundScale": 1
+  }
+}

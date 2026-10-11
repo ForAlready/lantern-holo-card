@@ -1,0 +1,19 @@
+{
+  "id": "art-c170dcf8dc27cf90",
+  "sourceId": "1KadTjJAOYbJ_SCCW00g9qRqB_r7D8gJD",
+  "sourceIndex": 157,
+  "name": "星月软梦",
+  "original": "116612239_p0.jpg",
+  "width": 1600,
+  "height": 900,
+  "ratio": 1.7777777777777777,
+  "legacy": false,
+  "thumbnail": "assets/layers/6dd4958b8b00436cd0f095d5.webp",
+  "assets": {
+    "character": "assets/layers/ea0ae5b69111da37140d6573.webp",
+    "background": "assets/layers/cea39f11a70cdc6c08255c73.webp",
+    "ui": "assets/layers/e5748246b9c69b801ea12ca5.webp",
+    "structure": "assets/layers/e84601326c7b99cf8dae730b.webp",
+    "backgroundScale": 1
+  }
+}

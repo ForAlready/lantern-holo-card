@@ -1,0 +1,19 @@
+{
+  "index": 144,
+  "id": "1EYRRcb6AcpXQZ00QjVIPWtQ9xAa_qcCE",
+  "title": "Cache_272e97fad962dba7.png",
+  "name": "星河守望",
+  "width": 738,
+  "height": 1600,
+  "proxyPath": "work/layers/proxy-144.jpg",
+  "maskPath": "work/layers/mask-144.png",
+  "backgroundPath": "work/layers/background-144.png",
+  "subjectRect": [
+    0.46,
+    0.688,
+    0.095,
+    0.208
+  ],
+  "status": "needs-composite-review",
+  "notes": "SINGLE white standing wizard + inverted lake reflection mask. Background removes both. Surviving 1600px proxy used; full original unavailable, precision limited. Mask bbox registration required; tiny figure and reflection must remain at original positions."
+}

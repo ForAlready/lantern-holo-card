@@ -1,0 +1,34 @@
+[
+  {
+    "index": 1,
+    "id": "1GOPgXppao5AKwWRHxTIdqPVMMKZS5v_1",
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 2,
+    "id": "1E-MEiWyY_Qo94SKWfKfPqtKShDRv_ZTN",
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 3,
+    "id": "1zv64Daz_qRSuhajsiUDACsibrSJCn6ne",
+    "status": "excluded-safety",
+    "reason": "Sexualized youthful-looking characters; no editing or publication."
+  },
+  {
+    "index": 4,
+    "id": "1ayn7ZumYGXS-55w2xP3moqf-Y5ipALKa",
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 5,
+    "id": "1GozZG6iDH0xG247r5keEb0lK_JmOZWex",
+    "status": "generated-reviewed"
+  },
+  {
+    "index": 6,
+    "id": "1NEKZxWdNkj31HvtIJ9C16VpRi7JzsVu6",
+    "status": "excluded-safety",
+    "reason": "Sexualized youthful-looking characters; no editing or publication."
+  }
+]

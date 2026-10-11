@@ -1,0 +1,19 @@
+{
+  "id": "art-3a54ed80dfab7445",
+  "sourceId": "1eC4HZOeCM1Eks4eficLNBY8HqMjgU9XG",
+  "sourceIndex": 46,
+  "name": "蓝铃猫语",
+  "original": "Cache_-65ead4930e2c04ac(1).jpg",
+  "width": 1131,
+  "height": 1600,
+  "ratio": 0.706875,
+  "legacy": false,
+  "thumbnail": "assets/layers/632654b9b65bc93f448d90ce.webp",
+  "assets": {
+    "character": "assets/layers/c14121a2efc990a01b624c83.webp",
+    "background": "assets/layers/2e770285e7e049b327f6c233.webp",
+    "ui": "assets/layers/0022f387d24e568ae98d72c1.webp",
+    "structure": "assets/layers/6d4d6f6ef4c50d0c8e5f12d6.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "art-e2bc56b9a714ea30",
+  "sourceId": "16fC_dOxfeSC8kz4N_zvLDi39H1zoUVGE",
+  "sourceIndex": 77,
+  "name": "花语微光",
+  "original": "Cache_66d21e03b75072e4.jpg",
+  "width": 1080,
+  "height": 1600,
+  "ratio": 0.675,
+  "legacy": false,
+  "thumbnail": "assets/layers/d11c8ede692ccac6b37fe97d.webp",
+  "assets": {
+    "character": "assets/layers/51c9a994838e44bdb8bd6946.webp",
+    "background": "assets/layers/847ac95fa938d723c8cc21a1.webp",
+    "ui": "assets/layers/efd01e6e3720c74d54e1b2a6.webp",
+    "structure": "assets/layers/e4236847bcc911d2e904b61a.webp",
+    "backgroundScale": 1
+  }
+}

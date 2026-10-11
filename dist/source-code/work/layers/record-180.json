@@ -1,0 +1,21 @@
+{
+  "index": 180,
+  "id": "1vc7-_8Cvk7rYPFH8QflQrp_PdZ8QBres",
+  "name": "纸箱小憩",
+  "original": "70306105_p0_master1200.jpg",
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/originals/source-180",
+  "proxyPath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/work/layers/proxy-180.jpg",
+  "atlasPath": "work/layers/atlas-180.png",
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "width": 688,
+  "height": 1000,
+  "subjectRect": [
+    0.065,
+    0.03,
+    0.91,
+    0.967
+  ],
+  "status": "generated-reviewed",
+  "notes": "Background central figure/flag removed; distant background child retained, speech bubble retained. Mask includes bag and pole. Original RGB retains cap text."
+}

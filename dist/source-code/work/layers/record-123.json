@@ -1,0 +1,33 @@
+{
+  "index": 123,
+  "id": "1OdqzBQtTGs80wno6oM2RhD_8eiRtTwu9",
+  "title": "Cache_-65b36f295e1d8a64.jpg",
+  "name": "霓彩歌声",
+  "width": 3300,
+  "height": 5100,
+  "sourcePath": "/workspace/scratch/0de55bc31ee9/.sites-checkout/../originals/source-123",
+  "proxyPath": "work/layers/proxy-123.jpg",
+  "maskPath": "work/layers/mask-123-root-v1.png",
+  "backgroundPath": "work/layers/background-123-no-logo.png",
+  "status": "needs-composite-review",
+  "backgroundOriginalRects": [
+    [
+      0,
+      0.698,
+      0.355,
+      0.302
+    ],
+    [
+      0.81,
+      0.2,
+      0.19,
+      0.18
+    ],
+    [
+      0,
+      0,
+      0.15,
+      0.15
+    ]
+  ]
+}
