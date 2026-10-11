@@ -1,0 +1,20 @@
+{
+  "id": "art-37f0fad8795c6236",
+  "sourceId": "attachment:2c1375db284a7d79098d4f625cf5b25708262c232b8d0e959a8b9c42015b6324",
+  "sourceIndex": 249,
+  "sourceKind": "attachment",
+  "name": "樱下晴步",
+  "original": "9024C595D53FD08872691B9CFAE35C78.png",
+  "width": 964,
+  "height": 1448,
+  "ratio": 0.6657458563535912,
+  "legacy": false,
+  "thumbnail": "assets/layers/5b89beb4aefa74e06490a3d2.webp",
+  "assets": {
+    "character": "assets/layers/609cf0d686e2d1208954d28a.webp",
+    "background": "assets/layers/817f930016c6cd42acba9c30.webp",
+    "ui": "assets/layers/54d65af5332976ab31d37d04.webp",
+    "structure": "assets/layers/fa9dc3b836e19de076578c00.webp",
+    "backgroundScale": 1
+  }
+}

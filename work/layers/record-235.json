@@ -1,0 +1,24 @@
+{
+  "id": "attachment:0a5aebac74b11cea975c58446d6e6b27b8bd61d2db9ec7f09898176a7268b9a6",
+  "title": "E3561BEE18CBEA22277A40269D3E696B.png",
+  "mime_type": "image/png",
+  "size": 1296907,
+  "sourceKind": "attachment",
+  "index": 235,
+  "name": "暖绒晨光",
+  "sourcePath": "work/layers/upload-235.png",
+  "proxyPath": "work/layers/upload-235.png",
+  "origin": {
+    "id": "attachment:0a5aebac74b11cea975c58446d6e6b27b8bd61d2db9ec7f09898176a7268b9a6",
+    "title": "E3561BEE18CBEA22277A40269D3E696B.png",
+    "mime_type": "image/png",
+    "size": 1296907,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-235.png",
+  "maskPath": "work/layers/mask-235.png"
+}

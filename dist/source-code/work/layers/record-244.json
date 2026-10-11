@@ -1,0 +1,24 @@
+{
+  "id": "attachment:f48b730ebcb77dacd15d73a3fa3cf2bc20b5d4dce85024953abc2f661e833391",
+  "title": "5E984EDDF00BD0810DD622D096D2D88D.png",
+  "mime_type": "image/png",
+  "size": 205997,
+  "sourceKind": "attachment",
+  "index": 244,
+  "name": "碧波浮光",
+  "sourcePath": "work/layers/upload-244.png",
+  "proxyPath": "work/layers/upload-244.png",
+  "origin": {
+    "id": "attachment:f48b730ebcb77dacd15d73a3fa3cf2bc20b5d4dce85024953abc2f661e833391",
+    "title": "5E984EDDF00BD0810DD622D096D2D88D.png",
+    "mime_type": "image/png",
+    "size": 205997,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-244.png",
+  "maskPath": "work/layers/mask-244.png"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "art-3e2c8de65bdebf33",
+  "sourceId": "attachment:4b7ec06c02f68f810972d19824e621f348a3eb267c427289051ccd898510962c",
+  "sourceIndex": 240,
+  "sourceKind": "attachment",
+  "name": "晴空茶歇",
+  "original": "90505281892CD17965ED47E1E9EDF1A3.png",
+  "width": 1052,
+  "height": 1406,
+  "ratio": 0.748221906116643,
+  "legacy": false,
+  "thumbnail": "assets/layers/e916a303f9ff0615efa86a2f.webp",
+  "assets": {
+    "character": "assets/layers/68618cb54696a0afbcf2b99d.webp",
+    "background": "assets/layers/148b8dfad988f7f61a8484c9.webp",
+    "ui": "assets/layers/2b87476f93398f4fd2373b0c.webp",
+    "structure": "assets/layers/49f3b6ff0705727f26a9389d.webp",
+    "backgroundScale": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "attachment:0289e8086678752d1d0f1dfe0d030eaf960d8252abbfc263917a318e984654fa",
+  "title": "6D97A6DD35044B13AF8ACFA0A3671477.png",
+  "mime_type": "image/png",
+  "size": 784646,
+  "sourceKind": "attachment",
+  "index": 248,
+  "name": "窗畔春笺",
+  "sourcePath": "work/layers/upload-248.png",
+  "proxyPath": "work/layers/upload-248.png",
+  "origin": {
+    "id": "attachment:0289e8086678752d1d0f1dfe0d030eaf960d8252abbfc263917a318e984654fa",
+    "title": "6D97A6DD35044B13AF8ACFA0A3671477.png",
+    "mime_type": "image/png",
+    "size": 784646,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-248.png",
+  "maskPath": "work/layers/mask-248.png"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "art-6adb54ebdac494b2",
+  "sourceId": "attachment:ee0137b7fbde353ea3857c5544246a048b02affe872232930285d81b06e7ce9c",
+  "sourceIndex": 247,
+  "sourceKind": "attachment",
+  "name": "樱径微风",
+  "original": "A9F0DF06601FCE88711C8BF5128949C1.png",
+  "width": 964,
+  "height": 1448,
+  "ratio": 0.6657458563535912,
+  "legacy": false,
+  "thumbnail": "assets/layers/9cf342a31a1618c58755440c.webp",
+  "assets": {
+    "character": "assets/layers/d5bedce2c857d07f1a283b98.webp",
+    "background": "assets/layers/49c8f36bd1e6ea7520505730.webp",
+    "ui": "assets/layers/54d65af5332976ab31d37d04.webp",
+    "structure": "assets/layers/a81f2738e6b03ae0c0f95976.webp",
+    "backgroundScale": 1
+  }
+}

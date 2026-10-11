@@ -1,0 +1,24 @@
+{
+  "id": "attachment:ee0137b7fbde353ea3857c5544246a048b02affe872232930285d81b06e7ce9c",
+  "title": "A9F0DF06601FCE88711C8BF5128949C1.png",
+  "mime_type": "image/png",
+  "size": 726228,
+  "sourceKind": "attachment",
+  "index": 247,
+  "name": "樱径微风",
+  "sourcePath": "work/layers/upload-247.png",
+  "proxyPath": "work/layers/upload-247.png",
+  "origin": {
+    "id": "attachment:ee0137b7fbde353ea3857c5544246a048b02affe872232930285d81b06e7ce9c",
+    "title": "A9F0DF06601FCE88711C8BF5128949C1.png",
+    "mime_type": "image/png",
+    "size": 726228,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-247.png",
+  "maskPath": "work/layers/mask-247.png"
+}

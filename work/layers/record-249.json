@@ -1,0 +1,24 @@
+{
+  "id": "attachment:2c1375db284a7d79098d4f625cf5b25708262c232b8d0e959a8b9c42015b6324",
+  "title": "9024C595D53FD08872691B9CFAE35C78.png",
+  "mime_type": "image/png",
+  "size": 768234,
+  "sourceKind": "attachment",
+  "index": 249,
+  "name": "樱下晴步",
+  "sourcePath": "work/layers/upload-249.png",
+  "proxyPath": "work/layers/upload-249.png",
+  "origin": {
+    "id": "attachment:2c1375db284a7d79098d4f625cf5b25708262c232b8d0e959a8b9c42015b6324",
+    "title": "9024C595D53FD08872691B9CFAE35C78.png",
+    "mime_type": "image/png",
+    "size": 768234,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-249.png",
+  "maskPath": "work/layers/mask-249.png"
+}

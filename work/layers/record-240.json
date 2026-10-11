@@ -1,0 +1,26 @@
+{
+  "id": "attachment:4b7ec06c02f68f810972d19824e621f348a3eb267c427289051ccd898510962c",
+  "title": "90505281892CD17965ED47E1E9EDF1A3.png",
+  "mime_type": "image/png",
+  "size": 920538,
+  "sourceKind": "attachment",
+  "index": 240,
+  "name": "晴空茶歇",
+  "sourcePath": "work/layers/upload-240.png",
+  "proxyPath": "work/layers/upload-240.png",
+  "origin": {
+    "id": "attachment:4b7ec06c02f68f810972d19824e621f348a3eb267c427289051ccd898510962c",
+    "title": "90505281892CD17965ED47E1E9EDF1A3.png",
+    "mime_type": "image/png",
+    "size": 920538,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-240.png",
+  "maskPath": "work/layers/mask-240.png",
+  "originalUiMaskPath": "work/layers/ui-mask-240.svg",
+  "backgroundPath": "work/layers/background-240.png"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "art-60c7dc17ae4b947f",
+  "sourceId": "attachment:0a5aebac74b11cea975c58446d6e6b27b8bd61d2db9ec7f09898176a7268b9a6",
+  "sourceIndex": 235,
+  "sourceKind": "attachment",
+  "name": "暖绒晨光",
+  "original": "E3561BEE18CBEA22277A40269D3E696B.png",
+  "width": 720,
+  "height": 1280,
+  "ratio": 0.5625,
+  "legacy": false,
+  "thumbnail": "assets/layers/e8dea76282ec2db03805a8c1.webp",
+  "assets": {
+    "character": "assets/layers/59cb8d4b8a5e2fb7edf24f03.webp",
+    "background": "assets/layers/5fd8dd3812275c858f03b617.webp",
+    "ui": "assets/layers/b9b7e0d0d42cabaeee7e0798.webp",
+    "structure": "assets/layers/0025232fbbd359ed51cc0cff.webp",
+    "backgroundScale": 1
+  }
+}

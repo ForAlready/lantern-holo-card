@@ -37,3 +37,11 @@ Twenty uploaded files were reconciled: 16 processed into native-resolution layer
 The same public Site and GitHub repository receive the exact updated code, catalog and processed assets; the previous Site version remains available for rollback. Native asset decode/hash checks, source reconciliation, search by title and filename, original backs, responsive card geometry, collection virtualization, renderer lifecycle and HiDPI sizing are checked before publication.
 
 Final uploaded-import verification: 156 unique cards and 736 fully decoded, hash-verified referenced assets; all 140 existing records unchanged. Unused candidate assets were pruned.
+
+## 流光画卷与第二批上传 — 2026-10-11
+
+16 files reconciled: seven safe uploads become native-resolution cards, nine excluded for sexualized depictions of young or potentially underage characters. Total 163 cards (six original, 134 Drive, 23 attachments). Original RGB subjects, independently corrected segmentation masks, scene inpainting and a matching pastel café background are used. The Japanese poster lettering remains original pixels on the UI plane. Each new composite and subject/background plate is inspected; offline depth endpoint checks cover all new cards.
+
+Natural-aspect justified rows replace fixed preview frames. Layout/window tests at 280–1440px verify ratio, row bounds, no overlaps and keyboard neighbors for 1,000 records, with a maximum 34 mounted cards. The controller DOM contract harness verifies 1,000-record scrolling, filename search, filters, favorite SVG state and tour pause on manual/reduced-motion interaction. One delegated preview controller and one detail WebGL renderer remain. Glass floating navigation/filter controls, Lucide icons, detail transitions, live feedback and optional 28px/s native-scroll tour form the new interface. Wheel/touch/keyboard input, page backgrounding, detail opening and reduced motion stop the tour.
+
+Visual browser QA is unavailable in the managed Sites environment without control-browser. Native mobile gestures, permission dialogs, GPU output, glass rendering and smoothness are not claimed as real-device verified. Existing renderer lifecycle, physical-pixel sizing, card back and aspect geometry tests supplement the data/asset checks. Previous published version remains for rollback.

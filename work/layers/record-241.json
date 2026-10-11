@@ -1,0 +1,24 @@
+{
+  "id": "attachment:0298c74d8a136082c2dc19b41ca9bddbfaf1ff6bbe547038dab6ffbf3ae81ea2",
+  "title": "2A640F98D394D6C8A9F994656B000A71.png",
+  "mime_type": "image/png",
+  "size": 938868,
+  "sourceKind": "attachment",
+  "index": 241,
+  "name": "粉蓝春信",
+  "sourcePath": "work/layers/upload-241.png",
+  "proxyPath": "work/layers/upload-241.png",
+  "origin": {
+    "id": "attachment:0298c74d8a136082c2dc19b41ca9bddbfaf1ff6bbe547038dab6ffbf3ae81ea2",
+    "title": "2A640F98D394D6C8A9F994656B000A71.png",
+    "mime_type": "image/png",
+    "size": 938868,
+    "sourceKind": "attachment"
+  },
+  "layout": "side-by-side",
+  "panelSplit": 0.5,
+  "maxLongEdge": 2048,
+  "status": "generated-reviewed",
+  "atlasPath": "work/layers/atlas-241.png",
+  "maskPath": "work/layers/mask-241.png"
+}

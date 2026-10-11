@@ -1,0 +1,20 @@
+{
+  "id": "art-4d2a989dce79fb47",
+  "sourceId": "attachment:0289e8086678752d1d0f1dfe0d030eaf960d8252abbfc263917a318e984654fa",
+  "sourceIndex": 248,
+  "sourceKind": "attachment",
+  "name": "窗畔春笺",
+  "original": "6D97A6DD35044B13AF8ACFA0A3671477.png",
+  "width": 1022,
+  "height": 1536,
+  "ratio": 0.6653645833333334,
+  "legacy": false,
+  "thumbnail": "assets/layers/808757e0082b0e447a1212de.webp",
+  "assets": {
+    "character": "assets/layers/2aae39e51c13e904031210a6.webp",
+    "background": "assets/layers/091494b8e92f508349bcbe37.webp",
+    "ui": "assets/layers/011d3d1e7139320db67808d2.webp",
+    "structure": "assets/layers/c7a81529f1c12fedd8c456d2.webp",
+    "backgroundScale": 1
+  }
+}

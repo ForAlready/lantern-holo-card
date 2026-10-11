@@ -1,0 +1,20 @@
+{
+  "id": "art-b1985a3d4999dfd0",
+  "sourceId": "attachment:f48b730ebcb77dacd15d73a3fa3cf2bc20b5d4dce85024953abc2f661e833391",
+  "sourceIndex": 244,
+  "sourceKind": "attachment",
+  "name": "碧波浮光",
+  "original": "5E984EDDF00BD0810DD622D096D2D88D.png",
+  "width": 1024,
+  "height": 1536,
+  "ratio": 0.6666666666666666,
+  "legacy": false,
+  "thumbnail": "assets/layers/b8c9510cdc10e99f99a6e600.webp",
+  "assets": {
+    "character": "assets/layers/ce72794de609fa20d7f66f12.webp",
+    "background": "assets/layers/5e4b8ff74d97d779ab575334.webp",
+    "ui": "assets/layers/05a465b239a9c2f94069fe1b.webp",
+    "structure": "assets/layers/587b2873f80fd3c03c4ff9d1.webp",
+    "backgroundScale": 1
+  }
+}

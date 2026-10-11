@@ -1,0 +1,20 @@
+{
+  "id": "art-d83a5ffee8d3ceed",
+  "sourceId": "attachment:0298c74d8a136082c2dc19b41ca9bddbfaf1ff6bbe547038dab6ffbf3ae81ea2",
+  "sourceIndex": 241,
+  "sourceKind": "attachment",
+  "name": "粉蓝春信",
+  "original": "2A640F98D394D6C8A9F994656B000A71.png",
+  "width": 800,
+  "height": 1200,
+  "ratio": 0.6666666666666666,
+  "legacy": false,
+  "thumbnail": "assets/layers/15300299112cd1b61ecefbe3.webp",
+  "assets": {
+    "character": "assets/layers/25f2e0121b06f591211ee816.webp",
+    "background": "assets/layers/850eb7c94281a10b8a681298.webp",
+    "ui": "assets/layers/23f3fe458e9e789c236bd5e3.webp",
+    "structure": "assets/layers/c25960cfbfbf5e0f38989843.webp",
+    "backgroundScale": 1
+  }
+}

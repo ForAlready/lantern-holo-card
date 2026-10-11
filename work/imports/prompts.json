@@ -104,6 +104,86 @@
     {
       "index": 233,
       "prompt": "Transform this exact attached original into a single full-frame segmentation mask. The complete seated woman with hair, face, clothing, coat, arms, hands, BOTH legs and shoes. Exclude rooftops, lanterns, petals and city. Paint every selected subject pixel solid WHITE and every background pixel solid BLACK. This is a tracing operation: do not recompose or redraw the scene. The exact original subject position, silhouette, proportions, canvas edges, crop and aspect ratio MUST be unchanged. White silhouette must overlay the original perfectly, including interior gaps, hair wisps and cropped edges. Do not center, shrink, enlarge, crop, add margins, labels, split panels or add grayscale detail inside the silhouette. Single black and white mask image at original composition; antialias only silhouette edges."
+    },
+    {
+      "index": 235,
+      "type": "atlas",
+      "prompt": "Use case: precise-object-edit. Input is edit target. Output a technical two-panel atlas: LEFT is a full-frame clean background plate, RIGHT is a full-frame grayscale segmentation mask. Each panel has exactly the ORIGINAL image's aspect ratio and coordinate composition, no crop, no reposition or zoom. LEFT remove the entire person, hair, clothing and accessories, inpaint all covered scene. Reconstruct the original scene behind the person faithfully, preserving perspective, lighting and all text/signatures. RIGHT solid WHITE silhouette covering every original person pixel including entire face, eyes, hair, hands, clothing and attached accessories. Solid BLACK actual background, gaps between limbs, scene objects and text. No internal facial features or gray clothing detail. Feather only a tiny antialias edge. No labels or divider. Align the mask with original pixels exactly."
+    },
+    {
+      "index": 240,
+      "type": "atlas",
+      "prompt": "Use case: precise-object-edit. Input is edit target. Output a technical two-panel atlas: LEFT is a full-frame clean background plate, RIGHT is a full-frame grayscale segmentation mask. Each panel has exactly the ORIGINAL image's aspect ratio and coordinate composition, no crop, no reposition or zoom. LEFT remove the entire person, hair, clothing and accessories, inpaint all covered scene. Reconstruct the original scene behind the person faithfully, preserving perspective, lighting and all text/signatures. RIGHT solid WHITE silhouette covering every original person pixel including entire face, eyes, hair, hands, clothing and attached accessories. Solid BLACK actual background, gaps between limbs, scene objects and text. No internal facial features or gray clothing detail. Feather only a tiny antialias edge. No labels or divider. Align the mask with original pixels exactly."
+    },
+    {
+      "index": 241,
+      "type": "atlas",
+      "prompt": "Use case: precise-object-edit. Input is edit target. Output a technical two-panel atlas: LEFT is a full-frame clean background plate, RIGHT is a full-frame grayscale segmentation mask. Each panel has exactly the ORIGINAL image's aspect ratio and coordinate composition, no crop, no reposition or zoom. LEFT remove the entire person, hair, clothing and accessories, inpaint all covered scene. Replace plain pink backdrop with a softly lit pastel café interior, restrained blush and pale blue palette, natural daylight, empty scene. RIGHT solid WHITE silhouette covering every original person pixel including entire face, eyes, hair, hands, clothing and attached accessories. Solid BLACK actual background, gaps between limbs, scene objects and text. No internal facial features or gray clothing detail. Feather only a tiny antialias edge. No labels or divider. Align the mask with original pixels exactly."
+    },
+    {
+      "index": 244,
+      "type": "atlas",
+      "prompt": "Use case: precise-object-edit. Input is edit target. Output a technical two-panel atlas: LEFT is a full-frame clean background plate, RIGHT is a full-frame grayscale segmentation mask. Each panel has exactly the ORIGINAL image's aspect ratio and coordinate composition, no crop, no reposition or zoom. LEFT remove the entire person, hair, clothing and accessories, inpaint all covered scene. Reconstruct the original scene behind the person faithfully, preserving perspective, lighting and all text/signatures. RIGHT solid WHITE silhouette covering every original person pixel including entire face, eyes, hair, hands, clothing and attached accessories. Solid BLACK actual background, gaps between limbs, scene objects and text. No internal facial features or gray clothing detail. Feather only a tiny antialias edge. No labels or divider. Align the mask with original pixels exactly."
+    },
+    {
+      "index": 247,
+      "type": "atlas",
+      "prompt": "Use case: precise-object-edit. Input is edit target. Output a technical two-panel atlas: LEFT is a full-frame clean background plate, RIGHT is a full-frame grayscale segmentation mask. Each panel has exactly the ORIGINAL image's aspect ratio and coordinate composition, no crop, no reposition or zoom. LEFT remove the entire person, hair, clothing and accessories, inpaint all covered scene. Reconstruct the original scene behind the person faithfully, preserving perspective, lighting and all text/signatures. RIGHT solid WHITE silhouette covering every original person pixel including entire face, eyes, hair, hands, clothing and attached accessories. Solid BLACK actual background, gaps between limbs, scene objects and text. No internal facial features or gray clothing detail. Feather only a tiny antialias edge. No labels or divider. Align the mask with original pixels exactly."
+    },
+    {
+      "index": 248,
+      "type": "atlas",
+      "prompt": "Use case: precise-object-edit. Input is edit target. Output a technical two-panel atlas: LEFT is a full-frame clean background plate, RIGHT is a full-frame grayscale segmentation mask. Each panel has exactly the ORIGINAL image's aspect ratio and coordinate composition, no crop, no reposition or zoom. LEFT remove the entire person, hair, clothing and accessories, inpaint all covered scene. Reconstruct the original scene behind the person faithfully, preserving perspective, lighting and all text/signatures. RIGHT solid WHITE silhouette covering every original person pixel including entire face, eyes, hair, hands, clothing and attached accessories. Solid BLACK actual background, gaps between limbs, scene objects and text. No internal facial features or gray clothing detail. Feather only a tiny antialias edge. No labels or divider. Align the mask with original pixels exactly."
+    },
+    {
+      "index": 249,
+      "type": "atlas",
+      "prompt": "Use case: precise-object-edit. Input is edit target. Output a technical two-panel atlas: LEFT is a full-frame clean background plate, RIGHT is a full-frame grayscale segmentation mask. Each panel has exactly the ORIGINAL image's aspect ratio and coordinate composition, no crop, no reposition or zoom. LEFT remove the entire person, hair, clothing and accessories, inpaint all covered scene. Reconstruct the original scene behind the person faithfully, preserving perspective, lighting and all text/signatures. RIGHT solid WHITE silhouette covering every original person pixel including entire face, eyes, hair, hands, clothing and attached accessories. Solid BLACK actual background, gaps between limbs, scene objects and text. No internal facial features or gray clothing detail. Feather only a tiny antialias edge. No labels or divider. Align the mask with original pixels exactly."
+    },
+    {
+      "index": 235,
+      "type": "mask",
+      "prompt": "Use case: background-extraction. Technical segmentation matte of input image ONLY, not artwork. EXACT SAME full-frame portrait aspect ratio and framing as input. Trace every original person pixel at its exact source coordinate. Solid WHITE entire person, complete hair and head/hood, all facial area with NO facial features, all visible hands, arms, legs, clothing, shoes, worn and held accessories. Solid BLACK actual background, gaps between arms and body and between hair strands, detached furniture, water, scene objects, all text. No gray interior details, no scene, no crop, no zoom, no reposition, no margin. Slight antialiasing only on exact silhouette edges. Ensure the top of head is at its original height and no part is arbitrarily truncated. This mask will cut the ORIGINAL RGB pixels so coordinate alignment is essential."
+    },
+    {
+      "index": 240,
+      "type": "mask",
+      "prompt": "Use case: background-extraction. Technical segmentation matte of input image ONLY, not artwork. EXACT SAME full-frame portrait aspect ratio and framing as input. Trace every original person pixel at its exact source coordinate. Solid WHITE entire person, complete hair and head/hood, all facial area with NO facial features, all visible hands, arms, legs, clothing, shoes, worn and held accessories. Solid BLACK actual background, gaps between arms and body and between hair strands, detached furniture, water, scene objects, all text. No gray interior details, no scene, no crop, no zoom, no reposition, no margin. Slight antialiasing only on exact silhouette edges. Ensure the top of head is at its original height and no part is arbitrarily truncated. This mask will cut the ORIGINAL RGB pixels so coordinate alignment is essential."
+    },
+    {
+      "index": 241,
+      "type": "mask",
+      "prompt": "Use case: background-extraction. Technical segmentation matte of input image ONLY, not artwork. EXACT SAME full-frame portrait aspect ratio and framing as input. Trace every original person pixel at its exact source coordinate. Solid WHITE entire person, complete hair and head/hood, all facial area with NO facial features, all visible hands, arms, legs, clothing, shoes, worn and held accessories. Solid BLACK actual background, gaps between arms and body and between hair strands, detached furniture, water, scene objects, all text. No gray interior details, no scene, no crop, no zoom, no reposition, no margin. Slight antialiasing only on exact silhouette edges. Ensure the top of head is at its original height and no part is arbitrarily truncated. This mask will cut the ORIGINAL RGB pixels so coordinate alignment is essential."
+    },
+    {
+      "index": 244,
+      "type": "mask",
+      "prompt": "Use case: background-extraction. Technical segmentation matte of input image ONLY, not artwork. EXACT SAME full-frame portrait aspect ratio and framing as input. Trace every original person pixel at its exact source coordinate. Solid WHITE entire person, complete hair and head/hood, all facial area with NO facial features, all visible hands, arms, legs, clothing, shoes, worn and held accessories. Solid BLACK actual background, gaps between arms and body and between hair strands, detached furniture, water, scene objects, all text. No gray interior details, no scene, no crop, no zoom, no reposition, no margin. Slight antialiasing only on exact silhouette edges. Ensure the top of head is at its original height and no part is arbitrarily truncated. This mask will cut the ORIGINAL RGB pixels so coordinate alignment is essential."
+    },
+    {
+      "index": 247,
+      "type": "mask",
+      "prompt": "Use case: background-extraction. Technical segmentation matte of input image ONLY, not artwork. EXACT SAME full-frame portrait aspect ratio and framing as input. Trace every original person pixel at its exact source coordinate. Solid WHITE entire person, complete hair and head/hood, all facial area with NO facial features, all visible hands, arms, legs, clothing, shoes, worn and held accessories. Solid BLACK actual background, gaps between arms and body and between hair strands, detached furniture, water, scene objects, all text. No gray interior details, no scene, no crop, no zoom, no reposition, no margin. Slight antialiasing only on exact silhouette edges. Ensure the top of head is at its original height and no part is arbitrarily truncated. This mask will cut the ORIGINAL RGB pixels so coordinate alignment is essential."
+    },
+    {
+      "index": 248,
+      "type": "mask",
+      "prompt": "Use case: background-extraction. Technical segmentation matte of input image ONLY, not artwork. EXACT SAME full-frame portrait aspect ratio and framing as input. Trace every original person pixel at its exact source coordinate. Solid WHITE entire person, complete hair and head/hood, all facial area with NO facial features, all visible hands, arms, legs, clothing, shoes, worn and held accessories. Solid BLACK actual background, gaps between arms and body and between hair strands, detached furniture, water, scene objects, all text. No gray interior details, no scene, no crop, no zoom, no reposition, no margin. Slight antialiasing only on exact silhouette edges. Ensure the top of head is at its original height and no part is arbitrarily truncated. This mask will cut the ORIGINAL RGB pixels so coordinate alignment is essential."
+    },
+    {
+      "index": 249,
+      "type": "mask",
+      "prompt": "Use case: background-extraction. Technical segmentation matte of input image ONLY, not artwork. EXACT SAME full-frame portrait aspect ratio and framing as input. Trace every original person pixel at its exact source coordinate. Solid WHITE entire person, complete hair and head/hood, all facial area with NO facial features, all visible hands, arms, legs, clothing, shoes, worn and held accessories. Solid BLACK actual background, gaps between arms and body and between hair strands, detached furniture, water, scene objects, all text. No gray interior details, no scene, no crop, no zoom, no reposition, no margin. Slight antialiasing only on exact silhouette edges. Ensure the top of head is at its original height and no part is arbitrarily truncated. This mask will cut the ORIGINAL RGB pixels so coordinate alignment is essential."
+    },
+    {
+      "index": 240,
+      "type": "background",
+      "prompt": "Use case: precise-object-edit. Edit target original illustration. Output ONLY a full-frame clean background plate, SAME portrait ratio and camera framing. Remove the entire woman, all hair, clothing, hands and attached accessories. Remove ALL Japanese text and arrow marks from the left white panel, leaving a completely blank white panel. Inpaint sky/clouds and countertop behind her, retain the faucet, countertop, sky and blank left white column at original coordinates. No people, body fragments, ghost silhouettes, text or arrows anywhere. Exact original composition and lighting. This will be behind the unchanged original foreground."
+    },
+    {
+      "index": 248,
+      "type": "mask",
+      "prompt": "Use case: background-extraction. Output ONLY a binary segmentation matte of this original image, at precisely its full portrait aspect ratio and exact original coordinates without any zoom or cropping. Solid white on the girl ONLY: hair, face, hands, all clothing, skirt, legs. Entire face white without facial details. Solid black on ALL furniture including desk/tabletop, chair, chair legs and metal desk/chair bars, and all remaining scenery/gaps. Carefully exclude the desk surface below her forearms and the metal bars in front of her thighs. Retain only person pixels, no internal gray texture; antialias edge only. Exact source coordinate alignment is essential."
     }
   ]
 }
